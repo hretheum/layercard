@@ -8,8 +8,7 @@ and lock back together into the card, with your contact underneath. Anyone who h
 it to the next person from their own phone.
 
 It ran live as the author's business card at Figma Maker Collective in Warsaw on 17 November 2026
-(hretheum.com/k). The code here is the state from that day. No licence granted yet: you may read and
-run it, ask before reusing it.
+(hretheum.com/k). The code here is the state from that day.
 
 ## How it works
 
@@ -70,6 +69,13 @@ temporary tunnel, for example `cloudflared tunnel --url http://localhost:8787`.
 - `apps/card/checks/e2e.mjs` — host and guest in headless Chrome with a fake camera made from the host
   screen; the guest must track the marker and land on the card.
 - `apps/card/checks/fallbacks.mjs` — link without a room, stale room, busy host, refused camera.
+
+## Licence
+
+MIT, see `LICENSE`: use it, change it, sell it, ship it, as long as the copyright notice with my name
+stays with the code. If you build a card or anything else on it, a line like "card format by
+Eryk Orłowski (hretheum.com)" is appreciated. Third-party code and fonts keep their own licences
+(listed below).
 
 ## Credits
 

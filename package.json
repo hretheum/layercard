@@ -14,5 +14,7 @@
   "devDependencies": {
     "@resvg/resvg-js": "^2.6.2",
     "qrcode": "^1.5.4"
-  }
+  },
+  "license": "MIT",
+  "author": "Eryk Or\u0142owski (https://hretheum.com)"
 }
