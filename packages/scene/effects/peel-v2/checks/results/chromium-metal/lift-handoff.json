@@ -1,0 +1,99 @@
+{
+  "samplesPerLayer": 106,
+  "layers": [
+    {
+      "id": "contact",
+      "printGoneAt": 0.25,
+      "sheetOneGapUpAt": 0.29,
+      "sheetHeightWhenPrintGone": 0.0844,
+      "framesWithPrintAndSheetAGapUp": 0
+    },
+    {
+      "id": "role",
+      "printGoneAt": 0.25,
+      "sheetOneGapUpAt": 0.32,
+      "sheetHeightWhenPrintGone": 0.0718,
+      "framesWithPrintAndSheetAGapUp": 0
+    },
+    {
+      "id": "name",
+      "printGoneAt": 0.25,
+      "sheetOneGapUpAt": 0.35,
+      "sheetHeightWhenPrintGone": 0.0592,
+      "framesWithPrintAndSheetAGapUp": 0
+    },
+    {
+      "id": "mark",
+      "printGoneAt": 0.25,
+      "sheetOneGapUpAt": 0.41,
+      "sheetHeightWhenPrintGone": 0.0465,
+      "framesWithPrintAndSheetAGapUp": 0
+    },
+    {
+      "id": "grid",
+      "printGoneAt": 0.25,
+      "sheetOneGapUpAt": 0.51,
+      "sheetHeightWhenPrintGone": 0.0339,
+      "framesWithPrintAndSheetAGapUp": 0
+    },
+    {
+      "id": "bg",
+      "printGoneAt": 0.25,
+      "sheetOneGapUpAt": null,
+      "sheetHeightWhenPrintGone": 0.0212,
+      "framesWithPrintAndSheetAGapUp": 0
+    }
+  ],
+  "views": {
+    "frontal": {
+      "cornerErrorCssPx": {
+        "contact": 0.2318,
+        "role": 0.2937,
+        "name": 0.2814,
+        "mark": 0.251,
+        "grid": 0.0465,
+        "bg": 0.0465
+      },
+      "worstCornerCssPx": 0.2937,
+      "firstSheetDrawnBox": [
+        146,
+        472,
+        244,
+        482
+      ],
+      "firstSheetProjectedRect": [
+        146.76,
+        472.81,
+        243.24,
+        481.38
+      ],
+      "drawnBoxErrorCssPx": 0.809,
+      "sheetOpacityAt80ms": 1
+    },
+    "off-axis 35": {
+      "cornerErrorCssPx": {
+        "contact": 0.2416,
+        "role": 0.3056,
+        "name": 0.2931,
+        "mark": 0.2613,
+        "grid": 0.0427,
+        "bg": 0.0427
+      },
+      "worstCornerCssPx": 0.3056,
+      "firstSheetDrawnBox": [
+        154,
+        470,
+        234,
+        484
+      ],
+      "firstSheetProjectedRect": [
+        153.87,
+        470.88,
+        233.02,
+        483.82
+      ],
+      "drawnBoxErrorCssPx": 0.984,
+      "sheetOpacityAt80ms": 1
+    }
+  }
+}

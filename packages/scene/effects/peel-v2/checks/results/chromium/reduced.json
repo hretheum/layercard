@@ -1,0 +1,51 @@
+{
+  "host": {
+    "moved": 0,
+    "scaled": 0,
+    "acrylic": 0,
+    "opOut": 0,
+    "tiltChangesFrame": false,
+    "sweepOn": false
+  },
+  "guest": {
+    "unanchored": {
+      "drift": 0,
+      "overshoot": 0,
+      "opDown": 0,
+      "frameMoved": 0,
+      "assembleLifted": 0,
+      "assembleAcrylic": 0,
+      "sweepOn": false,
+      "end": {
+        "mad": 7.595090533479159e-7,
+        "max": 1,
+        "over8": 0,
+        "n": 1316640
+      }
+    },
+    "anchored": {
+      "drift": 0,
+      "overshoot": 0,
+      "opDown": 0,
+      "frameMoved": 0,
+      "assembleLifted": 0,
+      "assembleAcrylic": 0,
+      "sweepOn": false,
+      "end": {
+        "mad": 7.595090533479159e-7,
+        "max": 1,
+        "over8": 0,
+        "n": 1316640
+      }
+    }
+  },
+  "durations": {
+    "idle": 0,
+    "connect": 0.8,
+    "depart": 6.1000000000000005,
+    "rebuild": 1.5,
+    "explode": 6.1000000000000005,
+    "fly": 1.2,
+    "assemble": 1
+  }
+}

@@ -1,0 +1,2008 @@
+{
+  "poses": 16,
+  "textPx": 12,
+  "roomIdenticalAcrossPoses": true,
+  "layoutSpread": 0,
+  "worstCornerErrorCardUnits": 2.37e-7,
+  "worstCornerErrorCssPx": 0.0001,
+  "room": [
+    {
+      "id": "bg",
+      "kind": 0,
+      "x": 0,
+      "y": 0,
+      "z": -3,
+      "yaw": 0,
+      "scale": 6,
+      "side": 0
+    },
+    {
+      "id": "grid",
+      "kind": 1,
+      "x": 0,
+      "y": 0,
+      "z": -2,
+      "yaw": 0,
+      "scale": 5,
+      "side": 0
+    },
+    {
+      "id": "mark",
+      "kind": 2,
+      "x": -0.85,
+      "y": 2.8,
+      "z": 0.2,
+      "yaw": 0.3839724354387525,
+      "scale": 3.9,
+      "side": -1
+    },
+    {
+      "id": "name",
+      "kind": 2,
+      "x": 0.85,
+      "y": -1.6666666666666665,
+      "z": 0.539079560122032,
+      "yaw": -0.3839724354387525,
+      "scale": 3.9,
+      "side": 1
+    },
+    {
+      "id": "role",
+      "kind": 2,
+      "x": -0.85,
+      "y": -2.5333333333333328,
+      "z": 0.2,
+      "yaw": 0.3839724354387525,
+      "scale": 3.9,
+      "side": -1
+    },
+    {
+      "id": "contact",
+      "kind": 2,
+      "x": 0.85,
+      "y": -3.1666666666666656,
+      "z": 0.2,
+      "yaw": -0.3839724354387525,
+      "scale": 3.9,
+      "side": 1
+    }
+  ],
+  "columns": {
+    "x0": -0.3833581173438234,
+    "pitch": 0.1985286109014862,
+    "width": 0.1727852870015973,
+    "found": true,
+    "alpha": 1,
+    "grow": 1.1,
+    "visible": true
+  },
+  "views": [
+    {
+      "pose": {
+        "yawDeg": 0,
+        "pitchDeg": 0,
+        "cm": 30
+      },
+      "phoneInFrame": true,
+      "sheetsInFrame": 5,
+      "sheetsCrossingEdge": 5,
+      "largestSheetCardWidths": 6,
+      "labelsShown": 5,
+      "labelOverlaps": 0,
+      "labelsOutsideCanvas": 0,
+      "sheetsInFrameWithoutLabel": [],
+      "guidesDrawn": 24,
+      "guidesPastFrameEdge": 7,
+      "distanceCm": 30,
+      "rowNextBelowPhone": {
+        "ids": [
+          "name"
+        ],
+        "insideTopToBottom": 1,
+        "visibleShareOfSheet": 0.447
+      },
+      "rowNextAbovePhone": {
+        "ids": [
+          "mark"
+        ],
+        "insideTopToBottom": 0.435,
+        "visibleShareOfSheet": 0.207
+      },
+      "labelsOnOtherSheets": [
+        {
+          "id": "bg",
+          "on": [
+            "mark"
+          ]
+        },
+        {
+          "id": "grid",
+          "on": [
+            "mark"
+          ]
+        }
+      ],
+      "distanceLabelOnSheets": [],
+      "sheets": [
+        {
+          "id": "bg",
+          "on": true,
+          "kind": 0,
+          "roomY": 0,
+          "widthUnits": 6,
+          "visibleShareOfCanvas": 1,
+          "visibleShareOfSheet": 0.453,
+          "insideTopToBottom": 0.647,
+          "inFrame": true,
+          "crossesEdge": true
+        },
+        {
+          "id": "grid",
+          "on": true,
+          "kind": 1,
+          "roomY": 0,
+          "widthUnits": 5,
+          "visibleShareOfCanvas": 1,
+          "visibleShareOfSheet": 0.485,
+          "insideTopToBottom": 0.647,
+          "inFrame": true,
+          "crossesEdge": true
+        },
+        {
+          "id": "mark",
+          "on": true,
+          "kind": 2,
+          "roomY": 2.8,
+          "widthUnits": 3,
+          "visibleShareOfCanvas": 0.1755,
+          "visibleShareOfSheet": 0.207,
+          "insideTopToBottom": 0.435,
+          "inFrame": true,
+          "crossesEdge": true
+        },
+        {
+          "id": "name",
+          "on": true,
+          "kind": 2,
+          "roomY": -1.6666666666666665,
+          "widthUnits": 3,
+          "visibleShareOfCanvas": 0.1121,
+          "visibleShareOfSheet": 0.447,
+          "insideTopToBottom": 1,
+          "inFrame": true,
+          "crossesEdge": true
+        },
+        {
+          "id": "role",
+          "on": true,
+          "kind": 2,
+          "roomY": -2.5333333333333328,
+          "widthUnits": 3,
+          "visibleShareOfCanvas": 0.0244,
+          "visibleShareOfSheet": 0.287,
+          "insideTopToBottom": 0.647,
+          "inFrame": true,
+          "crossesEdge": true
+        },
+        {
+          "id": "contact",
+          "on": true,
+          "kind": 2,
+          "roomY": -3.1666666666666656,
+          "widthUnits": 3,
+          "visibleShareOfCanvas": 0,
+          "visibleShareOfSheet": 0,
+          "insideTopToBottom": 0,
+          "inFrame": false,
+          "crossesEdge": false
+        }
+      ]
+    },
+    {
+      "pose": {
+        "yawDeg": 0,
+        "pitchDeg": 0,
+        "cm": 47
+      },
+      "phoneInFrame": true,
+      "sheetsInFrame": 6,
+      "sheetsCrossingEdge": 6,
+      "largestSheetCardWidths": 6,
+      "labelsShown": 6,
+      "labelOverlaps": 0,
+      "labelsOutsideCanvas": 0,
+      "sheetsInFrameWithoutLabel": [],
+      "guidesDrawn": 24,
+      "guidesPastFrameEdge": 10,
+      "distanceCm": 47,
+      "rowNextBelowPhone": {
+        "ids": [
+          "name"
+        ],
+        "insideTopToBottom": 1,
+        "visibleShareOfSheet": 0.728
+      },
+      "rowNextAbovePhone": {
+        "ids": [
+          "mark"
+        ],
+        "insideTopToBottom": 0.878,
+        "visibleShareOfSheet": 0.677
+      },
+      "labelsOnOtherSheets": [
+        {
+          "id": "bg",
+          "on": [
+            "mark"
+          ]
+        },
+        {
+          "id": "grid",
+          "on": [
+            "mark"
+          ]
+        }
+      ],
+      "distanceLabelOnSheets": [],
+      "sheets": [
+        {
+          "id": "bg",
+          "on": true,
+          "kind": 0,
+          "roomY": 0,
+          "widthUnits": 6,
+          "visibleShareOfCanvas": 1,
+          "visibleShareOfSheet": 0.806,
+          "insideTopToBottom": 0.882,
+          "inFrame": true,
+          "crossesEdge": true
+        },
+        {
+          "id": "grid",
+          "on": true,
+          "kind": 1,
+          "roomY": 0,
+          "widthUnits": 5,
+          "visibleShareOfCanvas": 1,
+          "visibleShareOfSheet": 0.934,
+          "insideTopToBottom": 0.882,
+          "inFrame": true,
+          "crossesEdge": true
+        },
+        {
+          "id": "mark",
+          "on": true,
+          "kind": 2,
+          "roomY": 2.8,
+          "widthUnits": 3,
+          "visibleShareOfCanvas": 0.214,
+          "visibleShareOfSheet": 0.677,
+          "insideTopToBottom": 0.878,
+          "inFrame": true,
+          "crossesEdge": true
+        },
+        {
+          "id": "name",
+          "on": true,
+          "kind": 2,
+          "roomY": -1.6666666666666665,
+          "widthUnits": 3,
+          "visibleShareOfCanvas": 0.0629,
+          "visibleShareOfSheet": 0.728,
+          "insideTopToBottom": 1,
+          "inFrame": true,
+          "crossesEdge": true
+        },
+        {
+          "id": "role",
+          "on": true,
+          "kind": 2,
+          "roomY": -2.5333333333333328,
+          "widthUnits": 3,
+          "visibleShareOfCanvas": 0.0242,
+          "visibleShareOfSheet": 0.766,
+          "insideTopToBottom": 1,
+          "inFrame": true,
+          "crossesEdge": true
+        },
+        {
+          "id": "contact",
+          "on": true,
+          "kind": 2,
+          "roomY": -3.1666666666666656,
+          "widthUnits": 3,
+          "visibleShareOfCanvas": 0.0215,
+          "visibleShareOfSheet": 0.766,
+          "insideTopToBottom": 1,
+          "inFrame": true,
+          "crossesEdge": true
+        }
+      ]
+    },
+    {
+      "pose": {
+        "yawDeg": 0,
+        "pitchDeg": 0,
+        "cm": 60
+      },
+      "phoneInFrame": true,
+      "sheetsInFrame": 6,
+      "sheetsCrossingEdge": 4,
+      "largestSheetCardWidths": 6,
+      "labelsShown": 6,
+      "labelOverlaps": 0,
+      "labelsOutsideCanvas": 0,
+      "sheetsInFrameWithoutLabel": [],
+      "guidesDrawn": 24,
+      "guidesPastFrameEdge": 12,
+      "distanceCm": 60,
+      "rowNextBelowPhone": {
+        "ids": [
+          "name"
+        ],
+        "insideTopToBottom": 1,
+        "visibleShareOfSheet": 0.933
+      },
+      "rowNextAbovePhone": {
+        "ids": [
+          "mark"
+        ],
+        "insideTopToBottom": 1,
+        "visibleShareOfSheet": 0.97
+      },
+      "labelsOnOtherSheets": [
+        {
+          "id": "bg",
+          "on": [
+            "mark"
+          ]
+        }
+      ],
+      "distanceLabelOnSheets": [],
+      "sheets": [
+        {
+          "id": "bg",
+          "on": true,
+          "kind": 0,
+          "roomY": 0,
+          "widthUnits": 6,
+          "visibleShareOfCanvas": 0.8737,
+          "visibleShareOfSheet": 1,
+          "insideTopToBottom": 1,
+          "inFrame": true,
+          "crossesEdge": false
+        },
+        {
+          "id": "grid",
+          "on": true,
+          "kind": 1,
+          "roomY": 0,
+          "widthUnits": 5,
+          "visibleShareOfCanvas": 0.7271,
+          "visibleShareOfSheet": 1,
+          "insideTopToBottom": 1,
+          "inFrame": true,
+          "crossesEdge": false
+        },
+        {
+          "id": "mark",
+          "on": true,
+          "kind": 2,
+          "roomY": 2.8,
+          "widthUnits": 3,
+          "visibleShareOfCanvas": 0.1824,
+          "visibleShareOfSheet": 0.97,
+          "insideTopToBottom": 1,
+          "inFrame": true,
+          "crossesEdge": true
+        },
+        {
+          "id": "name",
+          "on": true,
+          "kind": 2,
+          "roomY": -1.6666666666666665,
+          "widthUnits": 3,
+          "visibleShareOfCanvas": 0.0467,
+          "visibleShareOfSheet": 0.933,
+          "insideTopToBottom": 1,
+          "inFrame": true,
+          "crossesEdge": true
+        },
+        {
+          "id": "role",
+          "on": true,
+          "kind": 2,
+          "roomY": -2.5333333333333328,
+          "widthUnits": 3,
+          "visibleShareOfCanvas": 0.0182,
+          "visibleShareOfSheet": 0.97,
+          "insideTopToBottom": 1,
+          "inFrame": true,
+          "crossesEdge": true
+        },
+        {
+          "id": "contact",
+          "on": true,
+          "kind": 2,
+          "roomY": -3.1666666666666656,
+          "widthUnits": 3,
+          "visibleShareOfCanvas": 0.0162,
+          "visibleShareOfSheet": 0.97,
+          "insideTopToBottom": 1,
+          "inFrame": true,
+          "crossesEdge": true
+        }
+      ]
+    },
+    {
+      "pose": {
+        "yawDeg": 20,
+        "pitchDeg": 0,
+        "cm": 47
+      },
+      "phoneInFrame": true,
+      "sheetsInFrame": 6,
+      "sheetsCrossingEdge": 6,
+      "largestSheetCardWidths": 6,
+      "labelsShown": 6,
+      "labelOverlaps": 0,
+      "labelsOutsideCanvas": 0,
+      "sheetsInFrameWithoutLabel": [],
+      "guidesDrawn": 24,
+      "guidesPastFrameEdge": 11,
+      "distanceCm": 47,
+      "rowNextBelowPhone": {
+        "ids": [
+          "name"
+        ],
+        "insideTopToBottom": 1,
+        "visibleShareOfSheet": 0.765
+      },
+      "rowNextAbovePhone": {
+        "ids": [
+          "mark"
+        ],
+        "insideTopToBottom": 0.836,
+        "visibleShareOfSheet": 0.647
+      },
+      "labelsOnOtherSheets": [
+        {
+          "id": "bg",
+          "on": [
+            "mark"
+          ]
+        },
+        {
+          "id": "grid",
+          "on": [
+            "mark"
+          ]
+        }
+      ],
+      "distanceLabelOnSheets": [],
+      "sheets": [
+        {
+          "id": "bg",
+          "on": true,
+          "kind": 0,
+          "roomY": 0,
+          "widthUnits": 6,
+          "visibleShareOfCanvas": 0.8068,
+          "visibleShareOfSheet": 0.627,
+          "insideTopToBottom": 0.846,
+          "inFrame": true,
+          "crossesEdge": true
+        },
+        {
+          "id": "grid",
+          "on": true,
+          "kind": 1,
+          "roomY": 0,
+          "widthUnits": 5,
+          "visibleShareOfCanvas": 0.8134,
+          "visibleShareOfSheet": 0.749,
+          "insideTopToBottom": 0.924,
+          "inFrame": true,
+          "crossesEdge": true
+        },
+        {
+          "id": "mark",
+          "on": true,
+          "kind": 2,
+          "roomY": 2.8,
+          "widthUnits": 3,
+          "visibleShareOfCanvas": 0.195,
+          "visibleShareOfSheet": 0.647,
+          "insideTopToBottom": 0.836,
+          "inFrame": true,
+          "crossesEdge": true
+        },
+        {
+          "id": "name",
+          "on": true,
+          "kind": 2,
+          "roomY": -1.6666666666666665,
+          "widthUnits": 3,
+          "visibleShareOfCanvas": 0.0602,
+          "visibleShareOfSheet": 0.765,
+          "insideTopToBottom": 1,
+          "inFrame": true,
+          "crossesEdge": true
+        },
+        {
+          "id": "role",
+          "on": true,
+          "kind": 2,
+          "roomY": -2.5333333333333328,
+          "widthUnits": 3,
+          "visibleShareOfCanvas": 0.0238,
+          "visibleShareOfSheet": 0.791,
+          "insideTopToBottom": 1,
+          "inFrame": true,
+          "crossesEdge": true
+        },
+        {
+          "id": "contact",
+          "on": true,
+          "kind": 2,
+          "roomY": -3.1666666666666656,
+          "widthUnits": 3,
+          "visibleShareOfCanvas": 0.0217,
+          "visibleShareOfSheet": 0.833,
+          "insideTopToBottom": 1,
+          "inFrame": true,
+          "crossesEdge": true
+        }
+      ]
+    },
+    {
+      "pose": {
+        "yawDeg": -20,
+        "pitchDeg": 0,
+        "cm": 47
+      },
+      "phoneInFrame": true,
+      "sheetsInFrame": 6,
+      "sheetsCrossingEdge": 6,
+      "largestSheetCardWidths": 6,
+      "labelsShown": 6,
+      "labelOverlaps": 0,
+      "labelsOutsideCanvas": 0,
+      "sheetsInFrameWithoutLabel": [],
+      "guidesDrawn": 24,
+      "guidesPastFrameEdge": 10,
+      "distanceCm": 47,
+      "rowNextBelowPhone": {
+        "ids": [
+          "name"
+        ],
+        "insideTopToBottom": 1,
+        "visibleShareOfSheet": 0.801
+      },
+      "rowNextAbovePhone": {
+        "ids": [
+          "mark"
+        ],
+        "insideTopToBottom": 0.895,
+        "visibleShareOfSheet": 0.776
+      },
+      "labelsOnOtherSheets": [
+        {
+          "id": "bg",
+          "on": [
+            "mark"
+          ]
+        },
+        {
+          "id": "grid",
+          "on": [
+            "mark"
+          ]
+        }
+      ],
+      "distanceLabelOnSheets": [],
+      "sheets": [
+        {
+          "id": "bg",
+          "on": true,
+          "kind": 0,
+          "roomY": 0,
+          "widthUnits": 6,
+          "visibleShareOfCanvas": 0.8068,
+          "visibleShareOfSheet": 0.627,
+          "insideTopToBottom": 0.846,
+          "inFrame": true,
+          "crossesEdge": true
+        },
+        {
+          "id": "grid",
+          "on": true,
+          "kind": 1,
+          "roomY": 0,
+          "widthUnits": 5,
+          "visibleShareOfCanvas": 0.8134,
+          "visibleShareOfSheet": 0.749,
+          "insideTopToBottom": 0.924,
+          "inFrame": true,
+          "crossesEdge": true
+        },
+        {
+          "id": "mark",
+          "on": true,
+          "kind": 2,
+          "roomY": 2.8,
+          "widthUnits": 3,
+          "visibleShareOfCanvas": 0.2269,
+          "visibleShareOfSheet": 0.776,
+          "insideTopToBottom": 0.895,
+          "inFrame": true,
+          "crossesEdge": true
+        },
+        {
+          "id": "name",
+          "on": true,
+          "kind": 2,
+          "roomY": -1.6666666666666665,
+          "widthUnits": 3,
+          "visibleShareOfCanvas": 0.0652,
+          "visibleShareOfSheet": 0.801,
+          "insideTopToBottom": 1,
+          "inFrame": true,
+          "crossesEdge": true
+        },
+        {
+          "id": "role",
+          "on": true,
+          "kind": 2,
+          "roomY": -2.5333333333333328,
+          "widthUnits": 3,
+          "visibleShareOfCanvas": 0.0244,
+          "visibleShareOfSheet": 0.833,
+          "insideTopToBottom": 1,
+          "inFrame": true,
+          "crossesEdge": true
+        },
+        {
+          "id": "contact",
+          "on": true,
+          "kind": 2,
+          "roomY": -3.1666666666666656,
+          "widthUnits": 3,
+          "visibleShareOfCanvas": 0.0212,
+          "visibleShareOfSheet": 0.791,
+          "insideTopToBottom": 1,
+          "inFrame": true,
+          "crossesEdge": true
+        }
+      ]
+    },
+    {
+      "pose": {
+        "yawDeg": 35,
+        "pitchDeg": 0,
+        "cm": 47
+      },
+      "phoneInFrame": true,
+      "sheetsInFrame": 6,
+      "sheetsCrossingEdge": 6,
+      "largestSheetCardWidths": 6,
+      "labelsShown": 6,
+      "labelOverlaps": 0,
+      "labelsOutsideCanvas": 0,
+      "sheetsInFrameWithoutLabel": [],
+      "guidesDrawn": 24,
+      "guidesPastFrameEdge": 12,
+      "distanceCm": 47,
+      "rowNextBelowPhone": {
+        "ids": [
+          "name"
+        ],
+        "insideTopToBottom": 1,
+        "visibleShareOfSheet": 0.837
+      },
+      "rowNextAbovePhone": {
+        "ids": [
+          "mark"
+        ],
+        "insideTopToBottom": 0.765,
+        "visibleShareOfSheet": 0.701
+      },
+      "labelsOnOtherSheets": [
+        {
+          "id": "bg",
+          "on": [
+            "mark"
+          ]
+        },
+        {
+          "id": "grid",
+          "on": [
+            "mark"
+          ]
+        }
+      ],
+      "distanceLabelOnSheets": [],
+      "sheets": [
+        {
+          "id": "bg",
+          "on": true,
+          "kind": 0,
+          "roomY": 0,
+          "widthUnits": 6,
+          "visibleShareOfCanvas": 0.623,
+          "visibleShareOfSheet": 0.45,
+          "insideTopToBottom": 0.85,
+          "inFrame": true,
+          "crossesEdge": true
+        },
+        {
+          "id": "grid",
+          "on": true,
+          "kind": 1,
+          "roomY": 0,
+          "widthUnits": 5,
+          "visibleShareOfCanvas": 0.659,
+          "visibleShareOfSheet": 0.594,
+          "insideTopToBottom": 0.922,
+          "inFrame": true,
+          "crossesEdge": true
+        },
+        {
+          "id": "mark",
+          "on": true,
+          "kind": 2,
+          "roomY": 2.8,
+          "widthUnits": 3,
+          "visibleShareOfCanvas": 0.176,
+          "visibleShareOfSheet": 0.701,
+          "insideTopToBottom": 0.765,
+          "inFrame": true,
+          "crossesEdge": true
+        },
+        {
+          "id": "name",
+          "on": true,
+          "kind": 2,
+          "roomY": -1.6666666666666665,
+          "widthUnits": 3,
+          "visibleShareOfCanvas": 0.0572,
+          "visibleShareOfSheet": 0.837,
+          "insideTopToBottom": 1,
+          "inFrame": true,
+          "crossesEdge": true
+        },
+        {
+          "id": "role",
+          "on": true,
+          "kind": 2,
+          "roomY": -2.5333333333333328,
+          "widthUnits": 3,
+          "visibleShareOfCanvas": 0.0239,
+          "visibleShareOfSheet": 0.953,
+          "insideTopToBottom": 1,
+          "inFrame": true,
+          "crossesEdge": true
+        },
+        {
+          "id": "contact",
+          "on": true,
+          "kind": 2,
+          "roomY": -3.1666666666666656,
+          "widthUnits": 3,
+          "visibleShareOfCanvas": 0.0214,
+          "visibleShareOfSheet": 0.925,
+          "insideTopToBottom": 1,
+          "inFrame": true,
+          "crossesEdge": true
+        }
+      ]
+    },
+    {
+      "pose": {
+        "yawDeg": -35,
+        "pitchDeg": 0,
+        "cm": 47
+      },
+      "phoneInFrame": true,
+      "sheetsInFrame": 6,
+      "sheetsCrossingEdge": 5,
+      "largestSheetCardWidths": 6,
+      "labelsShown": 6,
+      "labelOverlaps": 0,
+      "labelsOutsideCanvas": 0,
+      "sheetsInFrameWithoutLabel": [],
+      "guidesDrawn": 24,
+      "guidesPastFrameEdge": 11,
+      "distanceCm": 47,
+      "rowNextBelowPhone": {
+        "ids": [
+          "name"
+        ],
+        "insideTopToBottom": 1,
+        "visibleShareOfSheet": 1
+      },
+      "rowNextAbovePhone": {
+        "ids": [
+          "mark"
+        ],
+        "insideTopToBottom": 0.937,
+        "visibleShareOfSheet": 0.89
+      },
+      "labelsOnOtherSheets": [
+        {
+          "id": "bg",
+          "on": [
+            "mark"
+          ]
+        },
+        {
+          "id": "grid",
+          "on": [
+            "mark"
+          ]
+        }
+      ],
+      "distanceLabelOnSheets": [],
+      "sheets": [
+        {
+          "id": "bg",
+          "on": true,
+          "kind": 0,
+          "roomY": 0,
+          "widthUnits": 6,
+          "visibleShareOfCanvas": 0.623,
+          "visibleShareOfSheet": 0.45,
+          "insideTopToBottom": 0.85,
+          "inFrame": true,
+          "crossesEdge": true
+        },
+        {
+          "id": "grid",
+          "on": true,
+          "kind": 1,
+          "roomY": 0,
+          "widthUnits": 5,
+          "visibleShareOfCanvas": 0.659,
+          "visibleShareOfSheet": 0.594,
+          "insideTopToBottom": 0.922,
+          "inFrame": true,
+          "crossesEdge": true
+        },
+        {
+          "id": "mark",
+          "on": true,
+          "kind": 2,
+          "roomY": 2.8,
+          "widthUnits": 3,
+          "visibleShareOfCanvas": 0.2316,
+          "visibleShareOfSheet": 0.89,
+          "insideTopToBottom": 0.937,
+          "inFrame": true,
+          "crossesEdge": true
+        },
+        {
+          "id": "name",
+          "on": true,
+          "kind": 2,
+          "roomY": -1.6666666666666665,
+          "widthUnits": 3,
+          "visibleShareOfCanvas": 0.0653,
+          "visibleShareOfSheet": 1,
+          "insideTopToBottom": 1,
+          "inFrame": true,
+          "crossesEdge": false
+        },
+        {
+          "id": "role",
+          "on": true,
+          "kind": 2,
+          "roomY": -2.5333333333333328,
+          "widthUnits": 3,
+          "visibleShareOfCanvas": 0.0241,
+          "visibleShareOfSheet": 0.925,
+          "insideTopToBottom": 1,
+          "inFrame": true,
+          "crossesEdge": true
+        },
+        {
+          "id": "contact",
+          "on": true,
+          "kind": 2,
+          "roomY": -3.1666666666666656,
+          "widthUnits": 3,
+          "visibleShareOfCanvas": 0.0156,
+          "visibleShareOfSheet": 0.7,
+          "insideTopToBottom": 0.842,
+          "inFrame": true,
+          "crossesEdge": true
+        }
+      ]
+    },
+    {
+      "pose": {
+        "yawDeg": 0,
+        "pitchDeg": 20,
+        "cm": 47
+      },
+      "phoneInFrame": true,
+      "sheetsInFrame": 5,
+      "sheetsCrossingEdge": 6,
+      "largestSheetCardWidths": 6,
+      "labelsShown": 6,
+      "labelOverlaps": 0,
+      "labelsOutsideCanvas": 0,
+      "sheetsInFrameWithoutLabel": [],
+      "guidesDrawn": 24,
+      "guidesPastFrameEdge": 11,
+      "distanceCm": 47,
+      "rowNextBelowPhone": {
+        "ids": [
+          "name"
+        ],
+        "insideTopToBottom": 1,
+        "visibleShareOfSheet": 0.8
+      },
+      "rowNextAbovePhone": {
+        "ids": [
+          "mark"
+        ],
+        "insideTopToBottom": 0.733,
+        "visibleShareOfSheet": 0.46
+      },
+      "labelsOnOtherSheets": [
+        {
+          "id": "bg",
+          "on": [
+            "mark"
+          ]
+        },
+        {
+          "id": "grid",
+          "on": [
+            "mark"
+          ]
+        },
+        {
+          "id": "contact",
+          "on": [
+            "name"
+          ]
+        }
+      ],
+      "distanceLabelOnSheets": [],
+      "sheets": [
+        {
+          "id": "bg",
+          "on": true,
+          "kind": 0,
+          "roomY": 0,
+          "widthUnits": 6,
+          "visibleShareOfCanvas": 0.8532,
+          "visibleShareOfSheet": 0.607,
+          "insideTopToBottom": 0.863,
+          "inFrame": true,
+          "crossesEdge": true
+        },
+        {
+          "id": "grid",
+          "on": true,
+          "kind": 1,
+          "roomY": 0,
+          "widthUnits": 5,
+          "visibleShareOfCanvas": 0.8303,
+          "visibleShareOfSheet": 0.709,
+          "insideTopToBottom": 0.856,
+          "inFrame": true,
+          "crossesEdge": true
+        },
+        {
+          "id": "mark",
+          "on": true,
+          "kind": 2,
+          "roomY": 2.8,
+          "widthUnits": 3,
+          "visibleShareOfCanvas": 0.2236,
+          "visibleShareOfSheet": 0.46,
+          "insideTopToBottom": 0.733,
+          "inFrame": true,
+          "crossesEdge": true
+        },
+        {
+          "id": "name",
+          "on": true,
+          "kind": 2,
+          "roomY": -1.6666666666666665,
+          "widthUnits": 3,
+          "visibleShareOfCanvas": 0.0488,
+          "visibleShareOfSheet": 0.8,
+          "insideTopToBottom": 1,
+          "inFrame": true,
+          "crossesEdge": true
+        },
+        {
+          "id": "role",
+          "on": true,
+          "kind": 2,
+          "roomY": -2.5333333333333328,
+          "widthUnits": 3,
+          "visibleShareOfCanvas": 0.0176,
+          "visibleShareOfSheet": 0.867,
+          "insideTopToBottom": 1,
+          "inFrame": true,
+          "crossesEdge": true
+        },
+        {
+          "id": "contact",
+          "on": true,
+          "kind": 2,
+          "roomY": -3.1666666666666656,
+          "widthUnits": 3,
+          "visibleShareOfCanvas": 0.0147,
+          "visibleShareOfSheet": 0.891,
+          "insideTopToBottom": 1,
+          "inFrame": false,
+          "crossesEdge": true
+        }
+      ]
+    },
+    {
+      "pose": {
+        "yawDeg": 0,
+        "pitchDeg": -20,
+        "cm": 47
+      },
+      "phoneInFrame": true,
+      "sheetsInFrame": 6,
+      "sheetsCrossingEdge": 6,
+      "largestSheetCardWidths": 6,
+      "labelsShown": 6,
+      "labelOverlaps": 0,
+      "labelsOutsideCanvas": 0,
+      "sheetsInFrameWithoutLabel": [],
+      "guidesDrawn": 24,
+      "guidesPastFrameEdge": 11,
+      "distanceCm": 47,
+      "rowNextBelowPhone": {
+        "ids": [
+          "name"
+        ],
+        "insideTopToBottom": 1,
+        "visibleShareOfSheet": 0.673
+      },
+      "rowNextAbovePhone": {
+        "ids": [
+          "mark"
+        ],
+        "insideTopToBottom": 1,
+        "visibleShareOfSheet": 0.874
+      },
+      "labelsOnOtherSheets": [
+        {
+          "id": "bg",
+          "on": [
+            "mark"
+          ]
+        },
+        {
+          "id": "grid",
+          "on": [
+            "mark"
+          ]
+        }
+      ],
+      "distanceLabelOnSheets": [],
+      "sheets": [
+        {
+          "id": "bg",
+          "on": true,
+          "kind": 0,
+          "roomY": 0,
+          "widthUnits": 6,
+          "visibleShareOfCanvas": 0.8532,
+          "visibleShareOfSheet": 0.607,
+          "insideTopToBottom": 0.863,
+          "inFrame": true,
+          "crossesEdge": true
+        },
+        {
+          "id": "grid",
+          "on": true,
+          "kind": 1,
+          "roomY": 0,
+          "widthUnits": 5,
+          "visibleShareOfCanvas": 0.8303,
+          "visibleShareOfSheet": 0.709,
+          "insideTopToBottom": 0.856,
+          "inFrame": true,
+          "crossesEdge": true
+        },
+        {
+          "id": "mark",
+          "on": true,
+          "kind": 2,
+          "roomY": 2.8,
+          "widthUnits": 3,
+          "visibleShareOfCanvas": 0.1719,
+          "visibleShareOfSheet": 0.874,
+          "insideTopToBottom": 1,
+          "inFrame": true,
+          "crossesEdge": true
+        },
+        {
+          "id": "name",
+          "on": true,
+          "kind": 2,
+          "roomY": -1.6666666666666665,
+          "widthUnits": 3,
+          "visibleShareOfCanvas": 0.0718,
+          "visibleShareOfSheet": 0.673,
+          "insideTopToBottom": 1,
+          "inFrame": true,
+          "crossesEdge": true
+        },
+        {
+          "id": "role",
+          "on": true,
+          "kind": 2,
+          "roomY": -2.5333333333333328,
+          "widthUnits": 3,
+          "visibleShareOfCanvas": 0.0307,
+          "visibleShareOfSheet": 0.676,
+          "insideTopToBottom": 1,
+          "inFrame": true,
+          "crossesEdge": true
+        },
+        {
+          "id": "contact",
+          "on": true,
+          "kind": 2,
+          "roomY": -3.1666666666666656,
+          "widthUnits": 3,
+          "visibleShareOfCanvas": 0.0296,
+          "visibleShareOfSheet": 0.651,
+          "insideTopToBottom": 1,
+          "inFrame": true,
+          "crossesEdge": true
+        }
+      ]
+    },
+    {
+      "pose": {
+        "yawDeg": 0,
+        "pitchDeg": 35,
+        "cm": 55
+      },
+      "phoneInFrame": true,
+      "sheetsInFrame": 4,
+      "sheetsCrossingEdge": 4,
+      "largestSheetCardWidths": 6,
+      "labelsShown": 6,
+      "labelOverlaps": 0,
+      "labelsOutsideCanvas": 0,
+      "sheetsInFrameWithoutLabel": [],
+      "guidesDrawn": 24,
+      "guidesPastFrameEdge": 5,
+      "distanceCm": 55,
+      "rowNextBelowPhone": {
+        "ids": [
+          "name"
+        ],
+        "insideTopToBottom": 1,
+        "visibleShareOfSheet": 0.981
+      },
+      "rowNextAbovePhone": {
+        "ids": [
+          "mark"
+        ],
+        "insideTopToBottom": 0.891,
+        "visibleShareOfSheet": 0.645
+      },
+      "labelsOnOtherSheets": [
+        {
+          "id": "bg",
+          "on": [
+            "mark"
+          ]
+        },
+        {
+          "id": "grid",
+          "on": [
+            "mark"
+          ]
+        },
+        {
+          "id": "contact",
+          "on": [
+            "name"
+          ]
+        }
+      ],
+      "distanceLabelOnSheets": [],
+      "sheets": [
+        {
+          "id": "bg",
+          "on": true,
+          "kind": 0,
+          "roomY": 0,
+          "widthUnits": 6,
+          "visibleShareOfCanvas": 0.6804,
+          "visibleShareOfSheet": 0.511,
+          "insideTopToBottom": 0.829,
+          "inFrame": true,
+          "crossesEdge": true
+        },
+        {
+          "id": "grid",
+          "on": true,
+          "kind": 1,
+          "roomY": 0,
+          "widthUnits": 5,
+          "visibleShareOfCanvas": 0.6625,
+          "visibleShareOfSheet": 0.66,
+          "insideTopToBottom": 0.86,
+          "inFrame": true,
+          "crossesEdge": true
+        },
+        {
+          "id": "mark",
+          "on": true,
+          "kind": 2,
+          "roomY": 2.8,
+          "widthUnits": 3,
+          "visibleShareOfCanvas": 0.2488,
+          "visibleShareOfSheet": 0.645,
+          "insideTopToBottom": 0.891,
+          "inFrame": true,
+          "crossesEdge": true
+        },
+        {
+          "id": "name",
+          "on": true,
+          "kind": 2,
+          "roomY": -1.6666666666666665,
+          "widthUnits": 3,
+          "visibleShareOfCanvas": 0.0322,
+          "visibleShareOfSheet": 0.981,
+          "insideTopToBottom": 1,
+          "inFrame": true,
+          "crossesEdge": true
+        },
+        {
+          "id": "role",
+          "on": true,
+          "kind": 2,
+          "roomY": -2.5333333333333328,
+          "widthUnits": 3,
+          "visibleShareOfCanvas": 0.0108,
+          "visibleShareOfSheet": 1,
+          "insideTopToBottom": 1,
+          "inFrame": false,
+          "crossesEdge": false
+        },
+        {
+          "id": "contact",
+          "on": true,
+          "kind": 2,
+          "roomY": -3.1666666666666656,
+          "widthUnits": 3,
+          "visibleShareOfCanvas": 0.0086,
+          "visibleShareOfSheet": 1,
+          "insideTopToBottom": 1,
+          "inFrame": false,
+          "crossesEdge": false
+        }
+      ]
+    },
+    {
+      "pose": {
+        "yawDeg": 0,
+        "pitchDeg": -35,
+        "cm": 55
+      },
+      "phoneInFrame": true,
+      "sheetsInFrame": 6,
+      "sheetsCrossingEdge": 6,
+      "largestSheetCardWidths": 6,
+      "labelsShown": 6,
+      "labelOverlaps": 0,
+      "labelsOutsideCanvas": 0,
+      "sheetsInFrameWithoutLabel": [],
+      "guidesDrawn": 24,
+      "guidesPastFrameEdge": 13,
+      "distanceCm": 55,
+      "rowNextBelowPhone": {
+        "ids": [
+          "name"
+        ],
+        "insideTopToBottom": 1,
+        "visibleShareOfSheet": 0.774
+      },
+      "rowNextAbovePhone": {
+        "ids": [
+          "mark"
+        ],
+        "insideTopToBottom": 1,
+        "visibleShareOfSheet": 1
+      },
+      "labelsOnOtherSheets": [
+        {
+          "id": "bg",
+          "on": [
+            "mark"
+          ]
+        }
+      ],
+      "distanceLabelOnSheets": [
+        "name"
+      ],
+      "sheets": [
+        {
+          "id": "bg",
+          "on": true,
+          "kind": 0,
+          "roomY": 0,
+          "widthUnits": 6,
+          "visibleShareOfCanvas": 0.6804,
+          "visibleShareOfSheet": 0.511,
+          "insideTopToBottom": 0.829,
+          "inFrame": true,
+          "crossesEdge": true
+        },
+        {
+          "id": "grid",
+          "on": true,
+          "kind": 1,
+          "roomY": 0,
+          "widthUnits": 5,
+          "visibleShareOfCanvas": 0.6625,
+          "visibleShareOfSheet": 0.66,
+          "insideTopToBottom": 0.86,
+          "inFrame": true,
+          "crossesEdge": true
+        },
+        {
+          "id": "mark",
+          "on": true,
+          "kind": 2,
+          "roomY": 2.8,
+          "widthUnits": 3,
+          "visibleShareOfCanvas": 0.1047,
+          "visibleShareOfSheet": 1,
+          "insideTopToBottom": 1,
+          "inFrame": true,
+          "crossesEdge": true
+        },
+        {
+          "id": "name",
+          "on": true,
+          "kind": 2,
+          "roomY": -1.6666666666666665,
+          "widthUnits": 3,
+          "visibleShareOfCanvas": 0.0556,
+          "visibleShareOfSheet": 0.774,
+          "insideTopToBottom": 1,
+          "inFrame": true,
+          "crossesEdge": true
+        },
+        {
+          "id": "role",
+          "on": true,
+          "kind": 2,
+          "roomY": -2.5333333333333328,
+          "widthUnits": 3,
+          "visibleShareOfCanvas": 0.0258,
+          "visibleShareOfSheet": 0.751,
+          "insideTopToBottom": 1,
+          "inFrame": true,
+          "crossesEdge": true
+        },
+        {
+          "id": "contact",
+          "on": true,
+          "kind": 2,
+          "roomY": -3.1666666666666656,
+          "widthUnits": 3,
+          "visibleShareOfCanvas": 0.026,
+          "visibleShareOfSheet": 0.711,
+          "insideTopToBottom": 1,
+          "inFrame": true,
+          "crossesEdge": true
+        }
+      ]
+    },
+    {
+      "pose": {
+        "yawDeg": -14,
+        "pitchDeg": 6,
+        "cm": 47
+      },
+      "phoneInFrame": true,
+      "sheetsInFrame": 6,
+      "sheetsCrossingEdge": 6,
+      "largestSheetCardWidths": 6,
+      "labelsShown": 6,
+      "labelOverlaps": 0,
+      "labelsOutsideCanvas": 0,
+      "sheetsInFrameWithoutLabel": [],
+      "guidesDrawn": 24,
+      "guidesPastFrameEdge": 10,
+      "distanceCm": 47,
+      "rowNextBelowPhone": {
+        "ids": [
+          "name"
+        ],
+        "insideTopToBottom": 1,
+        "visibleShareOfSheet": 0.786
+      },
+      "rowNextAbovePhone": {
+        "ids": [
+          "mark"
+        ],
+        "insideTopToBottom": 0.824,
+        "visibleShareOfSheet": 0.651
+      },
+      "labelsOnOtherSheets": [
+        {
+          "id": "bg",
+          "on": [
+            "mark"
+          ]
+        },
+        {
+          "id": "grid",
+          "on": [
+            "mark"
+          ]
+        }
+      ],
+      "distanceLabelOnSheets": [],
+      "sheets": [
+        {
+          "id": "bg",
+          "on": true,
+          "kind": 0,
+          "roomY": 0,
+          "widthUnits": 6,
+          "visibleShareOfCanvas": 0.8702,
+          "visibleShareOfSheet": 0.681,
+          "insideTopToBottom": 0.865,
+          "inFrame": true,
+          "crossesEdge": true
+        },
+        {
+          "id": "grid",
+          "on": true,
+          "kind": 1,
+          "roomY": 0,
+          "widthUnits": 5,
+          "visibleShareOfCanvas": 0.8498,
+          "visibleShareOfSheet": 0.782,
+          "insideTopToBottom": 0.918,
+          "inFrame": true,
+          "crossesEdge": true
+        },
+        {
+          "id": "mark",
+          "on": true,
+          "kind": 2,
+          "roomY": 2.8,
+          "widthUnits": 3,
+          "visibleShareOfCanvas": 0.2241,
+          "visibleShareOfSheet": 0.651,
+          "insideTopToBottom": 0.824,
+          "inFrame": true,
+          "crossesEdge": true
+        },
+        {
+          "id": "name",
+          "on": true,
+          "kind": 2,
+          "roomY": -1.6666666666666665,
+          "widthUnits": 3,
+          "visibleShareOfCanvas": 0.0604,
+          "visibleShareOfSheet": 0.786,
+          "insideTopToBottom": 1,
+          "inFrame": true,
+          "crossesEdge": true
+        },
+        {
+          "id": "role",
+          "on": true,
+          "kind": 2,
+          "roomY": -2.5333333333333328,
+          "widthUnits": 3,
+          "visibleShareOfCanvas": 0.0223,
+          "visibleShareOfSheet": 0.832,
+          "insideTopToBottom": 1,
+          "inFrame": true,
+          "crossesEdge": true
+        },
+        {
+          "id": "contact",
+          "on": true,
+          "kind": 2,
+          "roomY": -3.1666666666666656,
+          "widthUnits": 3,
+          "visibleShareOfCanvas": 0.0191,
+          "visibleShareOfSheet": 0.815,
+          "insideTopToBottom": 1,
+          "inFrame": true,
+          "crossesEdge": true
+        }
+      ]
+    },
+    {
+      "pose": {
+        "yawDeg": 35,
+        "pitchDeg": 10,
+        "cm": 30
+      },
+      "phoneInFrame": true,
+      "sheetsInFrame": 4,
+      "sheetsCrossingEdge": 6,
+      "largestSheetCardWidths": 6,
+      "labelsShown": 6,
+      "labelOverlaps": 0,
+      "labelsOutsideCanvas": 0,
+      "sheetsInFrameWithoutLabel": [],
+      "guidesDrawn": 24,
+      "guidesPastFrameEdge": 8,
+      "distanceCm": 30,
+      "rowNextBelowPhone": {
+        "ids": [
+          "name"
+        ],
+        "insideTopToBottom": 1,
+        "visibleShareOfSheet": 0.649
+      },
+      "rowNextAbovePhone": {
+        "ids": [
+          "mark"
+        ],
+        "insideTopToBottom": 0.35,
+        "visibleShareOfSheet": 0.09
+      },
+      "labelsOnOtherSheets": [
+        {
+          "id": "bg",
+          "on": [
+            "mark"
+          ]
+        },
+        {
+          "id": "grid",
+          "on": [
+            "mark"
+          ]
+        },
+        {
+          "id": "role",
+          "on": [
+            "name"
+          ]
+        }
+      ],
+      "distanceLabelOnSheets": [],
+      "sheets": [
+        {
+          "id": "bg",
+          "on": true,
+          "kind": 0,
+          "roomY": 0,
+          "widthUnits": 6,
+          "visibleShareOfCanvas": 0.6572,
+          "visibleShareOfSheet": 0.214,
+          "insideTopToBottom": 0.689,
+          "inFrame": true,
+          "crossesEdge": true
+        },
+        {
+          "id": "grid",
+          "on": true,
+          "kind": 1,
+          "roomY": 0,
+          "widthUnits": 5,
+          "visibleShareOfCanvas": 0.7205,
+          "visibleShareOfSheet": 0.278,
+          "insideTopToBottom": 0.715,
+          "inFrame": true,
+          "crossesEdge": true
+        },
+        {
+          "id": "mark",
+          "on": true,
+          "kind": 2,
+          "roomY": 2.8,
+          "widthUnits": 3,
+          "visibleShareOfCanvas": 0.1341,
+          "visibleShareOfSheet": 0.09,
+          "insideTopToBottom": 0.35,
+          "inFrame": true,
+          "crossesEdge": true
+        },
+        {
+          "id": "name",
+          "on": true,
+          "kind": 2,
+          "roomY": -1.6666666666666665,
+          "widthUnits": 3,
+          "visibleShareOfCanvas": 0.0865,
+          "visibleShareOfSheet": 0.649,
+          "insideTopToBottom": 1,
+          "inFrame": true,
+          "crossesEdge": true
+        },
+        {
+          "id": "role",
+          "on": true,
+          "kind": 2,
+          "roomY": -2.5333333333333328,
+          "widthUnits": 3,
+          "visibleShareOfCanvas": 0.0127,
+          "visibleShareOfSheet": 0.216,
+          "insideTopToBottom": 0.593,
+          "inFrame": false,
+          "crossesEdge": true
+        },
+        {
+          "id": "contact",
+          "on": true,
+          "kind": 2,
+          "roomY": -3.1666666666666656,
+          "widthUnits": 3,
+          "visibleShareOfCanvas": 0.0101,
+          "visibleShareOfSheet": 0.269,
+          "insideTopToBottom": 0.368,
+          "inFrame": false,
+          "crossesEdge": true
+        }
+      ]
+    },
+    {
+      "pose": {
+        "yawDeg": -35,
+        "pitchDeg": -10,
+        "cm": 60
+      },
+      "phoneInFrame": true,
+      "sheetsInFrame": 5,
+      "sheetsCrossingEdge": 2,
+      "largestSheetCardWidths": 6,
+      "labelsShown": 6,
+      "labelOverlaps": 0,
+      "labelsOutsideCanvas": 0,
+      "sheetsInFrameWithoutLabel": [],
+      "guidesDrawn": 24,
+      "guidesPastFrameEdge": 14,
+      "distanceCm": 60,
+      "rowNextBelowPhone": {
+        "ids": [
+          "name"
+        ],
+        "insideTopToBottom": 1,
+        "visibleShareOfSheet": 1
+      },
+      "rowNextAbovePhone": {
+        "ids": [
+          "mark"
+        ],
+        "insideTopToBottom": 1,
+        "visibleShareOfSheet": 1
+      },
+      "labelsOnOtherSheets": [],
+      "distanceLabelOnSheets": [],
+      "sheets": [
+        {
+          "id": "bg",
+          "on": true,
+          "kind": 0,
+          "roomY": 0,
+          "widthUnits": 6,
+          "visibleShareOfCanvas": 0.545,
+          "visibleShareOfSheet": 0.582,
+          "insideTopToBottom": 0.932,
+          "inFrame": true,
+          "crossesEdge": true
+        },
+        {
+          "id": "grid",
+          "on": true,
+          "kind": 1,
+          "roomY": 0,
+          "widthUnits": 5,
+          "visibleShareOfCanvas": 0.5563,
+          "visibleShareOfSheet": 0.767,
+          "insideTopToBottom": 0.979,
+          "inFrame": true,
+          "crossesEdge": true
+        },
+        {
+          "id": "mark",
+          "on": true,
+          "kind": 2,
+          "roomY": 2.8,
+          "widthUnits": 3,
+          "visibleShareOfCanvas": 0.1375,
+          "visibleShareOfSheet": 1,
+          "insideTopToBottom": 1,
+          "inFrame": true,
+          "crossesEdge": false
+        },
+        {
+          "id": "name",
+          "on": true,
+          "kind": 2,
+          "roomY": -1.6666666666666665,
+          "widthUnits": 3,
+          "visibleShareOfCanvas": 0.0386,
+          "visibleShareOfSheet": 1,
+          "insideTopToBottom": 1,
+          "inFrame": true,
+          "crossesEdge": false
+        },
+        {
+          "id": "role",
+          "on": true,
+          "kind": 2,
+          "roomY": -2.5333333333333328,
+          "widthUnits": 3,
+          "visibleShareOfCanvas": 0.0188,
+          "visibleShareOfSheet": 1,
+          "insideTopToBottom": 1,
+          "inFrame": true,
+          "crossesEdge": false
+        },
+        {
+          "id": "contact",
+          "on": true,
+          "kind": 2,
+          "roomY": -3.1666666666666656,
+          "widthUnits": 3,
+          "visibleShareOfCanvas": 0.015,
+          "visibleShareOfSheet": 1,
+          "insideTopToBottom": 1,
+          "inFrame": false,
+          "crossesEdge": false
+        }
+      ]
+    },
+    {
+      "pose": {
+        "yawDeg": 25,
+        "pitchDeg": 25,
+        "cm": 39
+      },
+      "phoneInFrame": true,
+      "sheetsInFrame": 6,
+      "sheetsCrossingEdge": 6,
+      "largestSheetCardWidths": 6,
+      "labelsShown": 6,
+      "labelOverlaps": 0,
+      "labelsOutsideCanvas": 0,
+      "sheetsInFrameWithoutLabel": [],
+      "guidesDrawn": 24,
+      "guidesPastFrameEdge": 9,
+      "distanceCm": 39,
+      "rowNextBelowPhone": {
+        "ids": [
+          "name"
+        ],
+        "insideTopToBottom": 1,
+        "visibleShareOfSheet": 0.744
+      },
+      "rowNextAbovePhone": {
+        "ids": [
+          "mark"
+        ],
+        "insideTopToBottom": 0.548,
+        "visibleShareOfSheet": 0.197
+      },
+      "labelsOnOtherSheets": [
+        {
+          "id": "bg",
+          "on": [
+            "mark"
+          ]
+        },
+        {
+          "id": "grid",
+          "on": [
+            "mark"
+          ]
+        }
+      ],
+      "distanceLabelOnSheets": [],
+      "sheets": [
+        {
+          "id": "bg",
+          "on": true,
+          "kind": 0,
+          "roomY": 0,
+          "widthUnits": 6,
+          "visibleShareOfCanvas": 0.6615,
+          "visibleShareOfSheet": 0.284,
+          "insideTopToBottom": 0.767,
+          "inFrame": true,
+          "crossesEdge": true
+        },
+        {
+          "id": "grid",
+          "on": true,
+          "kind": 1,
+          "roomY": 0,
+          "widthUnits": 5,
+          "visibleShareOfCanvas": 0.6916,
+          "visibleShareOfSheet": 0.374,
+          "insideTopToBottom": 0.796,
+          "inFrame": true,
+          "crossesEdge": true
+        },
+        {
+          "id": "mark",
+          "on": true,
+          "kind": 2,
+          "roomY": 2.8,
+          "widthUnits": 3,
+          "visibleShareOfCanvas": 0.197,
+          "visibleShareOfSheet": 0.197,
+          "insideTopToBottom": 0.548,
+          "inFrame": true,
+          "crossesEdge": true
+        },
+        {
+          "id": "name",
+          "on": true,
+          "kind": 2,
+          "roomY": -1.6666666666666665,
+          "widthUnits": 3,
+          "visibleShareOfCanvas": 0.0513,
+          "visibleShareOfSheet": 0.744,
+          "insideTopToBottom": 1,
+          "inFrame": true,
+          "crossesEdge": true
+        },
+        {
+          "id": "role",
+          "on": true,
+          "kind": 2,
+          "roomY": -2.5333333333333328,
+          "widthUnits": 3,
+          "visibleShareOfCanvas": 0.0184,
+          "visibleShareOfSheet": 0.84,
+          "insideTopToBottom": 1,
+          "inFrame": true,
+          "crossesEdge": true
+        },
+        {
+          "id": "contact",
+          "on": true,
+          "kind": 2,
+          "roomY": -3.1666666666666656,
+          "widthUnits": 3,
+          "visibleShareOfCanvas": 0.0154,
+          "visibleShareOfSheet": 0.876,
+          "insideTopToBottom": 1,
+          "inFrame": true,
+          "crossesEdge": true
+        }
+      ]
+    },
+    {
+      "pose": {
+        "yawDeg": -25,
+        "pitchDeg": -25,
+        "cm": 52
+      },
+      "phoneInFrame": true,
+      "sheetsInFrame": 6,
+      "sheetsCrossingEdge": 6,
+      "largestSheetCardWidths": 6,
+      "labelsShown": 6,
+      "labelOverlaps": 0,
+      "labelsOutsideCanvas": 0,
+      "sheetsInFrameWithoutLabel": [],
+      "guidesDrawn": 24,
+      "guidesPastFrameEdge": 13,
+      "distanceCm": 52,
+      "rowNextBelowPhone": {
+        "ids": [
+          "name"
+        ],
+        "insideTopToBottom": 1,
+        "visibleShareOfSheet": 0.887
+      },
+      "rowNextAbovePhone": {
+        "ids": [
+          "mark"
+        ],
+        "insideTopToBottom": 1,
+        "visibleShareOfSheet": 0.996
+      },
+      "labelsOnOtherSheets": [
+        {
+          "id": "bg",
+          "on": [
+            "mark"
+          ]
+        }
+      ],
+      "distanceLabelOnSheets": [
+        "name"
+      ],
+      "sheets": [
+        {
+          "id": "bg",
+          "on": true,
+          "kind": 0,
+          "roomY": 0,
+          "widthUnits": 6,
+          "visibleShareOfCanvas": 0.5934,
+          "visibleShareOfSheet": 0.444,
+          "insideTopToBottom": 0.848,
+          "inFrame": true,
+          "crossesEdge": true
+        },
+        {
+          "id": "grid",
+          "on": true,
+          "kind": 1,
+          "roomY": 0,
+          "widthUnits": 5,
+          "visibleShareOfCanvas": 0.6091,
+          "visibleShareOfSheet": 0.59,
+          "insideTopToBottom": 0.877,
+          "inFrame": true,
+          "crossesEdge": true
+        },
+        {
+          "id": "mark",
+          "on": true,
+          "kind": 2,
+          "roomY": 2.8,
+          "widthUnits": 3,
+          "visibleShareOfCanvas": 0.1381,
+          "visibleShareOfSheet": 0.996,
+          "insideTopToBottom": 1,
+          "inFrame": true,
+          "crossesEdge": true
+        },
+        {
+          "id": "name",
+          "on": true,
+          "kind": 2,
+          "roomY": -1.6666666666666665,
+          "widthUnits": 3,
+          "visibleShareOfCanvas": 0.0649,
+          "visibleShareOfSheet": 0.887,
+          "insideTopToBottom": 1,
+          "inFrame": true,
+          "crossesEdge": true
+        },
+        {
+          "id": "role",
+          "on": true,
+          "kind": 2,
+          "roomY": -2.5333333333333328,
+          "widthUnits": 3,
+          "visibleShareOfCanvas": 0.0276,
+          "visibleShareOfSheet": 0.825,
+          "insideTopToBottom": 1,
+          "inFrame": true,
+          "crossesEdge": true
+        },
+        {
+          "id": "contact",
+          "on": true,
+          "kind": 2,
+          "roomY": -3.1666666666666656,
+          "widthUnits": 3,
+          "visibleShareOfCanvas": 0.0258,
+          "visibleShareOfSheet": 0.749,
+          "insideTopToBottom": 1,
+          "inFrame": true,
+          "crossesEdge": true
+        }
+      ]
+    }
+  ]
+}

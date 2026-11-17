@@ -1,0 +1,322 @@
+{
+  "full-bleed 390x844 in 390x844": {
+    "end": {
+      "mad": 0,
+      "max": 0,
+      "over8": 0,
+      "n": 1316640
+    },
+    "flyEndMinAlpha": 255,
+    "pixelRatio": 1,
+    "buffer": [
+      390,
+      844
+    ],
+    "textureMB": 4.41,
+    "deckZoom": 0.8925,
+    "deckBoxCssPx": [
+      15.9,
+      33.8,
+      374.1,
+      810.2
+    ],
+    "deckMarginsCssPx": {
+      "left": 15.9,
+      "top": 33.8,
+      "right": 15.9,
+      "bottom": 33.8
+    },
+    "framesSampled": 41,
+    "closestToLeftEdgeCssPx": 0,
+    "closestToRightEdgeCssPx": 0,
+    "sides": true
+  },
+  "full-bleed 390x844 in 390x844, anchored": {
+    "end": {
+      "mad": 0,
+      "max": 0,
+      "over8": 0,
+      "n": 1316640
+    },
+    "flyEndMinAlpha": 255,
+    "pixelRatio": 1,
+    "buffer": [
+      390,
+      844
+    ],
+    "textureMB": 4.41,
+    "deckZoom": 0.8925,
+    "deckBoxCssPx": [
+      15.9,
+      33.8,
+      374.1,
+      810.2
+    ],
+    "deckMarginsCssPx": {
+      "left": 15.9,
+      "top": 33.8,
+      "right": 15.9,
+      "bottom": 33.8
+    },
+    "framesSampled": 41,
+    "closestToLeftEdgeCssPx": 0,
+    "closestToRightEdgeCssPx": 0,
+    "sides": true
+  },
+  "393x850 in 393x659": {
+    "end": {
+      "mad": 0,
+      "max": 0,
+      "over8": 0,
+      "n": 1035948
+    },
+    "flyEndMinAlpha": 255,
+    "pixelRatio": 1,
+    "buffer": [
+      393,
+      659
+    ],
+    "textureMB": 4.48,
+    "deckZoom": 0.6919,
+    "deckBoxCssPx": [
+      56.7,
+      26.4,
+      336.3,
+      632.6
+    ],
+    "deckMarginsCssPx": {
+      "left": 56.7,
+      "top": 26.4,
+      "right": 56.7,
+      "bottom": 26.4
+    },
+    "framesSampled": 41,
+    "closestToLeftEdgeCssPx": 0.11,
+    "closestToRightEdgeCssPx": 0.11,
+    "sides": true
+  },
+  "393x850 in 393x659, anchored": {
+    "end": {
+      "mad": 0,
+      "max": 0,
+      "over8": 0,
+      "n": 1035948
+    },
+    "flyEndMinAlpha": 255,
+    "pixelRatio": 1,
+    "buffer": [
+      393,
+      659
+    ],
+    "textureMB": 4.48,
+    "deckZoom": 0.6919,
+    "deckBoxCssPx": [
+      56.7,
+      26.4,
+      336.3,
+      632.6
+    ],
+    "deckMarginsCssPx": {
+      "left": 56.7,
+      "top": 26.4,
+      "right": 56.7,
+      "bottom": 26.4
+    },
+    "framesSampled": 41,
+    "closestToLeftEdgeCssPx": 0.11,
+    "closestToRightEdgeCssPx": 0.11,
+    "sides": true
+  },
+  "320x693 in 320x568": {
+    "end": {
+      "mad": 0,
+      "max": 0,
+      "over8": 0,
+      "n": 727040
+    },
+    "flyEndMinAlpha": 255,
+    "pixelRatio": 1,
+    "buffer": [
+      320,
+      568
+    ],
+    "textureMB": 3.08,
+    "deckZoom": 0.7315,
+    "deckBoxCssPx": [
+      39.6,
+      22.9,
+      280.4,
+      545.1
+    ],
+    "deckMarginsCssPx": {
+      "left": 39.6,
+      "top": 22.9,
+      "right": 39.6,
+      "bottom": 22.9
+    },
+    "framesSampled": 41,
+    "closestToLeftEdgeCssPx": 0,
+    "closestToRightEdgeCssPx": 0,
+    "sides": true
+  },
+  "320x693 in 320x568, anchored": {
+    "end": {
+      "mad": 0,
+      "max": 0,
+      "over8": 0,
+      "n": 727040
+    },
+    "flyEndMinAlpha": 255,
+    "pixelRatio": 1,
+    "buffer": [
+      320,
+      568
+    ],
+    "textureMB": 3.08,
+    "deckZoom": 0.7315,
+    "deckBoxCssPx": [
+      39.6,
+      22.9,
+      280.4,
+      545.1
+    ],
+    "deckMarginsCssPx": {
+      "left": 39.6,
+      "top": 22.9,
+      "right": 39.6,
+      "bottom": 22.9
+    },
+    "framesSampled": 41,
+    "closestToLeftEdgeCssPx": 0,
+    "closestToRightEdgeCssPx": 0,
+    "sides": true
+  },
+  "centred 320x692 in 390x844": {
+    "end": {
+      "mad": 0,
+      "max": 0,
+      "over8": 0,
+      "n": 1316640
+    },
+    "flyEndMinAlpha": 255,
+    "pixelRatio": 1,
+    "buffer": [
+      390,
+      844
+    ],
+    "textureMB": 3.08,
+    "deckZoom": 1.0884,
+    "deckBoxCssPx": [
+      16,
+      33.9,
+      374,
+      810.3
+    ],
+    "deckMarginsCssPx": {
+      "left": 16,
+      "top": 33.9,
+      "right": 16,
+      "bottom": 33.7
+    },
+    "framesSampled": 41,
+    "closestToLeftEdgeCssPx": 15.97,
+    "closestToRightEdgeCssPx": 15.97,
+    "sides": true
+  },
+  "centred 320x692 in 390x844, anchored": {
+    "end": {
+      "mad": 0,
+      "max": 0,
+      "over8": 0,
+      "n": 1316640
+    },
+    "flyEndMinAlpha": 255,
+    "pixelRatio": 1,
+    "buffer": [
+      390,
+      844
+    ],
+    "textureMB": 3.08,
+    "deckZoom": 1.0884,
+    "deckBoxCssPx": [
+      16,
+      33.9,
+      374,
+      810.3
+    ],
+    "deckMarginsCssPx": {
+      "left": 16,
+      "top": 33.9,
+      "right": 16,
+      "bottom": 33.7
+    },
+    "framesSampled": 41,
+    "closestToLeftEdgeCssPx": 15.97,
+    "closestToRightEdgeCssPx": 15.97,
+    "sides": true
+  },
+  "extra: 430x930 at (-20,-30) in 390x844": {
+    "end": {
+      "mad": 0,
+      "max": 0,
+      "over8": 0,
+      "n": 1316640
+    },
+    "flyEndMinAlpha": 255,
+    "pixelRatio": 1,
+    "buffer": [
+      390,
+      844
+    ],
+    "textureMB": 5.3,
+    "deckZoom": 0.81,
+    "deckBoxCssPx": [
+      15.9,
+      33.8,
+      374.1,
+      810.2
+    ],
+    "deckMarginsCssPx": {
+      "left": 15.9,
+      "top": 33.8,
+      "right": 15.9,
+      "bottom": 33.8
+    },
+    "framesSampled": 41,
+    "closestToLeftEdgeCssPx": -19.87,
+    "closestToRightEdgeCssPx": -19.87,
+    "sides": false
+  },
+  "extra: 430x930 at (-20,-30) in 390x844, anchored": {
+    "end": {
+      "mad": 0,
+      "max": 0,
+      "over8": 0,
+      "n": 1316640
+    },
+    "flyEndMinAlpha": 255,
+    "pixelRatio": 1,
+    "buffer": [
+      390,
+      844
+    ],
+    "textureMB": 5.3,
+    "deckZoom": 0.81,
+    "deckBoxCssPx": [
+      15.9,
+      33.8,
+      374.1,
+      810.2
+    ],
+    "deckMarginsCssPx": {
+      "left": 15.9,
+      "top": 33.8,
+      "right": 15.9,
+      "bottom": 33.8
+    },
+    "framesSampled": 41,
+    "closestToLeftEdgeCssPx": -19.87,
+    "closestToRightEdgeCssPx": -19.87,
+    "sides": false
+  }
+}

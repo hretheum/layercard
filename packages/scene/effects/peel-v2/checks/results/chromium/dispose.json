@@ -1,0 +1,38 @@
+{
+  "host": {
+    "liveTextures": 7,
+    "liveGeometries": 11,
+    "livePrograms": 6,
+    "rafWhileMounted": 55,
+    "rafAfterDispose": 0,
+    "pendingPlayResolved": true,
+    "textures": 0,
+    "geometries": 0,
+    "programs": 0,
+    "rafFlag": false,
+    "remountDiff": {
+      "mad": 0,
+      "max": 0,
+      "over8": 0,
+      "n": 1316640
+    }
+  },
+  "guest": {
+    "liveTextures": 7,
+    "liveGeometries": 12,
+    "livePrograms": 6,
+    "rafWhileMounted": 55,
+    "rafAfterDispose": 0,
+    "pendingPlayResolved": true,
+    "textures": 0,
+    "geometries": 0,
+    "programs": 0,
+    "rafFlag": false,
+    "remountDiff": {
+      "mad": 0.0000015190181066958319,
+      "max": 1,
+      "over8": 0,
+      "n": 1316640
+    }
+  }
+}

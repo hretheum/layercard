@@ -1,0 +1,178 @@
+{
+  "flat": {
+    "mad": 0,
+    "max": 0,
+    "over8": 0,
+    "n": 1316640
+  },
+  "tiltX": [
+    {
+      "id": "bg",
+      "qr": false,
+      "px": 0,
+      "sc": 1
+    },
+    {
+      "id": "grid",
+      "qr": false,
+      "px": 2,
+      "sc": 1
+    },
+    {
+      "id": "mark",
+      "qr": false,
+      "px": 4,
+      "sc": 1
+    },
+    {
+      "id": "name",
+      "qr": false,
+      "px": 6,
+      "sc": 1
+    },
+    {
+      "id": "role",
+      "qr": false,
+      "px": 8,
+      "sc": 1
+    },
+    {
+      "id": "contact",
+      "qr": false,
+      "px": 10,
+      "sc": 1
+    },
+    {
+      "id": "qr",
+      "qr": true,
+      "px": 4,
+      "sc": 1
+    }
+  ],
+  "tiltXY": [
+    {
+      "id": "bg",
+      "qr": false,
+      "px": 0,
+      "sc": 1
+    },
+    {
+      "id": "grid",
+      "qr": false,
+      "px": 2,
+      "sc": 1
+    },
+    {
+      "id": "mark",
+      "qr": false,
+      "px": 4,
+      "sc": 1
+    },
+    {
+      "id": "name",
+      "qr": false,
+      "px": 6,
+      "sc": 1
+    },
+    {
+      "id": "role",
+      "qr": false,
+      "px": 8,
+      "sc": 1
+    },
+    {
+      "id": "contact",
+      "qr": false,
+      "px": 10,
+      "sc": 1
+    },
+    {
+      "id": "qr",
+      "qr": true,
+      "px": 4,
+      "sc": 1
+    }
+  ],
+  "breath": [
+    {
+      "id": "bg",
+      "qr": false,
+      "px": 0,
+      "sc": 1
+    },
+    {
+      "id": "grid",
+      "qr": false,
+      "px": 0.3,
+      "sc": 1
+    },
+    {
+      "id": "mark",
+      "qr": false,
+      "px": 0.6,
+      "sc": 1
+    },
+    {
+      "id": "name",
+      "qr": false,
+      "px": 0.9000000000000001,
+      "sc": 1
+    },
+    {
+      "id": "role",
+      "qr": false,
+      "px": 1.2,
+      "sc": 1
+    },
+    {
+      "id": "contact",
+      "qr": false,
+      "px": 1.5,
+      "sc": 1
+    },
+    {
+      "id": "qr",
+      "qr": true,
+      "px": 0.6,
+      "sc": 1
+    }
+  ],
+  "back": {
+    "mad": 0,
+    "max": 0,
+    "over8": 0,
+    "n": 1316640
+  },
+  "connect": {
+    "changedOutsideQr": 0,
+    "changedInsideQr": 13000
+  },
+  "stats": {
+    "raf": true,
+    "disposed": false,
+    "frames": 7,
+    "textures": 11,
+    "geometries": 13,
+    "programs": 9,
+    "calls": 8,
+    "triangles": 86,
+    "texBytes": 5114293,
+    "pr": 1,
+    "buffer": [
+      390,
+      844
+    ],
+    "css": [
+      390,
+      844
+    ],
+    "fit": [
+      0,
+      0,
+      390,
+      844
+    ],
+    "budgetBytes": 67108864,
+    "gpu": "ANGLE (Apple, ANGLE Metal Renderer: Apple M3, Unspecified Version)"
+  }
+}

@@ -1,0 +1,423 @@
+{
+  "pixelRatio": 1,
+  "depart": [
+    {
+      "id": "contact",
+      "tilt": [
+        0,
+        0
+      ],
+      "rectPx": [
+        44,
+        579,
+        346,
+        607
+      ],
+      "changedInsideRect": 92892,
+      "changedInTag": 0,
+      "changedOutside": 0,
+      "outsideByTau": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "role",
+      "tilt": [
+        0,
+        0
+      ],
+      "rectPx": [
+        44,
+        539,
+        346,
+        571
+      ],
+      "changedInsideRect": 108880,
+      "changedInTag": 0,
+      "changedOutside": 0,
+      "outsideByTau": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "name",
+      "tilt": [
+        0,
+        0
+      ],
+      "rectPx": [
+        44,
+        459,
+        346,
+        534
+      ],
+      "changedInsideRect": 275320,
+      "changedInTag": 0,
+      "changedOutside": 0,
+      "outsideByTau": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "mark",
+      "tilt": [
+        0,
+        0
+      ],
+      "rectPx": [
+        44,
+        119,
+        346,
+        421
+      ],
+      "changedInsideRect": 1143433,
+      "changedInTag": 0,
+      "changedOutside": 0,
+      "outsideByTau": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "grid",
+      "tilt": [
+        0,
+        0
+      ],
+      "rectPx": [
+        -1,
+        -1,
+        391,
+        845
+      ],
+      "changedInsideRect": 4699039,
+      "changedInTag": 0,
+      "changedOutside": 0,
+      "outsideByTau": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "bg",
+      "tilt": [
+        0,
+        0
+      ],
+      "rectPx": [
+        -1,
+        -1,
+        391,
+        845
+      ],
+      "changedInsideRect": 4338483,
+      "changedInTag": 0,
+      "changedOutside": 0,
+      "outsideByTau": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "contact",
+      "tilt": [
+        0.8,
+        -0.6
+      ],
+      "rectPx": [
+        44,
+        579,
+        346,
+        607
+      ],
+      "changedInsideRect": 92987,
+      "changedInTag": 0,
+      "changedOutside": 0,
+      "outsideByTau": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "role",
+      "tilt": [
+        0.8,
+        -0.6
+      ],
+      "rectPx": [
+        44,
+        539,
+        346,
+        571
+      ],
+      "changedInsideRect": 108879,
+      "changedInTag": 0,
+      "changedOutside": 0,
+      "outsideByTau": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "name",
+      "tilt": [
+        0.8,
+        -0.6
+      ],
+      "rectPx": [
+        44,
+        459,
+        346,
+        534
+      ],
+      "changedInsideRect": 275398,
+      "changedInTag": 0,
+      "changedOutside": 0,
+      "outsideByTau": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "mark",
+      "tilt": [
+        0.8,
+        -0.6
+      ],
+      "rectPx": [
+        44,
+        119,
+        346,
+        421
+      ],
+      "changedInsideRect": 1166063,
+      "changedInTag": 0,
+      "changedOutside": 0,
+      "outsideByTau": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "grid",
+      "tilt": [
+        0.8,
+        -0.6
+      ],
+      "rectPx": [
+        -1,
+        -1,
+        391,
+        845
+      ],
+      "changedInsideRect": 4705126,
+      "changedInTag": 0,
+      "changedOutside": 0,
+      "outsideByTau": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "bg",
+      "tilt": [
+        0.8,
+        -0.6
+      ],
+      "rectPx": [
+        -1,
+        -1,
+        391,
+        845
+      ],
+      "changedInsideRect": 4416409,
+      "changedInTag": 0,
+      "changedOutside": 0,
+      "outsideByTau": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  "worstOutside": 0,
+  "sidewaysStatesInDepart": 0,
+  "maxSwellInDepart": 1.035,
+  "rebuild": {
+    "frames": 121,
+    "sidewaysStates": 0,
+    "maxSwell": 1.035,
+    "landedWithOutline": 0
+  },
+  "tagText": "Lifted to guest"
+}

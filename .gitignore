@@ -1,0 +1,12 @@
+node_modules/
+.DS_Store
+.wrangler/
+.env*
+artifacts/tmp/
+test-results/
+playwright-report/
+# private card content never lives in this repo
+content/
+.claude/settings.local.json
+apps/card/public/content/
+worker/public/

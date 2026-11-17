@@ -1,0 +1,255 @@
+{
+  "assumedCardWidthCm": 7,
+  "views": [
+    {
+      "pose": {
+        "yawDeg": 0,
+        "pitchDeg": 0,
+        "rollDeg": 0,
+        "offset": [
+          0,
+          0
+        ],
+        "distanceUnits": 4.2857
+      },
+      "poseDistanceCm": 30,
+      "shownCm": 30,
+      "errorCm": 0,
+      "visible": true,
+      "labelRect": [
+        175,
+        596,
+        41,
+        18
+      ],
+      "labelInsideCanvas": true,
+      "redShareOfLabel": 0.787,
+      "labelOffLineStartCssPx": 0.5,
+      "lineStartOffPhoneFootCssPx": 0,
+      "lineEnd": [
+        195,
+        832
+      ]
+    },
+    {
+      "pose": {
+        "yawDeg": 0,
+        "pitchDeg": 0,
+        "rollDeg": 0,
+        "offset": [
+          0,
+          0
+        ],
+        "distanceUnits": 6.7143
+      },
+      "poseDistanceCm": 47,
+      "shownCm": 47,
+      "errorCm": 0,
+      "visible": true,
+      "labelRect": [
+        175,
+        530,
+        41,
+        18
+      ],
+      "labelInsideCanvas": true,
+      "redShareOfLabel": 0.822,
+      "labelOffLineStartCssPx": 0.52,
+      "lineStartOffPhoneFootCssPx": 0,
+      "lineEnd": [
+        195,
+        832
+      ]
+    },
+    {
+      "pose": {
+        "yawDeg": 0,
+        "pitchDeg": 0,
+        "rollDeg": 0,
+        "offset": [
+          0,
+          0
+        ],
+        "distanceUnits": 8.5714
+      },
+      "poseDistanceCm": 60,
+      "shownCm": 60,
+      "errorCm": 0,
+      "visible": true,
+      "labelRect": [
+        175,
+        505,
+        41,
+        18
+      ],
+      "labelInsideCanvas": true,
+      "redShareOfLabel": 0.787,
+      "labelOffLineStartCssPx": 0.69,
+      "lineStartOffPhoneFootCssPx": 0,
+      "lineEnd": [
+        195,
+        832
+      ]
+    },
+    {
+      "pose": {
+        "yawDeg": 20,
+        "pitchDeg": 10,
+        "rollDeg": 0,
+        "offset": [
+          0,
+          0
+        ],
+        "distanceUnits": 5
+      },
+      "poseDistanceCm": 35,
+      "shownCm": 35,
+      "errorCm": 0,
+      "visible": true,
+      "labelRect": [
+        174,
+        562,
+        41,
+        18
+      ],
+      "labelInsideCanvas": true,
+      "redShareOfLabel": 0.798,
+      "labelOffLineStartCssPx": 0.56,
+      "lineStartOffPhoneFootCssPx": 0,
+      "lineEnd": [
+        195,
+        832
+      ]
+    },
+    {
+      "pose": {
+        "yawDeg": -35,
+        "pitchDeg": 0,
+        "rollDeg": 0,
+        "offset": [
+          0,
+          0
+        ],
+        "distanceUnits": 7.3
+      },
+      "poseDistanceCm": 51.1,
+      "shownCm": 51,
+      "errorCm": 0.1,
+      "visible": true,
+      "labelRect": [
+        175,
+        520,
+        41,
+        18
+      ],
+      "labelInsideCanvas": true,
+      "redShareOfLabel": 0.813,
+      "labelOffLineStartCssPx": 0.69,
+      "lineStartOffPhoneFootCssPx": 0,
+      "lineEnd": [
+        195,
+        832
+      ]
+    },
+    {
+      "pose": {
+        "yawDeg": 10,
+        "pitchDeg": -25,
+        "rollDeg": 0,
+        "offset": [
+          0.8,
+          0.9
+        ],
+        "distanceUnits": 6.2177
+      },
+      "poseDistanceCm": 43.52,
+      "shownCm": 44,
+      "errorCm": 0.48,
+      "visible": true,
+      "labelRect": [
+        274,
+        427,
+        41,
+        18
+      ],
+      "labelInsideCanvas": true,
+      "redShareOfLabel": 0.816,
+      "labelOffLineStartCssPx": 0.34,
+      "lineStartOffPhoneFootCssPx": 0,
+      "lineEnd": [
+        195,
+        832
+      ]
+    },
+    {
+      "pose": {
+        "yawDeg": 0,
+        "pitchDeg": 0,
+        "rollDeg": 4,
+        "offset": [
+          0.2,
+          0.4
+        ],
+        "distanceUnits": 3.4293
+      },
+      "poseDistanceCm": 24.01,
+      "shownCm": 24,
+      "errorCm": 0.01,
+      "visible": true,
+      "labelRect": [
+        232,
+        561,
+        41,
+        18
+      ],
+      "labelInsideCanvas": true,
+      "redShareOfLabel": 0.808,
+      "labelOffLineStartCssPx": 0.45,
+      "lineStartOffPhoneFootCssPx": 0,
+      "lineEnd": [
+        195,
+        832
+      ]
+    },
+    {
+      "pose": {
+        "yawDeg": 30,
+        "pitchDeg": 15,
+        "rollDeg": -3,
+        "offset": [
+          -1,
+          1.4
+        ],
+        "distanceUnits": 9.5561
+      },
+      "poseDistanceCm": 66.89,
+      "shownCm": 67,
+      "errorCm": 0.11,
+      "visible": true,
+      "labelRect": [
+        98,
+        390,
+        41,
+        18
+      ],
+      "labelInsideCanvas": true,
+      "redShareOfLabel": 0.816,
+      "labelOffLineStartCssPx": 0.16,
+      "lineStartOffPhoneFootCssPx": 0,
+      "lineEnd": [
+        195,
+        832
+      ]
+    }
+  ],
+  "jitter": {
+    "frames": 240,
+    "changesOfTheShownNumber": 0,
+    "worstErrorCm": 0.156
+  },
+  "unanchored": {
+    "shownCm": 47,
+    "visible": true,
+    "virtualDistanceCm": 46.9
+  }
+}

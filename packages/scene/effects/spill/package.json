@@ -1,0 +1,36 @@
+{
+  "name": "@layercard/effect-spill",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "spill — a phone business card whose design file pours out of the screen into the room at room scale (scene contract v1.1)",
+  "main": "./dist/spill.js",
+  "module": "./dist/spill.js",
+  "exports": {
+    ".": "./dist/spill.js"
+  },
+  "files": [
+    "dist"
+  ],
+  "sideEffects": false,
+  "scripts": {
+    "dev": "vite",
+    "typecheck": "tsc --noEmit -p tsconfig.json",
+    "build": "tsc --noEmit -p tsconfig.json && vite build",
+    "check": "playwright test -c checks/playwright.config.ts",
+    "sheets": "node scripts/sheets.mjs artifacts",
+    "video": "node scripts/video.mjs artifacts/spill-v4-sequence.mp4"
+  },
+  "peerDependencies": {
+    "three": "0.187.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.65.1",
+    "@types/node": "^22.10.0",
+    "@types/three": "0.187.0",
+    "jsqr": "1.4.0",
+    "three": "0.187.0",
+    "typescript": "5.9.3",
+    "vite": "7.3.8"
+  }
+}

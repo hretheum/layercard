@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en" translate="no">
+<head>
+  <meta charset="utf-8" />
+  <meta name="google" content="notranslate" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, user-scalable=no" />
+  <meta name="theme-color" content="#141924" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="apple-mobile-web-app-title" content="Card" />
+  <link rel="manifest" href="/k/host.webmanifest" />
+  <link rel="icon" href="data:," />
+  <title>layercard · host</title>
+</head>
+<body class="host" style="background:#141924">
+  <canvas id="scene"></canvas>
+  <canvas id="marker"></canvas>
+  <div id="dot"></div>
+  <button id="start" type="button">…</button>
+  <script src="../vendor/js-aruco2/cv.js"></script>
+  <script src="../vendor/js-aruco2/aruco.js"></script>
+  <script src="../vendor/js-aruco2/aruco_4x4_1000.js"></script>
+  <script type="module" src="/src/host.ts"></script>
+</body>
+</html>

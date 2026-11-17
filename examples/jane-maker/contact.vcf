@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Maker;Jane;;;
+FN:Jane Maker
+TITLE:Product designer
+EMAIL;TYPE=INTERNET:jane@example.com
+URL:https://example.com
+END:VCARD

@@ -1,0 +1,60 @@
+{
+  "samples": 1551,
+  "stepMs": 5,
+  "layers": {
+    "bg": {
+      "crossingFrom": 5.405,
+      "crossingMs": 280,
+      "wholeOnBoth": 0,
+      "drawnNowhere": 0,
+      "hostDrawsInFront": 0,
+      "guestDrawsBehind": 0,
+      "statesDiffer": 0
+    },
+    "grid": {
+      "crossingFrom": 4.905,
+      "crossingMs": 260,
+      "wholeOnBoth": 0,
+      "drawnNowhere": 0,
+      "hostDrawsInFront": 0,
+      "guestDrawsBehind": 0,
+      "statesDiffer": 0
+    },
+    "mark": {
+      "crossingFrom": 4.4,
+      "crossingMs": 265,
+      "wholeOnBoth": 0,
+      "drawnNowhere": 0,
+      "hostDrawsInFront": 0,
+      "guestDrawsBehind": 0,
+      "statesDiffer": 0
+    },
+    "name": {
+      "crossingFrom": 3.9,
+      "crossingMs": 265,
+      "wholeOnBoth": 0,
+      "drawnNowhere": 0,
+      "hostDrawsInFront": 0,
+      "guestDrawsBehind": 0,
+      "statesDiffer": 0
+    },
+    "role": {
+      "crossingFrom": 3.4,
+      "crossingMs": 265,
+      "wholeOnBoth": 0,
+      "drawnNowhere": 0,
+      "hostDrawsInFront": 0,
+      "guestDrawsBehind": 0,
+      "statesDiffer": 0
+    },
+    "contact": {
+      "crossingFrom": 2.9,
+      "crossingMs": 265,
+      "wholeOnBoth": 0,
+      "drawnNowhere": 0,
+      "hostDrawsInFront": 0,
+      "guestDrawsBehind": 0,
+      "statesDiffer": 0
+    }
+  }
+}

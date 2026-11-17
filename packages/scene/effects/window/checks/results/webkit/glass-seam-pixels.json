@@ -1,0 +1,1046 @@
+{
+  "measured": 200,
+  "worstGuestEdgePx": 0.74,
+  "worstHostEdgePx": 0.33,
+  "worstHostEdgeInCameraPx": 0.4,
+  "worstGapPx": 0.72,
+  "guestPixelsBehindTheCut": 0,
+  "guestPixelsBeforeAnyCrossing": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "rim": {
+    "withViewer": {
+      "rimLight": 0,
+      "nearWhitePixels": 732
+    },
+    "withoutViewer": {
+      "rimLight": 1,
+      "nearWhitePixels": 859
+    }
+  },
+  "rows": [
+    {
+      "sheet": "bg",
+      "pose": [
+        0,
+        0,
+        5.6
+      ],
+      "fraction": 0.2,
+      "t": 2.95,
+      "tiltDeg": 2.44,
+      "guest": [
+        0.35,
+        0.35,
+        0.35,
+        0.35,
+        0.35
+      ],
+      "host": [],
+      "cam": [],
+      "gap": [],
+      "guestPixelsBehindTheCut": 0
+    },
+    {
+      "sheet": "bg",
+      "pose": [
+        0,
+        0,
+        5.6
+      ],
+      "fraction": 0.4,
+      "t": 3,
+      "tiltDeg": 2.44,
+      "guest": [
+        0.12,
+        0.12,
+        0.12,
+        0.12,
+        0.12
+      ],
+      "host": [
+        -0.33,
+        -0.33,
+        -0.33
+      ],
+      "cam": [
+        -0.34,
+        -0.34,
+        -0.34
+      ],
+      "gap": [
+        0.22,
+        0.22,
+        0.22
+      ],
+      "guestPixelsBehindTheCut": 0
+    },
+    {
+      "sheet": "bg",
+      "pose": [
+        0,
+        0,
+        5.6
+      ],
+      "fraction": 0.6,
+      "t": 3.05,
+      "tiltDeg": 2.44,
+      "guest": [
+        -0.12,
+        -0.12,
+        -0.12,
+        -0.12,
+        -0.12
+      ],
+      "host": [
+        0.33,
+        0.32,
+        0.33
+      ],
+      "cam": [
+        -0.1,
+        -0.11,
+        -0.1
+      ],
+      "gap": [
+        0.22,
+        0.23,
+        0.22
+      ],
+      "guestPixelsBehindTheCut": 0
+    },
+    {
+      "sheet": "bg",
+      "pose": [
+        0,
+        0,
+        5.6
+      ],
+      "fraction": 0.8,
+      "t": 3.1,
+      "tiltDeg": 2.44,
+      "guest": [
+        -0.35,
+        -0.35,
+        -0.35,
+        -0.35,
+        -0.35
+      ],
+      "host": [
+        -0.03,
+        -0.03,
+        -0.03
+      ],
+      "cam": [
+        -0.32,
+        -0.31,
+        -0.32
+      ],
+      "gap": [
+        0.67,
+        0.66,
+        0.67
+      ],
+      "guestPixelsBehindTheCut": 0
+    },
+    {
+      "sheet": "bg",
+      "pose": [
+        0,
+        14,
+        6.75
+      ],
+      "fraction": 0.2,
+      "t": 2.95,
+      "tiltDeg": 2.44,
+      "guest": [
+        0.04,
+        0.04,
+        0.04,
+        0.04,
+        0.04
+      ],
+      "host": [
+        0.03,
+        0.02,
+        0.03
+      ],
+      "cam": [
+        -0.19,
+        -0.17,
+        -0.19
+      ],
+      "gap": [
+        0.15,
+        0.13,
+        0.15
+      ],
+      "guestPixelsBehindTheCut": 0
+    },
+    {
+      "sheet": "bg",
+      "pose": [
+        0,
+        14,
+        6.75
+      ],
+      "fraction": 0.4,
+      "t": 3,
+      "tiltDeg": 2.44,
+      "guest": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "host": [
+        -0.32,
+        -0.32,
+        -0.32
+      ],
+      "cam": [
+        -0.31,
+        -0.31,
+        -0.31
+      ],
+      "gap": [
+        0.31,
+        0.32,
+        0.31
+      ],
+      "guestPixelsBehindTheCut": 0
+    },
+    {
+      "sheet": "bg",
+      "pose": [
+        0,
+        14,
+        6.75
+      ],
+      "fraction": 0.6,
+      "t": 3.05,
+      "tiltDeg": 2.44,
+      "guest": [
+        0.34,
+        0.34,
+        0.34,
+        0.34,
+        0.34
+      ],
+      "host": [],
+      "cam": [],
+      "gap": [],
+      "guestPixelsBehindTheCut": 0
+    },
+    {
+      "sheet": "bg",
+      "pose": [
+        0,
+        14,
+        6.75
+      ],
+      "fraction": 0.8,
+      "t": 3.1,
+      "tiltDeg": 2.44,
+      "guest": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "host": [],
+      "cam": [],
+      "gap": [],
+      "guestPixelsBehindTheCut": 0
+    },
+    {
+      "sheet": "bg",
+      "pose": [
+        -12,
+        0,
+        4.5
+      ],
+      "fraction": 0.2,
+      "t": 2.95,
+      "tiltDeg": 2.44,
+      "guest": [
+        -0.42,
+        0.4,
+        0.24,
+        0.08,
+        -0.05
+      ],
+      "host": [],
+      "cam": [],
+      "gap": [],
+      "guestPixelsBehindTheCut": 0
+    },
+    {
+      "sheet": "bg",
+      "pose": [
+        -12,
+        0,
+        4.5
+      ],
+      "fraction": 0.4,
+      "t": 3,
+      "tiltDeg": 2.44,
+      "guest": [
+        0.19,
+        0.47,
+        -0.25,
+        0.03,
+        0.32
+      ],
+      "host": [
+        -0.33,
+        -0.33
+      ],
+      "cam": [
+        -0.17,
+        -0.39
+      ],
+      "gap": [
+        0.14,
+        0.07
+      ],
+      "guestPixelsBehindTheCut": 0
+    },
+    {
+      "sheet": "bg",
+      "pose": [
+        -12,
+        0,
+        4.5
+      ],
+      "fraction": 0.6,
+      "t": 3.05,
+      "tiltDeg": 2.44,
+      "guest": [
+        -0.19,
+        -0.47,
+        0.25,
+        -0.03,
+        -0.32
+      ],
+      "host": [
+        0.33,
+        0.32
+      ],
+      "cam": [
+        -0.06,
+        0.05
+      ],
+      "gap": [
+        0.08,
+        0.27
+      ],
+      "guestPixelsBehindTheCut": 0
+    },
+    {
+      "sheet": "bg",
+      "pose": [
+        -12,
+        0,
+        4.5
+      ],
+      "fraction": 0.8,
+      "t": 3.1,
+      "tiltDeg": 2.44,
+      "guest": [
+        0.42,
+        -0.4,
+        -0.24,
+        -0.08,
+        0.05
+      ],
+      "host": [],
+      "cam": [],
+      "gap": [],
+      "guestPixelsBehindTheCut": 0
+    },
+    {
+      "sheet": "bg",
+      "pose": [
+        0,
+        -12,
+        6.75
+      ],
+      "fraction": 0.2,
+      "t": 2.95,
+      "tiltDeg": 2.44,
+      "guest": [
+        -0.28,
+        -0.28,
+        -0.28,
+        -0.28,
+        -0.28
+      ],
+      "host": [],
+      "cam": [],
+      "gap": [],
+      "guestPixelsBehindTheCut": 0
+    },
+    {
+      "sheet": "bg",
+      "pose": [
+        0,
+        -12,
+        6.75
+      ],
+      "fraction": 0.4,
+      "t": 3,
+      "tiltDeg": 2.44,
+      "guest": [
+        -0.14,
+        -0.14,
+        -0.14,
+        -0.14,
+        -0.14
+      ],
+      "host": [],
+      "cam": [],
+      "gap": [],
+      "guestPixelsBehindTheCut": 0
+    },
+    {
+      "sheet": "bg",
+      "pose": [
+        0,
+        -12,
+        6.75
+      ],
+      "fraction": 0.6,
+      "t": 3.05,
+      "tiltDeg": 2.44,
+      "guest": [
+        -0.15,
+        -0.15,
+        -0.15,
+        -0.15,
+        -0.15
+      ],
+      "host": [
+        0.32,
+        0.32,
+        0.32
+      ],
+      "cam": [
+        -0.23,
+        -0.24,
+        -0.23
+      ],
+      "gap": [
+        0.39,
+        0.39,
+        0.39
+      ],
+      "guestPixelsBehindTheCut": 0
+    },
+    {
+      "sheet": "bg",
+      "pose": [
+        0,
+        -12,
+        6.75
+      ],
+      "fraction": 0.8,
+      "t": 3.1,
+      "tiltDeg": 2.44,
+      "guest": [
+        -0.36,
+        -0.36,
+        -0.36,
+        -0.36,
+        -0.36
+      ],
+      "host": [
+        -0.03,
+        -0.03,
+        -0.03
+      ],
+      "cam": [
+        -0.35,
+        -0.36,
+        -0.35
+      ],
+      "gap": [
+        0.72,
+        0.72,
+        0.72
+      ],
+      "guestPixelsBehindTheCut": 0
+    },
+    {
+      "sheet": "bg",
+      "pose": [
+        10,
+        5,
+        5.6
+      ],
+      "fraction": 0.2,
+      "t": 2.95,
+      "tiltDeg": 2.44,
+      "guest": [
+        0.1,
+        -0.02,
+        -0.13,
+        -0.25,
+        -0.36
+      ],
+      "host": [
+        0.02,
+        0.02
+      ],
+      "cam": [
+        -0.18,
+        -0.15
+      ],
+      "gap": [
+        0.08,
+        0.17
+      ],
+      "guestPixelsBehindTheCut": 0
+    },
+    {
+      "sheet": "bg",
+      "pose": [
+        10,
+        5,
+        5.6
+      ],
+      "fraction": 0.4,
+      "t": 3,
+      "tiltDeg": 2.44,
+      "guest": [
+        -0.28,
+        -0.09,
+        0.1,
+        0.3,
+        0.48
+      ],
+      "host": [
+        -0.32,
+        -0.33
+      ],
+      "cam": [
+        -0.4,
+        -0.25
+      ],
+      "gap": [
+        0.69,
+        0.34
+      ],
+      "guestPixelsBehindTheCut": 0
+    },
+    {
+      "sheet": "bg",
+      "pose": [
+        10,
+        5,
+        5.6
+      ],
+      "fraction": 0.6,
+      "t": 3.05,
+      "tiltDeg": 2.44,
+      "guest": [
+        0.09,
+        -0.42,
+        0.08,
+        -0.44,
+        0.05
+      ],
+      "host": [
+        0.33,
+        0.33
+      ],
+      "cam": [
+        -0.19,
+        -0.1
+      ],
+      "gap": [
+        0.1,
+        0.52
+      ],
+      "guestPixelsBehindTheCut": 0
+    },
+    {
+      "sheet": "bg",
+      "pose": [
+        10,
+        5,
+        5.6
+      ],
+      "fraction": 0.8,
+      "t": 3.1,
+      "tiltDeg": 2.44,
+      "guest": [
+        0.19,
+        -0.01,
+        -0.23,
+        -0.45,
+        0.31
+      ],
+      "host": [],
+      "cam": [],
+      "gap": [],
+      "guestPixelsBehindTheCut": 0
+    },
+    {
+      "sheet": "bg",
+      "pose": [
+        30,
+        0,
+        5.6
+      ],
+      "fraction": 0.2,
+      "t": 2.95,
+      "tiltDeg": 2.44,
+      "guest": [
+        0.05,
+        -0.32,
+        0.35,
+        0.06,
+        -0.18
+      ],
+      "host": [],
+      "cam": [],
+      "gap": [],
+      "guestPixelsBehindTheCut": 0
+    },
+    {
+      "sheet": "bg",
+      "pose": [
+        30,
+        0,
+        5.6
+      ],
+      "fraction": 0.4,
+      "t": 3,
+      "tiltDeg": 2.44,
+      "guest": [
+        0.02,
+        -0.44,
+        0.12,
+        -0.31,
+        0.27
+      ],
+      "host": [],
+      "cam": [],
+      "gap": [],
+      "guestPixelsBehindTheCut": 0
+    },
+    {
+      "sheet": "bg",
+      "pose": [
+        30,
+        0,
+        5.6
+      ],
+      "fraction": 0.6,
+      "t": 3.05,
+      "tiltDeg": 2.44,
+      "guest": [
+        -0.02,
+        0.44,
+        -0.12,
+        0.31,
+        -0.27
+      ],
+      "host": [],
+      "cam": [],
+      "gap": [],
+      "guestPixelsBehindTheCut": 0
+    },
+    {
+      "sheet": "bg",
+      "pose": [
+        30,
+        0,
+        5.6
+      ],
+      "fraction": 0.8,
+      "t": 3.1,
+      "tiltDeg": 2.44,
+      "guest": [
+        -0.05,
+        0.32,
+        -0.35,
+        -0.06,
+        0.18
+      ],
+      "host": [],
+      "cam": [],
+      "gap": [],
+      "guestPixelsBehindTheCut": 0
+    },
+    {
+      "sheet": "bg",
+      "pose": [
+        -25,
+        20,
+        4.5
+      ],
+      "fraction": 0.2,
+      "t": 2.95,
+      "tiltDeg": 2.44,
+      "guest": [
+        0.09,
+        -0.38,
+        0.06,
+        0.42,
+        -0.32
+      ],
+      "host": [],
+      "cam": [],
+      "gap": [],
+      "guestPixelsBehindTheCut": 0
+    },
+    {
+      "sheet": "bg",
+      "pose": [
+        -25,
+        20,
+        4.5
+      ],
+      "fraction": 0.4,
+      "t": 3,
+      "tiltDeg": 2.44,
+      "guest": [
+        0.23,
+        -0.21,
+        0.24,
+        -0.43,
+        -0.22
+      ],
+      "host": [],
+      "cam": [],
+      "gap": [],
+      "guestPixelsBehindTheCut": 0
+    },
+    {
+      "sheet": "bg",
+      "pose": [
+        -25,
+        20,
+        4.5
+      ],
+      "fraction": 0.6,
+      "t": 3.05,
+      "tiltDeg": 2.44,
+      "guest": [
+        0.46,
+        0.22,
+        -0.2,
+        0.25,
+        -0.31
+      ],
+      "host": [],
+      "cam": [],
+      "gap": [],
+      "guestPixelsBehindTheCut": 0
+    },
+    {
+      "sheet": "bg",
+      "pose": [
+        -25,
+        20,
+        4.5
+      ],
+      "fraction": 0.8,
+      "t": 3.1,
+      "tiltDeg": 2.44,
+      "guest": [
+        -0.16,
+        0.17,
+        0.34,
+        0.02,
+        0.1
+      ],
+      "host": [],
+      "cam": [],
+      "gap": [],
+      "guestPixelsBehindTheCut": 0
+    },
+    {
+      "sheet": "contact",
+      "pose": [
+        0,
+        0,
+        4.5
+      ],
+      "fraction": 0.2,
+      "t": 2.95,
+      "tiltDeg": 15.07,
+      "guest": [
+        -0.11,
+        -0.22,
+        -0.22,
+        -0.22,
+        -0.25
+      ],
+      "host": [],
+      "cam": [],
+      "gap": [],
+      "guestPixelsBehindTheCut": 0
+    },
+    {
+      "sheet": "contact",
+      "pose": [
+        0,
+        0,
+        4.5
+      ],
+      "fraction": 0.4,
+      "t": 3,
+      "tiltDeg": 15.07,
+      "guest": [
+        -0.31,
+        -0.41,
+        -0.41,
+        -0.41,
+        -0.43
+      ],
+      "host": [],
+      "cam": [],
+      "gap": [],
+      "guestPixelsBehindTheCut": 0
+    },
+    {
+      "sheet": "contact",
+      "pose": [
+        0,
+        0,
+        4.5
+      ],
+      "fraction": 0.6,
+      "t": 3.05,
+      "tiltDeg": 15.07,
+      "guest": [
+        0.52,
+        0.74,
+        0.15,
+        0.37,
+        0.37
+      ],
+      "host": [],
+      "cam": [],
+      "gap": [],
+      "guestPixelsBehindTheCut": 0
+    },
+    {
+      "sheet": "contact",
+      "pose": [
+        0,
+        0,
+        4.5
+      ],
+      "fraction": 0.8,
+      "t": 3.1,
+      "tiltDeg": 15.07,
+      "guest": [
+        0.34,
+        0.29,
+        0.38,
+        0.3,
+        0.19
+      ],
+      "host": [],
+      "cam": [],
+      "gap": [],
+      "guestPixelsBehindTheCut": 0
+    },
+    {
+      "sheet": "contact",
+      "pose": [
+        -25,
+        8,
+        3.6
+      ],
+      "fraction": 0.2,
+      "t": 2.95,
+      "tiltDeg": 15.07,
+      "guest": [
+        -0.07,
+        -0.26,
+        -0.29,
+        -0.22,
+        -0.36
+      ],
+      "host": [],
+      "cam": [],
+      "gap": [],
+      "guestPixelsBehindTheCut": 0
+    },
+    {
+      "sheet": "contact",
+      "pose": [
+        -25,
+        8,
+        3.6
+      ],
+      "fraction": 0.4,
+      "t": 3,
+      "tiltDeg": 15.07,
+      "guest": [
+        0.22,
+        0.03,
+        0,
+        0.03,
+        -0.19
+      ],
+      "host": [],
+      "cam": [],
+      "gap": [],
+      "guestPixelsBehindTheCut": 0
+    },
+    {
+      "sheet": "contact",
+      "pose": [
+        -25,
+        8,
+        3.6
+      ],
+      "fraction": 0.6,
+      "t": 3.05,
+      "tiltDeg": 15.07,
+      "guest": [
+        0.27,
+        0.54,
+        -0.02,
+        0.18,
+        -0.04
+      ],
+      "host": [],
+      "cam": [],
+      "gap": [],
+      "guestPixelsBehindTheCut": 0
+    },
+    {
+      "sheet": "contact",
+      "pose": [
+        -25,
+        8,
+        3.6
+      ],
+      "fraction": 0.8,
+      "t": 3.1,
+      "tiltDeg": 15.07,
+      "guest": [
+        0.29,
+        0.24,
+        0.43,
+        0.3,
+        -0.04
+      ],
+      "host": [],
+      "cam": [],
+      "gap": [],
+      "guestPixelsBehindTheCut": 0
+    },
+    {
+      "sheet": "contact",
+      "pose": [
+        30,
+        -10,
+        4.5
+      ],
+      "fraction": 0.2,
+      "t": 2.95,
+      "tiltDeg": 15.07,
+      "guest": [
+        -0.12,
+        -0.09,
+        -0.08,
+        -0.11,
+        0.03
+      ],
+      "host": [],
+      "cam": [],
+      "gap": [],
+      "guestPixelsBehindTheCut": 0
+    },
+    {
+      "sheet": "contact",
+      "pose": [
+        30,
+        -10,
+        4.5
+      ],
+      "fraction": 0.4,
+      "t": 3,
+      "tiltDeg": 15.07,
+      "guest": [
+        0.12,
+        0.13,
+        0.17,
+        0.14,
+        0.27
+      ],
+      "host": [],
+      "cam": [],
+      "gap": [],
+      "guestPixelsBehindTheCut": 0
+    },
+    {
+      "sheet": "contact",
+      "pose": [
+        30,
+        -10,
+        4.5
+      ],
+      "fraction": 0.6,
+      "t": 3.05,
+      "tiltDeg": 15.07,
+      "guest": [
+        -0.27,
+        -0.03,
+        -0.68,
+        -0.34,
+        -0.16
+      ],
+      "host": [],
+      "cam": [],
+      "gap": [],
+      "guestPixelsBehindTheCut": 0
+    },
+    {
+      "sheet": "contact",
+      "pose": [
+        30,
+        -10,
+        4.5
+      ],
+      "fraction": 0.8,
+      "t": 3.1,
+      "tiltDeg": 15.07,
+      "guest": [
+        -0.42,
+        -0.32,
+        -0.13,
+        -0.44,
+        -0.24
+      ],
+      "host": [],
+      "cam": [],
+      "gap": [],
+      "guestPixelsBehindTheCut": 0
+    }
+  ]
+}

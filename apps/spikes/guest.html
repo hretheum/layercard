@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, user-scalable=no" />
+  <meta name="theme-color" content="#000000" />
+  <title>layercard · tracking guest</title>
+  <style>
+    html,body{margin:0;height:100%;background:#000;overflow:hidden;font:13px/1.35 ui-monospace,Menlo,monospace;color:#fff}
+    #stage{position:absolute}
+    #stage video,#stage canvas{position:absolute;inset:0;width:100%;height:100%}
+    #stage video{object-fit:fill}
+    #hud{position:fixed;left:8px;right:8px;bottom:calc(8px + env(safe-area-inset-bottom));display:flex;flex-direction:column;gap:6px}
+    #stats{white-space:pre;background:rgba(0,0,0,.55);padding:8px;border-radius:8px}
+    #hud .row{display:flex;gap:6px}
+    button{font:inherit;padding:10px 12px;border-radius:8px;border:0;background:#2F80FF;color:#fff}
+    #start{position:fixed;inset:0;margin:auto;width:240px;height:56px;font-size:16px}
+  </style>
+</head>
+<body>
+  <div id="stage"><video id="v" playsinline muted></video><canvas id="gl"></canvas><canvas id="dbg"></canvas></div>
+  <button id="start">Point at the host phone</button>
+  <div id="hud"><div id="stats">tap the button to start the camera</div>
+    <div class="row"><button id="copy">Copy results</button><button id="reset">Reset timer</button></div></div>
+  <script src="/vendor/js-aruco2/cv.js"></script>
+  <script src="/vendor/js-aruco2/aruco.js"></script>
+  <script src="/vendor/js-aruco2/aruco_4x4_1000.js"></script>
+  <script type="module" src="/src/guest.ts"></script>
+</body>
+</html>

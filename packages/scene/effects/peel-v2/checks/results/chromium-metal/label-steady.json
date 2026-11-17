@@ -1,0 +1,136 @@
+{
+  "motion": {
+    "jitter": {
+      "standard (-14, 9, 5.6)": {
+        "frames": 240,
+        "seconds": 4,
+        "p50": 0,
+        "p95": 0,
+        "max": 0,
+        "stackMoveP95": 3.283,
+        "slotChanges": 0,
+        "changesSeen": 0,
+        "swapsPerSecond": 0
+      },
+      "frontal, 30 cm": {
+        "frames": 240,
+        "seconds": 4,
+        "p50": 0,
+        "p95": 0,
+        "max": 0,
+        "stackMoveP95": 3.131,
+        "slotChanges": 0,
+        "changesSeen": 0,
+        "swapsPerSecond": 0
+      },
+      "35 off axis, 60 cm": {
+        "frames": 240,
+        "seconds": 4,
+        "p50": 0,
+        "p95": 0,
+        "max": 0,
+        "stackMoveP95": 3.128,
+        "slotChanges": 0,
+        "changesSeen": 0,
+        "swapsPerSecond": 0
+      }
+    },
+    "sweep": {
+      "frames": 240,
+      "seconds": 4,
+      "p50": 0.0154,
+      "p95": 0.1995,
+      "max": 94.549,
+      "stackMoveP95": 3.242,
+      "slotChanges": 2,
+      "changesSeen": 2,
+      "swapsPerSecond": 0.5
+    },
+    "rest": {
+      "afterSeconds": 0.3,
+      "maxErrorCssPx": 0,
+      "sameSlots": true
+    },
+    "slide": {
+      "longestTravelCssPx": 285.7,
+      "largestShareOfTravelInOneFrame": 0.201
+    },
+    "seekTwice": {
+      "mad": 0,
+      "max": 0,
+      "over8": 0,
+      "n": 1316640
+    },
+    "oneFrameAfterAPoseChange": {
+      "sameSlots": true,
+      "lagCssPx": 2.164
+    }
+  },
+  "reduced": {
+    "jitter": {
+      "standard (-14, 9, 5.6)": {
+        "frames": 240,
+        "seconds": 4,
+        "p50": 0,
+        "p95": 0,
+        "max": 0,
+        "stackMoveP95": 3.283,
+        "slotChanges": 0,
+        "changesSeen": 0,
+        "swapsPerSecond": 0
+      },
+      "frontal, 30 cm": {
+        "frames": 240,
+        "seconds": 4,
+        "p50": 0,
+        "p95": 0,
+        "max": 0,
+        "stackMoveP95": 3.131,
+        "slotChanges": 0,
+        "changesSeen": 0,
+        "swapsPerSecond": 0
+      },
+      "35 off axis, 60 cm": {
+        "frames": 240,
+        "seconds": 4,
+        "p50": 0,
+        "p95": 0,
+        "max": 0,
+        "stackMoveP95": 3.128,
+        "slotChanges": 0,
+        "changesSeen": 0,
+        "swapsPerSecond": 0
+      }
+    },
+    "sweep": {
+      "frames": 240,
+      "seconds": 4,
+      "p50": 0,
+      "p95": 0.2407,
+      "max": 467.976,
+      "stackMoveP95": 3.242,
+      "slotChanges": 2,
+      "changesSeen": 2,
+      "swapsPerSecond": 0.5
+    },
+    "rest": {
+      "afterSeconds": 0.3,
+      "maxErrorCssPx": 0,
+      "sameSlots": true
+    },
+    "slide": {
+      "longestTravelCssPx": 285.7,
+      "largestShareOfTravelInOneFrame": 0.993
+    },
+    "seekTwice": {
+      "mad": 0,
+      "max": 0,
+      "over8": 0,
+      "n": 1316640
+    },
+    "oneFrameAfterAPoseChange": {
+      "sameSlots": true,
+      "lagCssPx": 2
+    }
+  }
+}

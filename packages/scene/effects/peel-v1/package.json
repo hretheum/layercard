@@ -1,0 +1,36 @@
+{
+  "name": "@layercard/effect-peel-v1",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "peel \u2014 a phone business card that comes apart into acrylic layer sheets (scene contract v1)",
+  "main": "./dist/peel.js",
+  "module": "./dist/peel.js",
+  "exports": {
+    ".": "./dist/peel.js"
+  },
+  "files": [
+    "dist"
+  ],
+  "sideEffects": false,
+  "scripts": {
+    "dev": "vite",
+    "typecheck": "tsc --noEmit -p tsconfig.json",
+    "build": "tsc --noEmit -p tsconfig.json && vite build",
+    "check": "playwright test -c checks/playwright.config.ts",
+    "sheets": "node scripts/sheets.mjs artifacts",
+    "video": "node scripts/video.mjs"
+  },
+  "peerDependencies": {
+    "three": "0.187.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.65.1",
+    "@types/node": "^22.10.0",
+    "@types/three": "0.187.0",
+    "jsqr": "1.4.0",
+    "three": "0.187.0",
+    "typescript": "5.9.3",
+    "vite": "7.3.8"
+  }
+}

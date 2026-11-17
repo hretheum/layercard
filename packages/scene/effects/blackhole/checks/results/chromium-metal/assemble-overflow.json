@@ -1,0 +1,162 @@
+{
+  "full-bleed 390x844 in 390x844": {
+    "end": {
+      "mad": 0,
+      "max": 0,
+      "over8": 0,
+      "n": 1316640
+    },
+    "flyEndMinAlpha": 255,
+    "stillFromLock": true,
+    "pixelRatio": 1,
+    "buffer": [
+      390,
+      844
+    ],
+    "textureMB": 4.26
+  },
+  "full-bleed 390x844 in 390x844, anchored": {
+    "end": {
+      "mad": 0,
+      "max": 0,
+      "over8": 0,
+      "n": 1316640
+    },
+    "flyEndMinAlpha": 255,
+    "stillFromLock": true,
+    "pixelRatio": 1,
+    "buffer": [
+      390,
+      844
+    ],
+    "textureMB": 4.26
+  },
+  "393x850 in 393x659": {
+    "end": {
+      "mad": 0,
+      "max": 0,
+      "over8": 0,
+      "n": 1035948
+    },
+    "flyEndMinAlpha": 255,
+    "stillFromLock": true,
+    "pixelRatio": 1,
+    "buffer": [
+      393,
+      659
+    ],
+    "textureMB": 4.32
+  },
+  "393x850 in 393x659, anchored": {
+    "end": {
+      "mad": 0,
+      "max": 0,
+      "over8": 0,
+      "n": 1035948
+    },
+    "flyEndMinAlpha": 255,
+    "stillFromLock": true,
+    "pixelRatio": 1,
+    "buffer": [
+      393,
+      659
+    ],
+    "textureMB": 4.32
+  },
+  "320x693 in 320x568": {
+    "end": {
+      "mad": 0,
+      "max": 0,
+      "over8": 0,
+      "n": 727040
+    },
+    "flyEndMinAlpha": 255,
+    "stillFromLock": true,
+    "pixelRatio": 1,
+    "buffer": [
+      320,
+      568
+    ],
+    "textureMB": 2.91
+  },
+  "320x693 in 320x568, anchored": {
+    "end": {
+      "mad": 0,
+      "max": 0,
+      "over8": 0,
+      "n": 727040
+    },
+    "flyEndMinAlpha": 255,
+    "stillFromLock": true,
+    "pixelRatio": 1,
+    "buffer": [
+      320,
+      568
+    ],
+    "textureMB": 2.91
+  },
+  "centred 320x692 in 390x844": {
+    "end": {
+      "mad": 0,
+      "max": 0,
+      "over8": 0,
+      "n": 1316640
+    },
+    "flyEndMinAlpha": 255,
+    "stillFromLock": true,
+    "pixelRatio": 1,
+    "buffer": [
+      390,
+      844
+    ],
+    "textureMB": 2.92
+  },
+  "centred 320x692 in 390x844, anchored": {
+    "end": {
+      "mad": 0,
+      "max": 0,
+      "over8": 0,
+      "n": 1316640
+    },
+    "flyEndMinAlpha": 255,
+    "stillFromLock": true,
+    "pixelRatio": 1,
+    "buffer": [
+      390,
+      844
+    ],
+    "textureMB": 2.92
+  },
+  "extra: 430x930 at (-20,-30) in 390x844": {
+    "end": {
+      "mad": 0,
+      "max": 0,
+      "over8": 0,
+      "n": 1316640
+    },
+    "flyEndMinAlpha": 255,
+    "stillFromLock": true,
+    "pixelRatio": 1,
+    "buffer": [
+      390,
+      844
+    ],
+    "textureMB": 5.14
+  },
+  "extra: 430x930 at (-20,-30) in 390x844, anchored": {
+    "end": {
+      "mad": 0,
+      "max": 0,
+      "over8": 0,
+      "n": 1316640
+    },
+    "flyEndMinAlpha": 255,
+    "stillFromLock": true,
+    "pixelRatio": 1,
+    "buffer": [
+      390,
+      844
+    ],
+    "textureMB": 5.14
+  }
+}

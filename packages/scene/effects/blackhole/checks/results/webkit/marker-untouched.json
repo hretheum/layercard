@@ -1,0 +1,42 @@
+{
+  "rects": [
+    {
+      "x": 97.5,
+      "y": 640,
+      "w": 195,
+      "h": 195
+    },
+    {
+      "x": 150,
+      "y": 380,
+      "w": 90,
+      "h": 90
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "w": 44,
+      "h": 44
+    },
+    {
+      "x": 346,
+      "y": 800,
+      "w": 44,
+      "h": 44
+    }
+  ],
+  "viewer": {
+    "frames": 122,
+    "rectFramesChanged": 0,
+    "nonZeroAlphaValues": 0,
+    "distinctPixelsBesideTheSinkRect": 36,
+    "pixelRatio": 1
+  },
+  "tilt": {
+    "frames": 122,
+    "rectFramesChanged": 0,
+    "nonZeroAlphaValues": 0,
+    "distinctPixelsBesideTheSinkRect": 43,
+    "pixelRatio": 1
+  }
+}

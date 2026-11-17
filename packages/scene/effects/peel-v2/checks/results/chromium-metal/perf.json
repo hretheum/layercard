@@ -1,0 +1,438 @@
+{
+  "note": "sceneMs = update + render + gl.finish() per frame, measured inside the effect (test build). rafIntervalMs = time between animation frames while the timeline played.",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/159.0.0.0 Safari/537.36",
+  "gpu": "ANGLE (Apple, ANGLE Metal Renderer: Apple M3, Unspecified Version)",
+  "softwareRenderer": false,
+  "devicePixelRatio": 2,
+  "canvasCss": [
+    390,
+    844
+  ],
+  "sizes": {
+    "bundleBytes": 69511,
+    "bundleGzipBytes": 22629,
+    "fontBytes": 18948
+  },
+  "runs": [
+    {
+      "role": "host",
+      "quality": "high",
+      "pixelRatio": 2,
+      "buffer": [
+        780,
+        1688
+      ],
+      "textureMB": 16.98,
+      "budgetMB": 64,
+      "gpu": "ANGLE (Apple, ANGLE Metal Renderer: Apple M3, Unspecified Version)",
+      "timelines": {
+        "idle": {
+          "frames": 47,
+          "sceneMs": {
+            "n": 47,
+            "median": 0.4,
+            "p95": 1,
+            "max": 20.3
+          },
+          "rafIntervalMs": {
+            "n": 91,
+            "median": 16.7,
+            "p95": 16.8,
+            "max": 33.2
+          },
+          "drawCalls": 14
+        },
+        "connect": {
+          "frames": 49,
+          "sceneMs": {
+            "n": 49,
+            "median": 0.3,
+            "p95": 0.7,
+            "max": 0.9
+          },
+          "rafIntervalMs": {
+            "n": 47,
+            "median": 16.7,
+            "p95": 16.7,
+            "max": 16.8
+          },
+          "drawCalls": 12
+        },
+        "depart": {
+          "frames": 367,
+          "sceneMs": {
+            "n": 240,
+            "median": 0.2,
+            "p95": 0.5,
+            "max": 1.2
+          },
+          "rafIntervalMs": {
+            "n": 365,
+            "median": 16.7,
+            "p95": 16.7,
+            "max": 16.8
+          },
+          "drawCalls": 8
+        },
+        "rebuild": {
+          "frames": 91,
+          "sceneMs": {
+            "n": 91,
+            "median": 0.2,
+            "p95": 0.5,
+            "max": 0.7
+          },
+          "rafIntervalMs": {
+            "n": 89,
+            "median": 16.7,
+            "p95": 16.7,
+            "max": 16.8
+          },
+          "drawCalls": 14
+        }
+      }
+    },
+    {
+      "role": "host",
+      "quality": "mid",
+      "pixelRatio": 1.5,
+      "buffer": [
+        585,
+        1266
+      ],
+      "textureMB": 9.57,
+      "budgetMB": 40,
+      "gpu": "ANGLE (Apple, ANGLE Metal Renderer: Apple M3, Unspecified Version)",
+      "timelines": {
+        "idle": {
+          "frames": 47,
+          "sceneMs": {
+            "n": 47,
+            "median": 0.3,
+            "p95": 0.6,
+            "max": 16.3
+          },
+          "rafIntervalMs": {
+            "n": 91,
+            "median": 16.7,
+            "p95": 16.8,
+            "max": 49.9
+          },
+          "drawCalls": 14
+        },
+        "connect": {
+          "frames": 49,
+          "sceneMs": {
+            "n": 49,
+            "median": 0.3,
+            "p95": 0.7,
+            "max": 1.2
+          },
+          "rafIntervalMs": {
+            "n": 47,
+            "median": 16.7,
+            "p95": 16.8,
+            "max": 16.8
+          },
+          "drawCalls": 12
+        },
+        "depart": {
+          "frames": 367,
+          "sceneMs": {
+            "n": 240,
+            "median": 0.2,
+            "p95": 0.5,
+            "max": 0.9
+          },
+          "rafIntervalMs": {
+            "n": 365,
+            "median": 16.7,
+            "p95": 16.7,
+            "max": 16.8
+          },
+          "drawCalls": 8
+        },
+        "rebuild": {
+          "frames": 91,
+          "sceneMs": {
+            "n": 91,
+            "median": 0.2,
+            "p95": 0.4,
+            "max": 0.7
+          },
+          "rafIntervalMs": {
+            "n": 89,
+            "median": 16.7,
+            "p95": 16.7,
+            "max": 16.8
+          },
+          "drawCalls": 14
+        }
+      }
+    },
+    {
+      "role": "host",
+      "quality": "low",
+      "pixelRatio": 1,
+      "buffer": [
+        390,
+        844
+      ],
+      "textureMB": 4.26,
+      "budgetMB": 24,
+      "gpu": "ANGLE (Apple, ANGLE Metal Renderer: Apple M3, Unspecified Version)",
+      "timelines": {
+        "idle": {
+          "frames": 47,
+          "sceneMs": {
+            "n": 47,
+            "median": 0.2,
+            "p95": 0.6,
+            "max": 7.8
+          },
+          "rafIntervalMs": {
+            "n": 91,
+            "median": 16.7,
+            "p95": 16.7,
+            "max": 16.7
+          },
+          "drawCalls": 8
+        },
+        "connect": {
+          "frames": 49,
+          "sceneMs": {
+            "n": 49,
+            "median": 0.2,
+            "p95": 0.4,
+            "max": 0.7
+          },
+          "rafIntervalMs": {
+            "n": 47,
+            "median": 16.7,
+            "p95": 16.7,
+            "max": 16.8
+          },
+          "drawCalls": 7
+        },
+        "depart": {
+          "frames": 367,
+          "sceneMs": {
+            "n": 240,
+            "median": 0.2,
+            "p95": 0.4,
+            "max": 1
+          },
+          "rafIntervalMs": {
+            "n": 365,
+            "median": 16.7,
+            "p95": 16.8,
+            "max": 16.8
+          },
+          "drawCalls": 8
+        },
+        "rebuild": {
+          "frames": 91,
+          "sceneMs": {
+            "n": 91,
+            "median": 0.2,
+            "p95": 0.4,
+            "max": 0.5
+          },
+          "rafIntervalMs": {
+            "n": 89,
+            "median": 16.7,
+            "p95": 16.8,
+            "max": 16.8
+          },
+          "drawCalls": 8
+        }
+      }
+    },
+    {
+      "role": "guest",
+      "quality": "high",
+      "pixelRatio": 2,
+      "buffer": [
+        780,
+        1688
+      ],
+      "textureMB": 16.98,
+      "budgetMB": 64,
+      "gpu": "ANGLE (Apple, ANGLE Metal Renderer: Apple M3, Unspecified Version)",
+      "timelines": {
+        "explode": {
+          "frames": 369,
+          "sceneMs": {
+            "n": 240,
+            "median": 0.4,
+            "p95": 0.8,
+            "max": 5.5
+          },
+          "rafIntervalMs": {
+            "n": 367,
+            "median": 16.7,
+            "p95": 16.8,
+            "max": 66.6
+          },
+          "drawCalls": 20
+        },
+        "fly": {
+          "frames": 73,
+          "sceneMs": {
+            "n": 73,
+            "median": 0.3,
+            "p95": 1,
+            "max": 2.1
+          },
+          "rafIntervalMs": {
+            "n": 71,
+            "median": 16.7,
+            "p95": 16.8,
+            "max": 16.8
+          },
+          "drawCalls": 12
+        },
+        "assemble": {
+          "frames": 61,
+          "sceneMs": {
+            "n": 61,
+            "median": 0.2,
+            "p95": 0.5,
+            "max": 0.6
+          },
+          "rafIntervalMs": {
+            "n": 59,
+            "median": 16.7,
+            "p95": 16.7,
+            "max": 16.8
+          },
+          "drawCalls": 7
+        }
+      }
+    },
+    {
+      "role": "guest",
+      "quality": "mid",
+      "pixelRatio": 1.5,
+      "buffer": [
+        585,
+        1266
+      ],
+      "textureMB": 9.57,
+      "budgetMB": 40,
+      "gpu": "ANGLE (Apple, ANGLE Metal Renderer: Apple M3, Unspecified Version)",
+      "timelines": {
+        "explode": {
+          "frames": 369,
+          "sceneMs": {
+            "n": 240,
+            "median": 0.3,
+            "p95": 0.7,
+            "max": 2.8
+          },
+          "rafIntervalMs": {
+            "n": 367,
+            "median": 16.7,
+            "p95": 16.7,
+            "max": 33.3
+          },
+          "drawCalls": 20
+        },
+        "fly": {
+          "frames": 73,
+          "sceneMs": {
+            "n": 73,
+            "median": 0.3,
+            "p95": 0.6,
+            "max": 1
+          },
+          "rafIntervalMs": {
+            "n": 71,
+            "median": 16.7,
+            "p95": 16.8,
+            "max": 16.8
+          },
+          "drawCalls": 12
+        },
+        "assemble": {
+          "frames": 61,
+          "sceneMs": {
+            "n": 61,
+            "median": 0.2,
+            "p95": 0.5,
+            "max": 0.6
+          },
+          "rafIntervalMs": {
+            "n": 59,
+            "median": 16.7,
+            "p95": 16.8,
+            "max": 16.8
+          },
+          "drawCalls": 7
+        }
+      }
+    },
+    {
+      "role": "guest",
+      "quality": "low",
+      "pixelRatio": 1,
+      "buffer": [
+        390,
+        844
+      ],
+      "textureMB": 4.26,
+      "budgetMB": 24,
+      "gpu": "ANGLE (Apple, ANGLE Metal Renderer: Apple M3, Unspecified Version)",
+      "timelines": {
+        "explode": {
+          "frames": 369,
+          "sceneMs": {
+            "n": 240,
+            "median": 0.3,
+            "p95": 0.7,
+            "max": 2.2
+          },
+          "rafIntervalMs": {
+            "n": 367,
+            "median": 16.7,
+            "p95": 16.7,
+            "max": 33.234
+          },
+          "drawCalls": 14
+        },
+        "fly": {
+          "frames": 73,
+          "sceneMs": {
+            "n": 73,
+            "median": 0.3,
+            "p95": 0.6,
+            "max": 1.4
+          },
+          "rafIntervalMs": {
+            "n": 71,
+            "median": 16.7,
+            "p95": 16.7,
+            "max": 16.8
+          },
+          "drawCalls": 7
+        },
+        "assemble": {
+          "frames": 61,
+          "sceneMs": {
+            "n": 61,
+            "median": 0.2,
+            "p95": 0.5,
+            "max": 0.9
+          },
+          "rafIntervalMs": {
+            "n": 59,
+            "median": 16.7,
+            "p95": 16.8,
+            "max": 16.8
+          },
+          "drawCalls": 7
+        }
+      }
+    }
+  ]
+}

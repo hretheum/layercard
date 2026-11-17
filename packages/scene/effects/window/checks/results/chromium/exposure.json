@@ -1,0 +1,79 @@
+{
+  "background": "#0F1216",
+  "backgroundLuminance": 0.00592,
+  "floor": 0.00548,
+  "lit": true,
+  "moments": [
+    0.6,
+    1.2,
+    1.8,
+    2.4,
+    3,
+    3.3,
+    4.1,
+    5.2,
+    5.6,
+    6.2,
+    7.75
+  ],
+  "darkest": 0.00592,
+  "darkestAt": "no viewer, level at 5.6 s",
+  "panelMin": 0.188,
+  "panelRatio": 31.7,
+  "rows": [
+    {
+      "eye": "no viewer, level",
+      "minLuminance": 0.00592,
+      "minAt": 5.6,
+      "pixelsBelowBackground": 0,
+      "panelLuminance": 0.1949,
+      "panelSamples": 169,
+      "panelOverBackground": 32.9
+    },
+    {
+      "eye": "no viewer, tilted",
+      "minLuminance": 0.00592,
+      "minAt": 5.6,
+      "pixelsBelowBackground": 0,
+      "panelLuminance": null,
+      "panelSamples": 0,
+      "panelOverBackground": null
+    },
+    {
+      "eye": "viewer frontal 45 cm",
+      "minLuminance": 0.00592,
+      "minAt": 5.6,
+      "pixelsBelowBackground": 0,
+      "panelLuminance": 0.1949,
+      "panelSamples": 169,
+      "panelOverBackground": 32.9
+    },
+    {
+      "eye": "viewer 35 deg right, 45 cm",
+      "minLuminance": 0.00592,
+      "minAt": 5.6,
+      "pixelsBelowBackground": 0,
+      "panelLuminance": null,
+      "panelSamples": 0,
+      "panelOverBackground": null
+    },
+    {
+      "eye": "viewer 35 deg below, 30 cm",
+      "minLuminance": 0.00592,
+      "minAt": 5.6,
+      "pixelsBelowBackground": 0,
+      "panelLuminance": 0.188,
+      "panelSamples": 65,
+      "panelOverBackground": 31.7
+    },
+    {
+      "eye": "viewer 20 deg left and above, 60 cm",
+      "minLuminance": 0.00592,
+      "minAt": 5.6,
+      "pixelsBelowBackground": 0,
+      "panelLuminance": null,
+      "panelSamples": 0,
+      "panelOverBackground": null
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "host-idle": {
+    "flashesPerSecond": 0,
+    "transitions": 0,
+    "minL": 0.0872,
+    "maxL": 0.0872
+  },
+  "host-connect": {
+    "flashesPerSecond": 0,
+    "transitions": 0,
+    "minL": 0.0606,
+    "maxL": 0.0872
+  },
+  "host-depart": {
+    "flashesPerSecond": 0,
+    "transitions": 0,
+    "minL": 0.0122,
+    "maxL": 0.0607
+  },
+  "host-rebuild": {
+    "flashesPerSecond": 0,
+    "transitions": 0,
+    "minL": 0.0122,
+    "maxL": 0.0874
+  },
+  "guest-unanchored-explode-on-white": {
+    "flashesPerSecond": 0,
+    "transitions": 1,
+    "minL": 0.1847,
+    "maxL": 0.928
+  },
+  "guest-unanchored-explode-on-black": {
+    "flashesPerSecond": 0,
+    "transitions": 0,
+    "minL": 0.0005,
+    "maxL": 0.0916
+  },
+  "guest-unanchored-fly-on-white": {
+    "flashesPerSecond": 0,
+    "transitions": 1,
+    "minL": 0.0709,
+    "maxL": 0.2504
+  },
+  "guest-unanchored-fly-on-black": {
+    "flashesPerSecond": 0,
+    "transitions": 0,
+    "minL": 0.0709,
+    "maxL": 0.0916
+  },
+  "guest-unanchored-assemble-on-white": {
+    "flashesPerSecond": 0,
+    "transitions": 0,
+    "minL": 0.0433,
+    "maxL": 0.0715
+  },
+  "guest-unanchored-assemble-on-black": {
+    "flashesPerSecond": 0,
+    "transitions": 0,
+    "minL": 0.0433,
+    "maxL": 0.0715
+  },
+  "guest-anchored-explode-on-white": {
+    "flashesPerSecond": 0,
+    "transitions": 1,
+    "minL": 0.2944,
+    "maxL": 1
+  },
+  "guest-anchored-explode-on-black": {
+    "flashesPerSecond": 0,
+    "transitions": 0,
+    "minL": 0,
+    "maxL": 0.0883
+  },
+  "guest-anchored-fly-on-white": {
+    "flashesPerSecond": 0,
+    "transitions": 1,
+    "minL": 0.0709,
+    "maxL": 0.3289
+  },
+  "guest-anchored-fly-on-black": {
+    "flashesPerSecond": 0,
+    "transitions": 0,
+    "minL": 0.0705,
+    "maxL": 0.0911
+  },
+  "guest-anchored-assemble-on-white": {
+    "flashesPerSecond": 0,
+    "transitions": 0,
+    "minL": 0.0433,
+    "maxL": 0.0715
+  },
+  "guest-anchored-assemble-on-black": {
+    "flashesPerSecond": 0,
+    "transitions": 0,
+    "minL": 0.0433,
+    "maxL": 0.0715
+  }
+}

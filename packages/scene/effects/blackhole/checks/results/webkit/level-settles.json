@@ -1,0 +1,122 @@
+{
+  "anchored, full-bleed": {
+    "samples": 303,
+    "levelFell": 0,
+    "firstRiseS": 2.5575,
+    "framesWithWobble": 169,
+    "levelAtEnd": {
+      "explode": 0.4394098437135526,
+      "fly": 1.1,
+      "assemble": 1.1
+    },
+    "midExplode": {
+      "stateShare": 0.25,
+      "wobbleCssPx": 3.2,
+      "surfaceCssPx": {
+        "mean": 210.71,
+        "min": 207,
+        "max": 214
+      },
+      "columns": 65,
+      "columnsWithMeniscus": 65
+    },
+    "flyEndMinAlpha": 255,
+    "last300ms": {
+      "frames": 31,
+      "movingValuesInState": 0,
+      "distinctFrames": 1,
+      "lastFrameAgainstThem": {
+        "mad": 0,
+        "max": 0,
+        "over8": 0,
+        "n": 1316640
+      },
+      "endAgainstFlat": {
+        "mad": 0,
+        "max": 0,
+        "over8": 0,
+        "n": 1316640
+      }
+    }
+  },
+  "unanchored, full-bleed": {
+    "samples": 303,
+    "levelFell": 0,
+    "firstRiseS": 2.5575,
+    "framesWithWobble": 169,
+    "levelAtEnd": {
+      "explode": 0.4394098437135526,
+      "fly": 1.1,
+      "assemble": 1.1
+    },
+    "midExplode": {
+      "stateShare": 0.25,
+      "wobbleCssPx": 3.2,
+      "surfaceCssPx": {
+        "mean": 210.71,
+        "min": 207,
+        "max": 214
+      },
+      "columns": 65,
+      "columnsWithMeniscus": 65
+    },
+    "flyEndMinAlpha": 255,
+    "last300ms": {
+      "frames": 31,
+      "movingValuesInState": 0,
+      "distinctFrames": 1,
+      "lastFrameAgainstThem": {
+        "mad": 0,
+        "max": 0,
+        "over8": 0,
+        "n": 1316640
+      },
+      "endAgainstFlat": {
+        "mad": 0,
+        "max": 0,
+        "over8": 0,
+        "n": 1316640
+      }
+    }
+  },
+  "anchored, inset rect": {
+    "samples": 303,
+    "levelFell": 0,
+    "firstRiseS": 2.5575,
+    "framesWithWobble": 169,
+    "levelAtEnd": {
+      "explode": 0.4394098437135526,
+      "fly": 1.1,
+      "assemble": 1.1
+    },
+    "midExplode": {
+      "stateShare": 0.25,
+      "wobbleCssPx": 3.2,
+      "surfaceCssPx": {
+        "mean": 210.71,
+        "min": 207,
+        "max": 214
+      },
+      "columns": 65,
+      "columnsWithMeniscus": 65
+    },
+    "flyEndMinAlpha": 255,
+    "last300ms": {
+      "frames": 31,
+      "movingValuesInState": 0,
+      "distinctFrames": 1,
+      "lastFrameAgainstThem": {
+        "mad": 0,
+        "max": 0,
+        "over8": 0,
+        "n": 1316640
+      },
+      "endAgainstFlat": {
+        "mad": 0,
+        "max": 0,
+        "over8": 0,
+        "n": 1316640
+      }
+    }
+  }
+}

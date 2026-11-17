@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, user-scalable=no" />
+  <meta name="theme-color" content="#000000" />
+  <title>layercard · tracking guest</title>
+  <style>html,body{color:#fff;background:#000;height:100%;margin:0;font:13px/1.35 ui-monospace,Menlo,monospace;overflow:hidden}#stage{position:absolute}#stage video,#stage canvas{width:100%;height:100%;position:absolute;inset:0}#stage video{object-fit:fill}#hud{left:8px;right:8px;bottom:calc(8px + env(safe-area-inset-bottom));flex-direction:column;gap:6px;display:flex;position:fixed}#stats{white-space:pre;background:#0000008c;border-radius:8px;padding:8px}#hud .row{gap:6px;display:flex}button{font:inherit;color:#fff;background:#2f80ff;border:0;border-radius:8px;padding:10px 12px}#start{width:240px;height:56px;margin:auto;font-size:16px;position:fixed;inset:0}</style>
+  <script type="module" crossorigin src="/assets/guest-DcuMF2Cm.js"></script>
+  <link rel="modulepreload" crossorigin href="/assets/modulepreload-polyfill-P2Xu9kJm.js">
+  <link rel="modulepreload" crossorigin href="/assets/layout-C7jTytks.js">
+</head>
+<body>
+  <div id="stage"><video id="v" playsinline muted></video><canvas id="gl"></canvas><canvas id="dbg"></canvas></div>
+  <button id="start">Point at the host phone</button>
+  <div id="hud"><div id="stats">tap the button to start the camera</div>
+    <div class="row"><button id="copy">Copy results</button><button id="reset">Reset timer</button></div></div>
+  <script src="/vendor/js-aruco2/cv.js"></script>
+  <script src="/vendor/js-aruco2/aruco.js"></script>
+  <script src="/vendor/js-aruco2/aruco_4x4_1000.js"></script>
+</body>
+</html>

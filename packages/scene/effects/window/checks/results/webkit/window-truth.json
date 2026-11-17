@@ -1,0 +1,725 @@
+{
+  "eyes": 19,
+  "images": 19,
+  "worstHostPx": 0.000019,
+  "worstCamPx": 0.000011,
+  "worstImageShiftPx": 0.24,
+  "worstQuarterShiftPx": 0.36,
+  "quartersPlaced": 54,
+  "quarters": 76,
+  "rows": [
+    {
+      "yaw": 0,
+      "pitch": 0,
+      "dist": 4.5,
+      "eye": [
+        0,
+        0,
+        4.5
+      ],
+      "screenWidthPx": 156.1,
+      "errHostPx": 0,
+      "errCamPx": 0,
+      "image": {
+        "pixels": 48069,
+        "transparent": 0,
+        "meanAbsDiff": 10.54,
+        "shift": [
+          -0.05,
+          -0.05
+        ],
+        "distinct": 1.32,
+        "quarters": [
+          [
+            -0.08,
+            -0.06
+          ],
+          [
+            -0.03,
+            -0.07
+          ],
+          [
+            -0.03,
+            -0.04
+          ],
+          [
+            -0.08,
+            -0.03
+          ]
+        ]
+      }
+    },
+    {
+      "yaw": 0,
+      "pitch": 0,
+      "dist": 6.75,
+      "eye": [
+        0,
+        0,
+        6.75
+      ],
+      "screenWidthPx": 104,
+      "errHostPx": 0,
+      "errCamPx": 0,
+      "image": {
+        "pixels": 20425,
+        "transparent": 0,
+        "meanAbsDiff": 14.02,
+        "shift": [
+          -0.08,
+          -0.05
+        ],
+        "distinct": 1.32,
+        "quarters": [
+          [
+            -0.22,
+            -0.05
+          ],
+          [
+            0.11,
+            -0.07
+          ],
+          [
+            -0.33,
+            -0.04
+          ],
+          [
+            0.24,
+            -0.06
+          ]
+        ]
+      }
+    },
+    {
+      "yaw": 0,
+      "pitch": 0,
+      "dist": 9,
+      "eye": [
+        0,
+        0,
+        9
+      ],
+      "screenWidthPx": 78,
+      "errHostPx": 0,
+      "errCamPx": 0,
+      "image": {
+        "pixels": 10971,
+        "transparent": 0,
+        "meanAbsDiff": 17.78,
+        "shift": [
+          -0.09,
+          -0.06
+        ],
+        "distinct": 1.19,
+        "quarters": [
+          [
+            -0.09,
+            -0.05
+          ],
+          [
+            -0.02,
+            -0.08
+          ],
+          [
+            -0.32,
+            -0.04
+          ],
+          [
+            0.14,
+            -0.06
+          ]
+        ]
+      }
+    },
+    {
+      "yaw": 20,
+      "pitch": 0,
+      "dist": 4.5,
+      "eye": [
+        -1.539,
+        0,
+        4.229
+      ],
+      "screenWidthPx": 147.4,
+      "errHostPx": 0.000008,
+      "errCamPx": 0.000004,
+      "image": {
+        "pixels": 44969,
+        "transparent": 0,
+        "meanAbsDiff": 7.86,
+        "shift": [
+          0.06,
+          -0.1
+        ],
+        "distinct": 1.35,
+        "quarters": [
+          [
+            0.01,
+            -0.1
+          ],
+          null,
+          [
+            0.05,
+            -0.07
+          ],
+          [
+            0.04,
+            -0.18
+          ]
+        ]
+      }
+    },
+    {
+      "yaw": -20,
+      "pitch": 0,
+      "dist": 9,
+      "eye": [
+        3.078,
+        0,
+        8.457
+      ],
+      "screenWidthPx": 73.4,
+      "errHostPx": 0.00001,
+      "errCamPx": 0.000002,
+      "image": {
+        "pixels": 10015,
+        "transparent": 0,
+        "meanAbsDiff": 15.82,
+        "shift": [
+          0.05,
+          -0.1
+        ],
+        "distinct": 1.21,
+        "quarters": [
+          null,
+          [
+            0.15,
+            -0.07
+          ],
+          [
+            0.03,
+            -0.11
+          ],
+          [
+            0.05,
+            -0.11
+          ]
+        ]
+      }
+    },
+    {
+      "yaw": 20,
+      "pitch": 0,
+      "dist": 9,
+      "eye": [
+        -3.078,
+        0,
+        8.457
+      ],
+      "screenWidthPx": 73.4,
+      "errHostPx": 0.00001,
+      "errCamPx": 0.000002,
+      "image": {
+        "pixels": 10015,
+        "transparent": 0,
+        "meanAbsDiff": 13.76,
+        "shift": [
+          -0.15,
+          -0.08
+        ],
+        "distinct": 1.18,
+        "quarters": [
+          [
+            -0.07,
+            -0.07
+          ],
+          null,
+          [
+            -0.15,
+            -0.05
+          ],
+          null
+        ]
+      }
+    },
+    {
+      "yaw": -20,
+      "pitch": 0,
+      "dist": 4.5,
+      "eye": [
+        1.539,
+        0,
+        4.229
+      ],
+      "screenWidthPx": 147.4,
+      "errHostPx": 0.000008,
+      "errCamPx": 0.000004,
+      "image": {
+        "pixels": 44969,
+        "transparent": 0,
+        "meanAbsDiff": 8.4,
+        "shift": [
+          -0.14,
+          -0.09
+        ],
+        "distinct": 1.36,
+        "quarters": [
+          null,
+          [
+            -0.03,
+            -0.1
+          ],
+          [
+            -0.15,
+            -0.12
+          ],
+          [
+            -0.1,
+            -0.08
+          ]
+        ]
+      }
+    },
+    {
+      "yaw": 0,
+      "pitch": 20,
+      "dist": 6.75,
+      "eye": [
+        0,
+        2.309,
+        6.343
+      ],
+      "screenWidthPx": 110.1,
+      "errHostPx": 0.00001,
+      "errCamPx": 0.000003,
+      "image": {
+        "pixels": 19050,
+        "transparent": 0,
+        "meanAbsDiff": 11.43,
+        "shift": [
+          -0.06,
+          -0.15
+        ],
+        "distinct": 1.36,
+        "quarters": [
+          [
+            -0.3,
+            -0.12
+          ],
+          [
+            0.23,
+            -0.13
+          ],
+          [
+            -0.09,
+            -0.22
+          ],
+          [
+            0,
+            -0.17
+          ]
+        ]
+      }
+    },
+    {
+      "yaw": 0,
+      "pitch": -20,
+      "dist": 6.75,
+      "eye": [
+        0,
+        -2.309,
+        6.343
+      ],
+      "screenWidthPx": 98.6,
+      "errHostPx": 0.00001,
+      "errCamPx": 0.000003,
+      "image": {
+        "pixels": 19050,
+        "transparent": 0,
+        "meanAbsDiff": 11.98,
+        "shift": [
+          -0.08,
+          -0.17
+        ],
+        "distinct": 1.24,
+        "quarters": [
+          [
+            -0.04,
+            -0.24
+          ],
+          [
+            -0.04,
+            -0.26
+          ],
+          [
+            -0.34,
+            -0.11
+          ],
+          [
+            0.24,
+            -0.12
+          ]
+        ]
+      }
+    },
+    {
+      "yaw": 35,
+      "pitch": 0,
+      "dist": 6.75,
+      "eye": [
+        -3.872,
+        0,
+        5.529
+      ],
+      "screenWidthPx": 85.9,
+      "errHostPx": 0.000017,
+      "errCamPx": 0.000008,
+      "image": {
+        "pixels": 16165,
+        "transparent": 0,
+        "meanAbsDiff": 10.61,
+        "shift": [
+          -0.01,
+          -0.13
+        ],
+        "distinct": 1.19,
+        "quarters": [
+          [
+            -0.06,
+            -0.1
+          ],
+          null,
+          [
+            -0.16,
+            -0.11
+          ],
+          null
+        ]
+      }
+    },
+    {
+      "yaw": -35,
+      "pitch": 0,
+      "dist": 6.75,
+      "eye": [
+        3.872,
+        0,
+        5.529
+      ],
+      "screenWidthPx": 85.9,
+      "errHostPx": 0.000017,
+      "errCamPx": 0.000008,
+      "image": {
+        "pixels": 16165,
+        "transparent": 0,
+        "meanAbsDiff": 11.73,
+        "shift": [
+          -0.07,
+          -0.12
+        ],
+        "distinct": 1.18,
+        "quarters": [
+          null,
+          [
+            -0.01,
+            -0.1
+          ],
+          [
+            -0.15,
+            -0.15
+          ],
+          [
+            -0.04,
+            -0.11
+          ]
+        ]
+      }
+    },
+    {
+      "yaw": 0,
+      "pitch": 35,
+      "dist": 6.75,
+      "eye": [
+        0,
+        3.872,
+        5.529
+      ],
+      "screenWidthPx": 114.6,
+      "errHostPx": 0.000018,
+      "errCamPx": 0.000009,
+      "image": {
+        "pixels": 16704,
+        "transparent": 0,
+        "meanAbsDiff": 11.75,
+        "shift": [
+          -0.06,
+          -0.13
+        ],
+        "distinct": 1.28,
+        "quarters": [
+          [
+            -0.13,
+            -0.1
+          ],
+          [
+            0.05,
+            -0.1
+          ],
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "yaw": 0,
+      "pitch": -35,
+      "dist": 6.75,
+      "eye": [
+        0,
+        -3.872,
+        5.529
+      ],
+      "screenWidthPx": 95.3,
+      "errHostPx": 0.000018,
+      "errCamPx": 0.000009,
+      "image": {
+        "pixels": 16704,
+        "transparent": 0,
+        "meanAbsDiff": 12.11,
+        "shift": [
+          -0.08,
+          -0.11
+        ],
+        "distinct": 1.21,
+        "quarters": [
+          [
+            0.03,
+            -0.1
+          ],
+          null,
+          [
+            -0.14,
+            -0.11
+          ],
+          [
+            -0.03,
+            -0.1
+          ]
+        ]
+      }
+    },
+    {
+      "yaw": 35,
+      "pitch": 0,
+      "dist": 4.5,
+      "eye": [
+        -2.581,
+        0,
+        3.686
+      ],
+      "screenWidthPx": 130.2,
+      "errHostPx": 0.000008,
+      "errCamPx": 0.000007,
+      "image": {
+        "pixels": 39147,
+        "transparent": 0,
+        "meanAbsDiff": 6.43,
+        "shift": [
+          0.02,
+          -0.1
+        ],
+        "distinct": 1.42,
+        "quarters": [
+          [
+            0.02,
+            -0.14
+          ],
+          null,
+          [
+            -0.01,
+            -0.08
+          ],
+          [
+            0.06,
+            -0.18
+          ]
+        ]
+      }
+    },
+    {
+      "yaw": -35,
+      "pitch": 0,
+      "dist": 9,
+      "eye": [
+        5.162,
+        0,
+        7.372
+      ],
+      "screenWidthPx": 64.2,
+      "errHostPx": 0.000011,
+      "errCamPx": 0.000004,
+      "image": {
+        "pixels": 8592,
+        "transparent": 0,
+        "meanAbsDiff": 15.6,
+        "shift": [
+          0.09,
+          -0.09
+        ],
+        "distinct": 1.12,
+        "quarters": [
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "yaw": 0,
+      "pitch": 35,
+      "dist": 9,
+      "eye": [
+        0,
+        5.162,
+        7.372
+      ],
+      "screenWidthPx": 83.8,
+      "errHostPx": 0.000012,
+      "errCamPx": 0.000004,
+      "image": {
+        "pixels": 8825,
+        "transparent": 0,
+        "meanAbsDiff": 13.7,
+        "shift": [
+          -0.06,
+          -0.22
+        ],
+        "distinct": 1.22,
+        "quarters": [
+          [
+            0,
+            -0.24
+          ],
+          [
+            -0.09,
+            -0.23
+          ],
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "yaw": 0,
+      "pitch": -35,
+      "dist": 4.5,
+      "eye": [
+        0,
+        -2.581,
+        3.686
+      ],
+      "screenWidthPx": 137.2,
+      "errHostPx": 0.000009,
+      "errCamPx": 0.000008,
+      "image": {
+        "pixels": 40550,
+        "transparent": 0,
+        "meanAbsDiff": 8.52,
+        "shift": [
+          -0.07,
+          -0.14
+        ],
+        "distinct": 1.33,
+        "quarters": [
+          [
+            -0.1,
+            -0.2
+          ],
+          [
+            0,
+            -0.2
+          ],
+          [
+            -0.1,
+            -0.11
+          ],
+          [
+            -0.06,
+            -0.1
+          ]
+        ]
+      }
+    },
+    {
+      "yaw": 25,
+      "pitch": 25,
+      "dist": 6.75,
+      "eye": [
+        -2.585,
+        2.853,
+        5.544
+      ],
+      "screenWidthPx": 102.1,
+      "errHostPx": 0.000013,
+      "errCamPx": 0.000011,
+      "image": {
+        "pixels": 16533,
+        "transparent": 0,
+        "meanAbsDiff": 10.34,
+        "shift": [
+          -0.13,
+          -0.19
+        ],
+        "distinct": 1.19,
+        "quarters": [
+          [
+            -0.05,
+            -0.11
+          ],
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "yaw": -35,
+      "pitch": -20,
+      "dist": 5.5,
+      "eye": [
+        2.964,
+        -1.881,
+        4.234
+      ],
+      "screenWidthPx": 104.2,
+      "errHostPx": 0.000019,
+      "errCamPx": 0.000009,
+      "image": {
+        "pixels": 23944,
+        "transparent": 0,
+        "meanAbsDiff": 9.42,
+        "shift": [
+          -0.11,
+          -0.21
+        ],
+        "distinct": 1.16,
+        "quarters": [
+          null,
+          [
+            0.01,
+            -0.19
+          ],
+          [
+            -0.13,
+            -0.04
+          ],
+          [
+            -0.15,
+            -0.23
+          ]
+        ]
+      }
+    }
+  ]
+}

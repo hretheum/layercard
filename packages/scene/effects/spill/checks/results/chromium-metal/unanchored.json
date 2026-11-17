@@ -1,0 +1,54 @@
+{
+  "eye": {
+    "minYawDeg": -12,
+    "maxYawDeg": 12,
+    "sweepSeconds": 4,
+    "samples": 151
+  },
+  "phone": {
+    "framesOutsideCanvas": 0,
+    "largestOffCentreShare": 0,
+    "widthCssPx": [
+      104,
+      106.3
+    ],
+    "framesNotOpaque": 0,
+    "framesWithHole": 0
+  },
+  "schedule": {
+    "sameStarts": true,
+    "sameTravel": true,
+    "samples": 8
+  },
+  "printsAtZero": {
+    "flat": 6,
+    "flying": 6,
+    "zoom": 1,
+    "scale": 1
+  },
+  "printsBeforeLift": {
+    "flat": 6,
+    "scale": 0.3406
+  },
+  "end": {
+    "sheetsInFrame": 6,
+    "sheetsCrossingEdge": 6,
+    "labelsShown": 6,
+    "labelOverlaps": 0,
+    "guidesDrawn": 24,
+    "guidesPastFrameEdge": 10,
+    "distance": {
+      "cm": 47,
+      "visible": true
+    },
+    "columnsVisible": true,
+    "phoneCentreAlphaAtStart": 255,
+    "cornerAlphaAtStart": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "phoneCentreAlphaAtEnd": 255
+  }
+}

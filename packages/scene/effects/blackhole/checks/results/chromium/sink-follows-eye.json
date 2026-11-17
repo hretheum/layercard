@@ -1,0 +1,559 @@
+{
+  "sinkDepth": 0.3,
+  "cases": 29,
+  "worstErrorCssPx": 0.063,
+  "farthestFromTheCentreCssPx": 90.6,
+  "rows": [
+    {
+      "name": "yaw 0, pitch 0, 4.5 card widths",
+      "eye": [
+        0,
+        0,
+        4.5
+      ],
+      "strength": 1,
+      "expectedCssPx": [
+        195,
+        422
+      ],
+      "measuredCssPx": [
+        195,
+        422
+      ],
+      "errorCssPx": 0,
+      "ringPixels": 1048
+    },
+    {
+      "name": "yaw 0, pitch 0, 4.5 card widths, half strength",
+      "eye": [
+        0,
+        0,
+        4.5
+      ],
+      "strength": 0.5,
+      "expectedCssPx": [
+        195,
+        422
+      ],
+      "measuredCssPx": [
+        195,
+        422
+      ],
+      "errorCssPx": 0.001,
+      "ringPixels": 292
+    },
+    {
+      "name": "yaw 0, pitch 0, 6.75 card widths",
+      "eye": [
+        0,
+        0,
+        6.75
+      ],
+      "strength": 1,
+      "expectedCssPx": [
+        195,
+        422
+      ],
+      "measuredCssPx": [
+        195,
+        422
+      ],
+      "errorCssPx": 0,
+      "ringPixels": 1080
+    },
+    {
+      "name": "yaw 0, pitch 0, 9 card widths",
+      "eye": [
+        0,
+        0,
+        9
+      ],
+      "strength": 1,
+      "expectedCssPx": [
+        195,
+        422
+      ],
+      "measuredCssPx": [
+        195,
+        422
+      ],
+      "errorCssPx": 0.001,
+      "ringPixels": 1088
+    },
+    {
+      "name": "yaw 20, pitch 0, 4.5 card widths",
+      "eye": [
+        -1.539,
+        0,
+        4.229
+      ],
+      "strength": 1,
+      "expectedCssPx": [
+        155.24,
+        422
+      ],
+      "measuredCssPx": [
+        155.24,
+        422
+      ],
+      "errorCssPx": 0.006,
+      "ringPixels": 1030
+    },
+    {
+      "name": "yaw -20, pitch 0, 9 card widths",
+      "eye": [
+        3.078,
+        0,
+        8.457
+      ],
+      "strength": 1,
+      "expectedCssPx": [
+        236.13,
+        422
+      ],
+      "measuredCssPx": [
+        236.12,
+        422
+      ],
+      "errorCssPx": 0.005,
+      "ringPixels": 1085
+    },
+    {
+      "name": "yaw -20, pitch 0, 9 card widths, half strength",
+      "eye": [
+        3.078,
+        0,
+        8.457
+      ],
+      "strength": 0.5,
+      "expectedCssPx": [
+        215.92,
+        422
+      ],
+      "measuredCssPx": [
+        215.87,
+        422
+      ],
+      "errorCssPx": 0.051,
+      "ringPixels": 297
+    },
+    {
+      "name": "yaw 20, pitch 0, 9 card widths",
+      "eye": [
+        -3.078,
+        0,
+        8.457
+      ],
+      "strength": 1,
+      "expectedCssPx": [
+        153.87,
+        422
+      ],
+      "measuredCssPx": [
+        153.88,
+        422
+      ],
+      "errorCssPx": 0.005,
+      "ringPixels": 1085
+    },
+    {
+      "name": "yaw -20, pitch 0, 4.5 card widths",
+      "eye": [
+        1.539,
+        0,
+        4.229
+      ],
+      "strength": 1,
+      "expectedCssPx": [
+        234.76,
+        422
+      ],
+      "measuredCssPx": [
+        234.76,
+        422
+      ],
+      "errorCssPx": 0.007,
+      "ringPixels": 1031
+    },
+    {
+      "name": "yaw 0, pitch 20, 6.75 card widths",
+      "eye": [
+        0,
+        2.309,
+        6.343
+      ],
+      "strength": 1,
+      "expectedCssPx": [
+        195,
+        381.34
+      ],
+      "measuredCssPx": [
+        195,
+        381.34
+      ],
+      "errorCssPx": 0.002,
+      "ringPixels": 1068
+    },
+    {
+      "name": "yaw 0, pitch -20, 6.75 card widths",
+      "eye": [
+        0,
+        -2.309,
+        6.343
+      ],
+      "strength": 1,
+      "expectedCssPx": [
+        195,
+        462.66
+      ],
+      "measuredCssPx": [
+        195,
+        462.66
+      ],
+      "errorCssPx": 0.002,
+      "ringPixels": 1068
+    },
+    {
+      "name": "yaw 0, pitch -20, 6.75 card widths, half strength",
+      "eye": [
+        0,
+        -2.309,
+        6.343
+      ],
+      "strength": 0.5,
+      "expectedCssPx": [
+        195,
+        442.8
+      ],
+      "measuredCssPx": [
+        195,
+        442.75
+      ],
+      "errorCssPx": 0.047,
+      "ringPixels": 294
+    },
+    {
+      "name": "yaw 35, pitch 0, 6.75 card widths",
+      "eye": [
+        -3.872,
+        0,
+        5.529
+      ],
+      "strength": 1,
+      "expectedCssPx": [
+        117.29,
+        422
+      ],
+      "measuredCssPx": [
+        117.29,
+        422
+      ],
+      "errorCssPx": 0.001,
+      "ringPixels": 1064
+    },
+    {
+      "name": "yaw -35, pitch 0, 6.75 card widths",
+      "eye": [
+        3.872,
+        0,
+        5.529
+      ],
+      "strength": 1,
+      "expectedCssPx": [
+        272.71,
+        422
+      ],
+      "measuredCssPx": [
+        272.71,
+        422
+      ],
+      "errorCssPx": 0.001,
+      "ringPixels": 1064
+    },
+    {
+      "name": "yaw 0, pitch 35, 6.75 card widths",
+      "eye": [
+        0,
+        3.872,
+        5.529
+      ],
+      "strength": 1,
+      "expectedCssPx": [
+        195,
+        344.29
+      ],
+      "measuredCssPx": [
+        195,
+        344.29
+      ],
+      "errorCssPx": 0.002,
+      "ringPixels": 1064
+    },
+    {
+      "name": "yaw 0, pitch -35, 6.75 card widths",
+      "eye": [
+        0,
+        -3.872,
+        5.529
+      ],
+      "strength": 1,
+      "expectedCssPx": [
+        195,
+        499.71
+      ],
+      "measuredCssPx": [
+        195,
+        499.71
+      ],
+      "errorCssPx": 0.001,
+      "ringPixels": 1064
+    },
+    {
+      "name": "yaw 0, pitch -35, 6.75 card widths, half strength",
+      "eye": [
+        0,
+        -3.872,
+        5.529
+      ],
+      "strength": 0.5,
+      "expectedCssPx": [
+        195,
+        461.88
+      ],
+      "measuredCssPx": [
+        194.99,
+        461.82
+      ],
+      "errorCssPx": 0.063,
+      "ringPixels": 294
+    },
+    {
+      "name": "yaw 35, pitch 0, 4.5 card widths",
+      "eye": [
+        -2.581,
+        0,
+        3.686
+      ],
+      "strength": 1,
+      "expectedCssPx": [
+        119.24,
+        422
+      ],
+      "measuredCssPx": [
+        119.25,
+        422
+      ],
+      "errorCssPx": 0.007,
+      "ringPixels": 1008
+    },
+    {
+      "name": "yaw -35, pitch 0, 9 card widths",
+      "eye": [
+        5.162,
+        0,
+        7.372
+      ],
+      "strength": 1,
+      "expectedCssPx": [
+        273.72,
+        422
+      ],
+      "measuredCssPx": [
+        273.72,
+        422
+      ],
+      "errorCssPx": 0.001,
+      "ringPixels": 1089
+    },
+    {
+      "name": "yaw 0, pitch 35, 9 card widths",
+      "eye": [
+        0,
+        5.162,
+        7.372
+      ],
+      "strength": 1,
+      "expectedCssPx": [
+        195,
+        343.28
+      ],
+      "measuredCssPx": [
+        195,
+        343.28
+      ],
+      "errorCssPx": 0.002,
+      "ringPixels": 1089
+    },
+    {
+      "name": "yaw 0, pitch -35, 4.5 card widths",
+      "eye": [
+        0,
+        -2.581,
+        3.686
+      ],
+      "strength": 1,
+      "expectedCssPx": [
+        195,
+        497.76
+      ],
+      "measuredCssPx": [
+        195,
+        497.75
+      ],
+      "errorCssPx": 0.007,
+      "ringPixels": 1008
+    },
+    {
+      "name": "yaw 0, pitch -35, 4.5 card widths, half strength",
+      "eye": [
+        0,
+        -2.581,
+        3.686
+      ],
+      "strength": 0.5,
+      "expectedCssPx": [
+        195,
+        461.36
+      ],
+      "measuredCssPx": [
+        194.99,
+        461.36
+      ],
+      "errorCssPx": 0.011,
+      "ringPixels": 293
+    },
+    {
+      "name": "yaw 25, pitch 25, 6.75 card widths",
+      "eye": [
+        -2.585,
+        2.853,
+        5.544
+      ],
+      "strength": 1,
+      "expectedCssPx": [
+        143.24,
+        364.89
+      ],
+      "measuredCssPx": [
+        143.24,
+        364.9
+      ],
+      "errorCssPx": 0.006,
+      "ringPixels": 1064
+    },
+    {
+      "name": "yaw -35, pitch -20, 5.5 card widths",
+      "eye": [
+        2.964,
+        -1.881,
+        4.234
+      ],
+      "strength": 1,
+      "expectedCssPx": [
+        271.5,
+        470.55
+      ],
+      "measuredCssPx": [
+        271.5,
+        470.55
+      ],
+      "errorCssPx": 0.004,
+      "ringPixels": 1025
+    },
+    {
+      "name": "tilt eye 0,0",
+      "eye": [
+        0,
+        0,
+        6
+      ],
+      "strength": 1,
+      "expectedCssPx": [
+        195,
+        422
+      ],
+      "measuredCssPx": [
+        195,
+        422
+      ],
+      "errorCssPx": 0,
+      "ringPixels": 1068
+    },
+    {
+      "name": "tilt eye 1,0",
+      "eye": [
+        -2.536,
+        0,
+        5.438
+      ],
+      "strength": 1,
+      "expectedCssPx": [
+        143.29,
+        422
+      ],
+      "measuredCssPx": [
+        143.3,
+        422
+      ],
+      "errorCssPx": 0.005,
+      "ringPixels": 1059
+    },
+    {
+      "name": "tilt eye 0,-1",
+      "eye": [
+        0,
+        -2.536,
+        5.438
+      ],
+      "strength": 1,
+      "expectedCssPx": [
+        195,
+        473.71
+      ],
+      "measuredCssPx": [
+        195,
+        473.7
+      ],
+      "errorCssPx": 0.005,
+      "ringPixels": 1059
+    },
+    {
+      "name": "tilt eye 0.7,0.7",
+      "eye": [
+        -1.721,
+        1.804,
+        5.457
+      ],
+      "strength": 1,
+      "expectedCssPx": [
+        160.03,
+        385.34
+      ],
+      "measuredCssPx": [
+        160.04,
+        385.34
+      ],
+      "errorCssPx": 0.007,
+      "ringPixels": 1062
+    },
+    {
+      "name": "tilt eye -0.5,0.3",
+      "eye": [
+        1.288,
+        0.783,
+        5.808
+      ],
+      "strength": 1,
+      "expectedCssPx": [
+        219.66,
+        407
+      ],
+      "measuredCssPx": [
+        219.67,
+        406.99
+      ],
+      "errorCssPx": 0.003,
+      "ringPixels": 1065
+    }
+  ]
+}

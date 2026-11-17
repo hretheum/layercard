@@ -1,0 +1,128 @@
+{
+  "samplesPerLayer": 106,
+  "hostZoomAtFirstLift": 0.3400000000000001,
+  "layers": [
+    {
+      "id": "bg",
+      "printGoneAt": 0.25,
+      "sheetOneGapOffAt": 0.32,
+      "sheetDistanceWhenPrintGone": 0.0462,
+      "framesWithPrintAndSheetAGapOff": 0
+    },
+    {
+      "id": "grid",
+      "printGoneAt": 0.25,
+      "sheetOneGapOffAt": 0.34,
+      "sheetDistanceWhenPrintGone": 0.0383,
+      "framesWithPrintAndSheetAGapOff": 0
+    },
+    {
+      "id": "contact",
+      "printGoneAt": 0.25,
+      "sheetOneGapOffAt": 0.38,
+      "sheetDistanceWhenPrintGone": 0.048,
+      "framesWithPrintAndSheetAGapOff": 0
+    },
+    {
+      "id": "role",
+      "printGoneAt": 0.25,
+      "sheetOneGapOffAt": 0.38,
+      "sheetDistanceWhenPrintGone": 0.048,
+      "framesWithPrintAndSheetAGapOff": 0
+    },
+    {
+      "id": "name",
+      "printGoneAt": 0.25,
+      "sheetOneGapOffAt": 0.36,
+      "sheetDistanceWhenPrintGone": 0.0507,
+      "framesWithPrintAndSheetAGapOff": 0
+    },
+    {
+      "id": "mark",
+      "printGoneAt": 0.25,
+      "sheetOneGapOffAt": 0.38,
+      "sheetDistanceWhenPrintGone": 0.048,
+      "framesWithPrintAndSheetAGapOff": 0
+    }
+  ],
+  "views": {
+    "frontal": {
+      "cornerErrorCssPx": {
+        "bg": 0,
+        "grid": 0,
+        "contact": 0,
+        "role": 0,
+        "name": 0,
+        "mark": 0
+      },
+      "worstCornerCssPx": 0,
+      "firstSheet": "bg",
+      "firstSheetDrawnBox": [
+        177,
+        383,
+        213,
+        461
+      ],
+      "firstSheetProjectedPrint": [
+        177.18,
+        383.44,
+        212.82,
+        460.56
+      ],
+      "drawnBoxErrorCssPx": 0.435,
+      "sheetOpacityAt80ms": 0.9999999999999994
+    },
+    "off-axis 35": {
+      "cornerErrorCssPx": {
+        "bg": 0,
+        "grid": 0,
+        "contact": 0,
+        "role": 0,
+        "name": 0,
+        "mark": 0
+      },
+      "worstCornerCssPx": 0,
+      "firstSheet": "bg",
+      "firstSheetDrawnBox": [
+        180,
+        383,
+        210,
+        461
+      ],
+      "firstSheetProjectedPrint": [
+        180.19,
+        382.87,
+        209.39,
+        461.13
+      ],
+      "drawnBoxErrorCssPx": 0.612,
+      "sheetOpacityAt80ms": 0.9999999999999994
+    },
+    "30 cm, -20 / 15": {
+      "cornerErrorCssPx": {
+        "bg": 0,
+        "grid": 0,
+        "contact": 0,
+        "role": 0,
+        "name": 0,
+        "mark": 0
+      },
+      "worstCornerCssPx": 0,
+      "firstSheet": "bg",
+      "firstSheetDrawnBox": [
+        168,
+        360,
+        223,
+        482
+      ],
+      "firstSheetProjectedPrint": [
+        168.61,
+        360.8,
+        222.11,
+        482.09
+      ],
+      "drawnBoxErrorCssPx": 0.891,
+      "sheetOpacityAt80ms": 0.9999999999999994
+    }
+  }
+}

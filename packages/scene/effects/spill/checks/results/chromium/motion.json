@@ -1,0 +1,121 @@
+{
+  "sampledEverySeconds": 0.05,
+  "samples": 151,
+  "windows": {
+    "zoom": {
+      "samplesMoving": 16,
+      "from": 0.1,
+      "to": 0.9
+    },
+    "lift": {
+      "samplesMoving": 24,
+      "from": 0.95,
+      "to": 3.15
+    },
+    "travel": {
+      "samplesMoving": 87,
+      "from": 1,
+      "to": 5.35
+    },
+    "guides": {
+      "samplesMoving": 55,
+      "from": 2.8,
+      "to": 5.55
+    },
+    "unroll": {
+      "samplesMoving": 58,
+      "from": 0.9,
+      "to": 4.1
+    },
+    "measure": {
+      "samplesMoving": 19,
+      "from": 1.25,
+      "to": 2.2
+    },
+    "sweep": {
+      "samplesMoving": 132,
+      "from": 0.9,
+      "to": 7.5
+    }
+  },
+  "samplesWhereRowMovesAndColumnDoesNot": {
+    "zoom": {
+      "lift": 16,
+      "travel": 16,
+      "guides": 16,
+      "unroll": 16,
+      "measure": 16,
+      "sweep": 16
+    },
+    "lift": {
+      "zoom": 24,
+      "travel": 1,
+      "guides": 20,
+      "unroll": 4,
+      "measure": 15,
+      "sweep": 0
+    },
+    "travel": {
+      "zoom": 87,
+      "lift": 64,
+      "guides": 36,
+      "unroll": 30,
+      "measure": 68,
+      "sweep": 0
+    },
+    "guides": {
+      "zoom": 55,
+      "lift": 51,
+      "travel": 4,
+      "unroll": 29,
+      "measure": 55,
+      "sweep": 0
+    },
+    "unroll": {
+      "zoom": 58,
+      "lift": 38,
+      "travel": 1,
+      "guides": 32,
+      "measure": 39,
+      "sweep": 0
+    },
+    "measure": {
+      "zoom": 19,
+      "lift": 10,
+      "travel": 0,
+      "guides": 19,
+      "unroll": 0,
+      "sweep": 0
+    },
+    "sweep": {
+      "zoom": 132,
+      "lift": 108,
+      "travel": 45,
+      "guides": 77,
+      "unroll": 74,
+      "measure": 113
+    }
+  },
+  "independent": [
+    "zoom",
+    "lift",
+    "travel",
+    "guides",
+    "unroll",
+    "measure",
+    "sweep"
+  ],
+  "qrDissolve": {
+    "moves": true,
+    "nothingElseMoves": true
+  },
+  "liveDistance": {
+    "cmAt47": 47,
+    "cmAt57": 57,
+    "travelUnchanged": true
+  },
+  "sweepFollowsPose": true,
+  "labelEasing": {
+    "lagOneFrameAfterAPoseChangeCssPx": 46.501
+  }
+}

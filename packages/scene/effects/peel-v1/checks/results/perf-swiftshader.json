@@ -1,0 +1,438 @@
+{
+  "note": "sceneMs = update + render + gl.finish() per frame, measured inside the effect (test build). rafIntervalMs = time between animation frames while the timeline played.",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/159.0.8154.6 Safari/537.36",
+  "gpu": "ANGLE (Google, Vulkan 1.3.0 (SwiftShader Device (LLVM 10.0.0) (0x0000C0DE)), SwiftShader driver)",
+  "softwareRenderer": true,
+  "devicePixelRatio": 2,
+  "canvasCss": [
+    390,
+    844
+  ],
+  "sizes": {
+    "bundleBytes": 60043,
+    "bundleGzipBytes": 19618,
+    "fontBytes": 18948
+  },
+  "runs": [
+    {
+      "role": "host",
+      "quality": "high",
+      "pixelRatio": 2,
+      "buffer": [
+        780,
+        1688
+      ],
+      "textureMB": 16.98,
+      "budgetMB": 64,
+      "gpu": "ANGLE (Google, Vulkan 1.3.0 (SwiftShader Device (LLVM 10.0.0) (0x0000C0DE)), SwiftShader driver)",
+      "timelines": {
+        "idle": {
+          "frames": 2,
+          "sceneMs": {
+            "n": 2,
+            "median": 2,
+            "p95": 2,
+            "max": 2
+          },
+          "rafIntervalMs": {
+            "n": 1,
+            "median": 2766.5,
+            "p95": 2766.5,
+            "max": 2766.5
+          },
+          "drawCalls": 14
+        },
+        "connect": {
+          "frames": 3,
+          "sceneMs": {
+            "n": 3,
+            "median": 0.4,
+            "p95": 41.9,
+            "max": 41.9
+          },
+          "rafIntervalMs": {
+            "n": 1,
+            "median": 433.4,
+            "p95": 433.4,
+            "max": 433.4
+          },
+          "drawCalls": 12
+        },
+        "depart": {
+          "frames": 24,
+          "sceneMs": {
+            "n": 24,
+            "median": 0.4,
+            "p95": 1,
+            "max": 1.3
+          },
+          "rafIntervalMs": {
+            "n": 22,
+            "median": 216.7,
+            "p95": 583.3,
+            "max": 583.4
+          },
+          "drawCalls": 8
+        },
+        "rebuild": {
+          "frames": 4,
+          "sceneMs": {
+            "n": 4,
+            "median": 0.6,
+            "p95": 0.8,
+            "max": 0.8
+          },
+          "rafIntervalMs": {
+            "n": 2,
+            "median": 899.9,
+            "p95": 899.9,
+            "max": 899.9
+          },
+          "drawCalls": 14
+        }
+      }
+    },
+    {
+      "role": "host",
+      "quality": "mid",
+      "pixelRatio": 1.5,
+      "buffer": [
+        585,
+        1266
+      ],
+      "textureMB": 9.57,
+      "budgetMB": 40,
+      "gpu": "ANGLE (Google, Vulkan 1.3.0 (SwiftShader Device (LLVM 10.0.0) (0x0000C0DE)), SwiftShader driver)",
+      "timelines": {
+        "idle": {
+          "frames": 2,
+          "sceneMs": {
+            "n": 2,
+            "median": 0.5,
+            "p95": 0.5,
+            "max": 0.5
+          },
+          "rafIntervalMs": {
+            "n": 1,
+            "median": 2549.9,
+            "p95": 2549.9,
+            "max": 2549.9
+          },
+          "drawCalls": 14
+        },
+        "connect": {
+          "frames": 6,
+          "sceneMs": {
+            "n": 6,
+            "median": 0.5,
+            "p95": 20.3,
+            "max": 20.3
+          },
+          "rafIntervalMs": {
+            "n": 4,
+            "median": 216.7,
+            "p95": 216.7,
+            "max": 216.7
+          },
+          "drawCalls": 12
+        },
+        "depart": {
+          "frames": 47,
+          "sceneMs": {
+            "n": 47,
+            "median": 0.3,
+            "p95": 0.5,
+            "max": 0.6
+          },
+          "rafIntervalMs": {
+            "n": 45,
+            "median": 133.3,
+            "p95": 216.7,
+            "max": 233.3
+          },
+          "drawCalls": 8
+        },
+        "rebuild": {
+          "frames": 6,
+          "sceneMs": {
+            "n": 6,
+            "median": 0.2,
+            "p95": 0.3,
+            "max": 0.3
+          },
+          "rafIntervalMs": {
+            "n": 4,
+            "median": 283.4,
+            "p95": 366.6,
+            "max": 366.6
+          },
+          "drawCalls": 14
+        }
+      }
+    },
+    {
+      "role": "host",
+      "quality": "low",
+      "pixelRatio": 1,
+      "buffer": [
+        390,
+        844
+      ],
+      "textureMB": 4.26,
+      "budgetMB": 24,
+      "gpu": "ANGLE (Google, Vulkan 1.3.0 (SwiftShader Device (LLVM 10.0.0) (0x0000C0DE)), SwiftShader driver)",
+      "timelines": {
+        "idle": {
+          "frames": 1,
+          "sceneMs": {
+            "n": 1,
+            "median": 0,
+            "p95": 0,
+            "max": 0
+          },
+          "rafIntervalMs": {
+            "n": 0,
+            "median": 0,
+            "p95": 0,
+            "max": 0
+          },
+          "drawCalls": 8
+        },
+        "connect": {
+          "frames": 7,
+          "sceneMs": {
+            "n": 7,
+            "median": 0.2,
+            "p95": 13.9,
+            "max": 13.9
+          },
+          "rafIntervalMs": {
+            "n": 5,
+            "median": 100.1,
+            "p95": 316.6,
+            "max": 316.6
+          },
+          "drawCalls": 7
+        },
+        "depart": {
+          "frames": 69,
+          "sceneMs": {
+            "n": 69,
+            "median": 0.2,
+            "p95": 0.4,
+            "max": 0.6
+          },
+          "rafIntervalMs": {
+            "n": 67,
+            "median": 83.3,
+            "p95": 183.3,
+            "max": 216.7
+          },
+          "drawCalls": 8
+        },
+        "rebuild": {
+          "frames": 18,
+          "sceneMs": {
+            "n": 18,
+            "median": 0.3,
+            "p95": 0.5,
+            "max": 0.5
+          },
+          "rafIntervalMs": {
+            "n": 16,
+            "median": 83.3,
+            "p95": 166.7,
+            "max": 166.7
+          },
+          "drawCalls": 8
+        }
+      }
+    },
+    {
+      "role": "guest",
+      "quality": "high",
+      "pixelRatio": 2,
+      "buffer": [
+        780,
+        1688
+      ],
+      "textureMB": 11.63,
+      "budgetMB": 64,
+      "gpu": "ANGLE (Google, Vulkan 1.3.0 (SwiftShader Device (LLVM 10.0.0) (0x0000C0DE)), SwiftShader driver)",
+      "timelines": {
+        "explode": {
+          "frames": 24,
+          "sceneMs": {
+            "n": 24,
+            "median": 0.4,
+            "p95": 2.8,
+            "max": 33.2
+          },
+          "rafIntervalMs": {
+            "n": 22,
+            "median": 183.3,
+            "p95": 433.3,
+            "max": 2083.2
+          },
+          "drawCalls": 20
+        },
+        "fly": {
+          "frames": 7,
+          "sceneMs": {
+            "n": 7,
+            "median": 0.5,
+            "p95": 2.9,
+            "max": 2.9
+          },
+          "rafIntervalMs": {
+            "n": 5,
+            "median": 150,
+            "p95": 366.6,
+            "max": 366.6
+          },
+          "drawCalls": 12
+        },
+        "assemble": {
+          "frames": 2,
+          "sceneMs": {
+            "n": 2,
+            "median": 0.7,
+            "p95": 0.7,
+            "max": 0.7
+          },
+          "rafIntervalMs": {
+            "n": 0,
+            "median": 0,
+            "p95": 0,
+            "max": 0
+          },
+          "drawCalls": 7
+        }
+      }
+    },
+    {
+      "role": "guest",
+      "quality": "mid",
+      "pixelRatio": 1.5,
+      "buffer": [
+        585,
+        1266
+      ],
+      "textureMB": 6.57,
+      "budgetMB": 40,
+      "gpu": "ANGLE (Google, Vulkan 1.3.0 (SwiftShader Device (LLVM 10.0.0) (0x0000C0DE)), SwiftShader driver)",
+      "timelines": {
+        "explode": {
+          "frames": 49,
+          "sceneMs": {
+            "n": 49,
+            "median": 0.4,
+            "p95": 1.3,
+            "max": 18.1
+          },
+          "rafIntervalMs": {
+            "n": 47,
+            "median": 83.3,
+            "p95": 233.4,
+            "max": 1666.6
+          },
+          "drawCalls": 20
+        },
+        "fly": {
+          "frames": 11,
+          "sceneMs": {
+            "n": 11,
+            "median": 0.3,
+            "p95": 0.6,
+            "max": 0.6
+          },
+          "rafIntervalMs": {
+            "n": 9,
+            "median": 83.4,
+            "p95": 216.7,
+            "max": 216.7
+          },
+          "drawCalls": 12
+        },
+        "assemble": {
+          "frames": 6,
+          "sceneMs": {
+            "n": 6,
+            "median": 0.3,
+            "p95": 0.4,
+            "max": 0.4
+          },
+          "rafIntervalMs": {
+            "n": 4,
+            "median": 166.7,
+            "p95": 233.2,
+            "max": 233.2
+          },
+          "drawCalls": 7
+        }
+      }
+    },
+    {
+      "role": "guest",
+      "quality": "low",
+      "pixelRatio": 1,
+      "buffer": [
+        390,
+        844
+      ],
+      "textureMB": 2.93,
+      "budgetMB": 24,
+      "gpu": "ANGLE (Google, Vulkan 1.3.0 (SwiftShader Device (LLVM 10.0.0) (0x0000C0DE)), SwiftShader driver)",
+      "timelines": {
+        "explode": {
+          "frames": 59,
+          "sceneMs": {
+            "n": 59,
+            "median": 0.4,
+            "p95": 1,
+            "max": 9.7
+          },
+          "rafIntervalMs": {
+            "n": 57,
+            "median": 66.7,
+            "p95": 233.3,
+            "max": 1516.6
+          },
+          "drawCalls": 14
+        },
+        "fly": {
+          "frames": 19,
+          "sceneMs": {
+            "n": 19,
+            "median": 0.3,
+            "p95": 1.6,
+            "max": 1.6
+          },
+          "rafIntervalMs": {
+            "n": 17,
+            "median": 66.6,
+            "p95": 149.9,
+            "max": 149.9
+          },
+          "drawCalls": 7
+        },
+        "assemble": {
+          "frames": 15,
+          "sceneMs": {
+            "n": 15,
+            "median": 0.2,
+            "p95": 0.4,
+            "max": 0.4
+          },
+          "rafIntervalMs": {
+            "n": 13,
+            "median": 83.3,
+            "p95": 100,
+            "max": 100
+          },
+          "drawCalls": 7
+        }
+      }
+    }
+  ]
+}

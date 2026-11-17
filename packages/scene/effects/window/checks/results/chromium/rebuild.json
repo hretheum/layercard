@@ -1,0 +1,63 @@
+{
+  "durations": {
+    "idle": 0,
+    "connect": 0.8,
+    "depart": 7.75,
+    "rebuild": 1.8,
+    "explode": 7.75,
+    "fly": 1.2,
+    "assemble": 1
+  },
+  "order": [
+    "bg",
+    "grid",
+    "mark",
+    "name",
+    "role",
+    "contact"
+  ],
+  "enter": {
+    "bg": 0.01,
+    "grid": 0.09,
+    "mark": 0.17,
+    "name": 0.26,
+    "role": 0.34,
+    "contact": 0.43
+  },
+  "flatAt": {
+    "bg": 1.5,
+    "grid": 1.5,
+    "mark": 1.5,
+    "name": 1.5,
+    "role": 1.5,
+    "contact": 1.5
+  },
+  "qrFirst": 1.31,
+  "qrDone": 1.8,
+  "perspUntil": 1.49,
+  "litStart": 1,
+  "litEnd": 0,
+  "backEnd": 0,
+  "deepest": -1.192,
+  "residueGone": 0.92,
+  "forwardOnly": 0,
+  "tiltedAfterSlide": 0,
+  "departEndToRebuildStart": {
+    "mad": 0,
+    "max": 0,
+    "over8": 0,
+    "n": 1316640
+  },
+  "connectEndToDepartStart": {
+    "mad": 0.0000015190181066958319,
+    "max": 1,
+    "over8": 0,
+    "n": 1316640
+  },
+  "rebuildEndToIdle": {
+    "mad": 0,
+    "max": 0,
+    "over8": 0,
+    "n": 1316640
+  }
+}

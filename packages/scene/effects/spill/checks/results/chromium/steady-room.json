@@ -1,0 +1,40 @@
+{
+  "jitter": {
+    "frames": 240,
+    "hz": 60,
+    "poseHz": 30,
+    "cm": 50,
+    "shiftCssPx": 1.5,
+    "cornerTurnCssPx": 0.75,
+    "cornersSampled": 5016,
+    "perFrameCssPx": {
+      "p50": 0.264,
+      "p95": 0.593,
+      "max": 1.039
+    },
+    "withoutFilterCssPx": {
+      "p50": 0,
+      "p95": 5.259,
+      "max": 9.334
+    },
+    "cardCornersCssPx": {
+      "p95": 0.301,
+      "max": 0.378
+    }
+  },
+  "move": {
+    "seconds": 2.5,
+    "fromCm": 30,
+    "toCm": 60,
+    "orbitDeg": 30,
+    "cardCornerLagCssPx": {
+      "p95": 1.927,
+      "max": 2.283
+    },
+    "sheetCornerLagCssPx": {
+      "p95": 5.317,
+      "max": 10.731
+    },
+    "restErrorCssPx": 0.0014
+  }
+}

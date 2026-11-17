@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>peel — v1 beside v2 (driven by scripts/compare.mjs)</title>
+<style>
+  :root { color-scheme: dark; }
+  html, body { margin: 0; background: #14171b; color: #d5dae1; font: 13px/1.4 system-ui, sans-serif; }
+  #stage { display: flex; gap: 16px; padding: 16px; }
+  .phone { position: relative; width: 390px; height: 844px; overflow: hidden; flex: none; }
+  .phone canvas { position: absolute; inset: 0; width: 100%; height: 100%; display: block; }
+  .host { background: #0b0d10; }
+  .guest {
+    background:
+      radial-gradient(60% 40% at 22% 18%, #fff7e6 0, #fff7e600 100%),
+      radial-gradient(50% 35% at 82% 30%, #dfe9f5 0, #dfe9f500 100%),
+      radial-gradient(70% 45% at 55% 92%, #8d8a86 0, #8d8a8600 100%),
+      linear-gradient(180deg, #cfd3d6 0%, #b9b6b0 55%, #99948c 100%);
+  }
+</style>
+</head>
+<body>
+<div id="stage">
+  <div class="phone host" id="v1host"><canvas></canvas></div>
+  <div class="phone guest" id="v1guest"><canvas class="cam"></canvas><canvas class="fx"></canvas></div>
+  <div class="phone host" id="v2host"><canvas></canvas></div>
+  <div class="phone guest" id="v2guest"><canvas class="cam"></canvas><canvas class="fx"></canvas></div>
+</div>
+<script type="module" src="./compare.ts"></script>
+</body>
+</html>

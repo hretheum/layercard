@@ -1,0 +1,38 @@
+{
+  "eventSeconds": 7.75,
+  "yawAtEighthsOfTheEvent": [
+    -12,
+    -8.485,
+    0,
+    8.485,
+    12,
+    8.485,
+    0,
+    -8.485,
+    -12
+  ],
+  "yawInTheHold": -12,
+  "yawAtFlyStart": -12,
+  "yawRangeWithChrome": [
+    -12,
+    12
+  ],
+  "labels": 6,
+  "momentsWithChrome": 49,
+  "momentsOutsideMargins": 0,
+  "overlaps": 0,
+  "bounds": [
+    55.2,
+    67.5,
+    358.8,
+    776.5
+  ],
+  "margins": [
+    31.2,
+    67.52,
+    358.8,
+    776.48
+  ],
+  "windowOpaque": "361/361",
+  "drawnBeforePlay": 0
+}

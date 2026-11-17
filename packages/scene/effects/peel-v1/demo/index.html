@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>peel — demo (test controls)</title>
+<style>
+  :root { color-scheme: dark; }
+  html, body { margin: 0; background: #1c1f24; color: #d5dae1; font: 13px/1.4 system-ui, sans-serif; }
+  #app { display: flex; gap: 24px; padding: 20px; align-items: flex-start; }
+  #phones { display: flex; gap: 24px; padding: 4px; }
+  .phone { position: relative; width: 390px; height: 844px; border-radius: 6px; overflow: hidden; flex: none; }
+  .phone canvas { position: absolute; inset: 0; width: 100%; height: 100%; display: block; }
+  #hostPhone { background: repeating-linear-gradient(45deg, #fff 0 9px, #111 9px 18px); }
+  #guestPhone {
+    background:
+      radial-gradient(60% 40% at 22% 18%, #fff7e6 0, #fff7e600 100%),
+      radial-gradient(50% 35% at 82% 30%, #dfe9f5 0, #dfe9f500 100%),
+      radial-gradient(70% 45% at 55% 92%, #8d8a86 0, #8d8a8600 100%),
+      linear-gradient(180deg, #cfd3d6 0%, #b9b6b0 55%, #99948c 100%);
+    cursor: grab;
+  }
+  .col { display: grid; gap: 6px; }
+  .cap { font: 11px ui-monospace, monospace; color: #8f98a5; }
+  #panel { width: 280px; display: grid; gap: 10px; }
+  fieldset { border: 1px solid #333a44; border-radius: 6px; padding: 8px 10px; display: grid; gap: 6px; margin: 0; }
+  legend { color: #8f98a5; padding: 0 4px; }
+  button, select { background: #2a2f37; color: inherit; border: 1px solid #3b424d; border-radius: 4px; padding: 4px 8px; font: inherit; cursor: pointer; }
+  button:hover { background: #343b45; }
+  .row { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
+  label { display: flex; gap: 6px; align-items: center; }
+  input[type=range] { flex: 1; }
+  #log { font: 11px ui-monospace, monospace; color: #8f98a5; white-space: pre; min-height: 5em; }
+</style>
+</head>
+<body>
+<div id="app">
+  <div id="phones">
+    <div class="col"><div class="cap">host</div><div class="phone" id="hostPhone"><canvas id="host"></canvas></div></div>
+    <div class="col"><div class="cap">guest · stand-in camera · drag to orbit, wheel to move</div><div class="phone" id="guestPhone"><canvas id="cam"></canvas><canvas id="guest"></canvas></div></div>
+  </div>
+  <div id="panel">
+    <fieldset><legend>sequence</legend>
+      <div class="row"><button id="playAll">play all</button><button id="reset">reset</button></div>
+    </fieldset>
+    <fieldset><legend>host</legend>
+      <div class="row"><button data-h="idle">idle</button><button data-h="connect">connect</button><button data-h="depart">depart</button><button data-h="rebuild">rebuild</button></div>
+      <label>tilt x <input type="range" id="tiltX" min="-1" max="1" step="0.01" value="0"></label>
+      <label>tilt y <input type="range" id="tiltY" min="-1" max="1" step="0.01" value="0"></label>
+      <label><input type="checkbox" id="safe"> safeRects (marker zone)</label>
+    </fieldset>
+    <fieldset><legend>guest</legend>
+      <div class="row"><button data-g="explode">explode</button><button data-g="fly">fly</button><button data-g="assemble">assemble</button></div>
+      <label><input type="checkbox" id="poseNull"> pose null (unanchored)</label>
+      <label><input type="checkbox" id="inset" checked> inset assembleRect</label>
+    </fieldset>
+    <fieldset><legend>mount</legend>
+      <label>quality <select id="quality"><option>high</option><option>mid</option><option>low</option><option>test</option></select></label>
+      <label><input type="checkbox" id="reduced"> reduced motion</label>
+    </fieldset>
+    <div id="log"></div>
+  </div>
+</div>
+<script type="module" src="./main.ts"></script>
+</body>
+</html>

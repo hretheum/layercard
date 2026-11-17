@@ -1,0 +1,10 @@
+{
+  "name": "Eryk Orłowski — card",
+  "short_name": "Card",
+  "start_url": "/k/host/",
+  "scope": "/k/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#141924",
+  "theme_color": "#141924"
+}

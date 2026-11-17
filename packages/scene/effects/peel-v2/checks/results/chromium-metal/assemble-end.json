@@ -1,0 +1,44 @@
+{
+  "full": {
+    "mad": 0,
+    "max": 0,
+    "over8": 0,
+    "n": 1316640,
+    "flyEndMinAlpha": 255
+  },
+  "full-anchored": {
+    "mad": 0,
+    "max": 0,
+    "over8": 0,
+    "n": 1316640,
+    "flyEndMinAlpha": 255
+  },
+  "inset": {
+    "mad": 0,
+    "max": 0,
+    "over8": 0,
+    "n": 1316640,
+    "flyEndMinAlpha": 255
+  },
+  "inset-anchored": {
+    "mad": 0,
+    "max": 0,
+    "over8": 0,
+    "n": 1316640,
+    "flyEndMinAlpha": 255
+  },
+  "fractional": {
+    "mad": 0,
+    "max": 0,
+    "over8": 0,
+    "n": 1316640,
+    "flyEndMinAlpha": 255
+  },
+  "fractional-anchored": {
+    "mad": 0,
+    "max": 0,
+    "over8": 0,
+    "n": 1316640,
+    "flyEndMinAlpha": 255
+  }
+}

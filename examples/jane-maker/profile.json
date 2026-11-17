@@ -1,0 +1,22 @@
+{
+  "owner": "Jane Maker",
+  "role": "Product designer · Warsaw",
+  "intro": "I design products and the systems behind them. This card is one of my experiments.",
+  "contact": {
+    "vcard": "contact.vcf",
+    "email": "jane@example.com",
+    "website": "https://example.com"
+  },
+  "caseStudies": [
+    { "title": "A design system that ships itself", "summary": "Tokens to code without hand-offs.", "url": "https://example.com/case-1" },
+    { "title": "Onboarding in three screens", "summary": "From twelve steps to three, with the numbers.", "url": "https://example.com/case-2" }
+  ],
+  "howItWasMade": {
+    "title": "How this card was made",
+    "paragraphs": [
+      "Two phones, one choreography: the layers leave the host screen at the same moment they appear above it in your camera.",
+      "The animation was designed by one AI model in a long autonomous run; the camera tracking, rooms and this page were built by another, against a shared contract."
+    ],
+    "links": [{ "label": "Source code", "url": "https://example.com/layercard" }]
+  }
+}

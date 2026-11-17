@@ -1,0 +1,28 @@
+{
+  "beforePlay": 0,
+  "phone": {
+    "heightShare": 0.39928909952606634,
+    "widthShare": 0.3871794871794872,
+    "centreFromTopShare": 0.2612559241706161,
+    "topShare": 0.061611374407582936
+  },
+  "yaw": {
+    "start": -10,
+    "quarter": 0,
+    "half": 10,
+    "end": -10,
+    "flyStart": -10,
+    "flyEnd": -10
+  },
+  "flyStartsFromTheEndPose": true,
+  "frames": 41,
+  "phoneFrames": 41,
+  "ringFrames": 36,
+  "outlineFrames": 34,
+  "labelFrames": 30,
+  "ribbonFrames": 33,
+  "framesWithRibbonsFromPhoneToLevel": 24,
+  "lowestRibbonPixelShare": 0.9988151658767772,
+  "phoneOpacity310msIntoFly": 0,
+  "sameSchedule": true
+}

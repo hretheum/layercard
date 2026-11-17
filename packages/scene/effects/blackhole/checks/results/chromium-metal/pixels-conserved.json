@@ -1,0 +1,55 @@
+{
+  "bins": 32,
+  "anchored": {
+    "moments": 24,
+    "layers": 6,
+    "sharesNotOne": 0,
+    "devicesDiffer": 0,
+    "rowsInTwoPlaces": 0,
+    "rowsNowhere": 0,
+    "probes": 48,
+    "opaquePixelsRead": 4788708,
+    "rowBinsSeen": {
+      "host": 677,
+      "air": 182,
+      "level": 611
+    },
+    "overlaps": {
+      "hostAndAir": 0,
+      "airAndLevel": 0,
+      "hostAndLevel": 0
+    },
+    "rowsSeenWhereTheStateDoesNotPutThem": {
+      "host": 0,
+      "air": 0,
+      "level": 0
+    },
+    "offenders": []
+  },
+  "unanchored": {
+    "moments": 24,
+    "layers": 6,
+    "sharesNotOne": 0,
+    "devicesDiffer": 0,
+    "rowsInTwoPlaces": 0,
+    "rowsNowhere": 0,
+    "probes": 48,
+    "opaquePixelsRead": 5324900,
+    "rowBinsSeen": {
+      "host": 675,
+      "air": 182,
+      "level": 611
+    },
+    "overlaps": {
+      "hostAndAir": 0,
+      "airAndLevel": 0,
+      "hostAndLevel": 0
+    },
+    "rowsSeenWhereTheStateDoesNotPutThem": {
+      "host": 0,
+      "air": 0,
+      "level": 0
+    },
+    "offenders": []
+  }
+}

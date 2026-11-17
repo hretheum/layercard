@@ -1,0 +1,278 @@
+{
+  "unanchored": {
+    "offNormalDeg": 16.5,
+    "stackBox": [
+      69.7,
+      177.5,
+      304.6,
+      666.5
+    ],
+    "labels": 6,
+    "textPx": 12,
+    "minPitchInBlockHeights": 1.4,
+    "overlaps": 0,
+    "leaderCrossings": 0,
+    "blocksOutsideMargins": 0,
+    "zones": [
+      "bg:Labove0",
+      "grid:Rabove0",
+      "mark:Labove1",
+      "name:Rbelow1",
+      "role:Lbelow0",
+      "contact:Rbelow0"
+    ]
+  },
+  "frontal": {
+    "offNormalDeg": 0,
+    "stackBox": [
+      129.9,
+      271.4,
+      260.1,
+      560
+    ],
+    "labels": 6,
+    "textPx": 12,
+    "minPitchInBlockHeights": 1.4,
+    "overlaps": 0,
+    "leaderCrossings": 0,
+    "blocksOutsideMargins": 0,
+    "zones": [
+      "bg:Labove0",
+      "grid:Rabove0",
+      "mark:Labove1",
+      "name:Rabove1",
+      "role:Lbelow0",
+      "contact:Rbelow0"
+    ]
+  },
+  "off-axis 35": {
+    "offNormalDeg": 35,
+    "stackBox": [
+      147.1,
+      264,
+      285.6,
+      567.1
+    ],
+    "labels": 6,
+    "textPx": 12,
+    "minPitchInBlockHeights": 1.4,
+    "overlaps": 0,
+    "leaderCrossings": 0,
+    "blocksOutsideMargins": 0,
+    "zones": [
+      "bg:Labove0",
+      "grid:Rabove0",
+      "mark:Labove1",
+      "name:Rabove1",
+      "role:Lbelow0",
+      "contact:Rbelow0"
+    ]
+  },
+  "off-axis -35": {
+    "offNormalDeg": 35,
+    "stackBox": [
+      104.4,
+      264,
+      242.9,
+      567.1
+    ],
+    "labels": 6,
+    "textPx": 12,
+    "minPitchInBlockHeights": 1.4,
+    "overlaps": 0,
+    "leaderCrossings": 0,
+    "blocksOutsideMargins": 0,
+    "zones": [
+      "bg:Labove0",
+      "grid:Rabove0",
+      "mark:Labove1",
+      "name:Rabove1",
+      "role:Lbelow0",
+      "contact:Rbelow0"
+    ]
+  },
+  "above 25": {
+    "offNormalDeg": 26.8,
+    "stackBox": [
+      121,
+      281.5,
+      262.2,
+      547.8
+    ],
+    "labels": 6,
+    "textPx": 12,
+    "minPitchInBlockHeights": 1.4,
+    "overlaps": 0,
+    "leaderCrossings": 0,
+    "blocksOutsideMargins": 0,
+    "zones": [
+      "bg:Labove0",
+      "grid:Rabove0",
+      "mark:Labove1",
+      "name:Rbelow1",
+      "role:Lbelow0",
+      "contact:Rbelow0"
+    ]
+  },
+  "near": {
+    "offNormalDeg": 16.6,
+    "stackBox": [
+      96.8,
+      220.1,
+      277.9,
+      603.6
+    ],
+    "labels": 6,
+    "textPx": 12,
+    "minPitchInBlockHeights": 1.4,
+    "overlaps": 0,
+    "leaderCrossings": 0,
+    "blocksOutsideMargins": 0,
+    "zones": [
+      "bg:Labove0",
+      "grid:Rabove0",
+      "mark:Labove1",
+      "name:Rabove1",
+      "role:Lbelow0",
+      "contact:Rbelow0"
+    ]
+  },
+  "far": {
+    "offNormalDeg": 16.6,
+    "stackBox": [
+      149.1,
+      326.7,
+      234.6,
+      512.4
+    ],
+    "labels": 6,
+    "textPx": 12,
+    "minPitchInBlockHeights": 1.4,
+    "overlaps": 0,
+    "leaderCrossings": 0,
+    "blocksOutsideMargins": 0,
+    "zones": [
+      "bg:Labove0",
+      "grid:Rabove0",
+      "mark:Labove1",
+      "name:Rabove1",
+      "role:Lbelow0",
+      "contact:Rbelow0"
+    ]
+  },
+  "at top edge": {
+    "offNormalDeg": 17,
+    "stackBox": [
+      121.9,
+      10.2,
+      257.3,
+      321.2
+    ],
+    "labels": 6,
+    "textPx": 12,
+    "minPitchInBlockHeights": 1.4,
+    "overlaps": 0,
+    "leaderCrossings": 0,
+    "blocksOutsideMargins": 0,
+    "zones": [
+      "bg:Lbelow0",
+      "grid:Rbelow0",
+      "mark:Lbelow2",
+      "name:Rbelow1",
+      "role:Lbelow1",
+      "contact:Rbelow2"
+    ]
+  },
+  "at bottom edge": {
+    "offNormalDeg": 30.8,
+    "stackBox": [
+      121.9,
+      522.9,
+      257.3,
+      801.7
+    ],
+    "labels": 6,
+    "textPx": 12,
+    "minPitchInBlockHeights": 1.4,
+    "overlaps": 0,
+    "leaderCrossings": 0,
+    "blocksOutsideMargins": 0,
+    "zones": [
+      "bg:Labove0",
+      "grid:Rabove0",
+      "mark:Labove1",
+      "name:Rabove1",
+      "role:Labove2",
+      "contact:Rabove2"
+    ]
+  },
+  "at left edge": {
+    "offNormalDeg": 5,
+    "stackBox": [
+      -14.8,
+      270,
+      122.9,
+      561.2
+    ],
+    "labels": 6,
+    "textPx": 12,
+    "minPitchInBlockHeights": 1.4,
+    "overlaps": 0,
+    "leaderCrossings": 0,
+    "blocksOutsideMargins": 0,
+    "zones": [
+      "bg:Labove0",
+      "grid:Labove1",
+      "mark:Rabove1",
+      "name:Rabove0",
+      "role:Lbelow0",
+      "contact:Rbelow0"
+    ]
+  },
+  "at right edge": {
+    "offNormalDeg": 5,
+    "stackBox": [
+      267.1,
+      270,
+      404.8,
+      561.2
+    ],
+    "labels": 6,
+    "textPx": 12,
+    "minPitchInBlockHeights": 1.4,
+    "overlaps": 0,
+    "leaderCrossings": 0,
+    "blocksOutsideMargins": 0,
+    "zones": [
+      "bg:Rabove1",
+      "grid:Rabove0",
+      "mark:Labove1",
+      "name:Labove0",
+      "role:Lbelow0",
+      "contact:Rbelow0"
+    ]
+  },
+  "top-left corner": {
+    "offNormalDeg": 21.8,
+    "stackBox": [
+      -33,
+      -18.4,
+      132.7,
+      341.3
+    ],
+    "labels": 6,
+    "textPx": 12,
+    "minPitchInBlockHeights": 1.4,
+    "overlaps": 0,
+    "leaderCrossings": 0,
+    "blocksOutsideMargins": 0,
+    "zones": [
+      "bg:Lbelow0",
+      "grid:Lbelow1",
+      "mark:Rbelow2",
+      "name:Rbelow0",
+      "role:Lbelow2",
+      "contact:Rbelow1"
+    ]
+  }
+}

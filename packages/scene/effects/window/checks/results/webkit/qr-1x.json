@@ -1,0 +1,58 @@
+[
+  {
+    "tilt": [
+      0,
+      0
+    ],
+    "t": 0,
+    "text": "https://example.com/k#r=demo"
+  },
+  {
+    "tilt": [
+      1,
+      1
+    ],
+    "t": 0,
+    "text": "https://example.com/k#r=demo"
+  },
+  {
+    "tilt": [
+      -1,
+      0.5
+    ],
+    "t": 0.7,
+    "text": "https://example.com/k#r=demo"
+  },
+  {
+    "tilt": [
+      0.3,
+      -1
+    ],
+    "t": 2.1,
+    "text": "https://example.com/k#r=demo"
+  },
+  {
+    "tilt": [
+      0,
+      0
+    ],
+    "t": 1.25,
+    "text": "https://example.com/k#r=demo"
+  },
+  {
+    "tilt": [
+      0,
+      0
+    ],
+    "t": 3.75,
+    "text": "https://example.com/k#r=demo"
+  },
+  {
+    "tilt": [
+      -1,
+      -1
+    ],
+    "t": 4.4,
+    "text": "https://example.com/k#r=demo"
+  }
+]

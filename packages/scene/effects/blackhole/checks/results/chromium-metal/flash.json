@@ -1,0 +1,98 @@
+{
+  "host-idle": {
+    "flashesPerSecond": 0,
+    "transitions": 0,
+    "minL": 0.0872,
+    "maxL": 0.0872
+  },
+  "host-connect": {
+    "flashesPerSecond": 0,
+    "transitions": 0,
+    "minL": 0.0606,
+    "maxL": 0.0872
+  },
+  "host-depart": {
+    "flashesPerSecond": 0,
+    "transitions": 0,
+    "minL": 0.009,
+    "maxL": 0.0607
+  },
+  "host-rebuild": {
+    "flashesPerSecond": 0,
+    "transitions": 0,
+    "minL": 0.009,
+    "maxL": 0.0872
+  },
+  "guest-unanchored-explode-on-white": {
+    "flashesPerSecond": 0,
+    "transitions": 1,
+    "minL": 0.4376,
+    "maxL": 0.862
+  },
+  "guest-unanchored-explode-on-black": {
+    "flashesPerSecond": 0,
+    "transitions": 0,
+    "minL": 0.0086,
+    "maxL": 0.0492
+  },
+  "guest-unanchored-fly-on-white": {
+    "flashesPerSecond": 0,
+    "transitions": 1,
+    "minL": 0.0427,
+    "maxL": 0.5294
+  },
+  "guest-unanchored-fly-on-black": {
+    "flashesPerSecond": 0,
+    "transitions": 0,
+    "minL": 0.0374,
+    "maxL": 0.0443
+  },
+  "guest-unanchored-assemble-on-white": {
+    "flashesPerSecond": 0,
+    "transitions": 0,
+    "minL": 0.0425,
+    "maxL": 0.0433
+  },
+  "guest-unanchored-assemble-on-black": {
+    "flashesPerSecond": 0,
+    "transitions": 0,
+    "minL": 0.0425,
+    "maxL": 0.0433
+  },
+  "guest-anchored-explode-on-white": {
+    "flashesPerSecond": 0,
+    "transitions": 1,
+    "minL": 0.5932,
+    "maxL": 1
+  },
+  "guest-anchored-explode-on-black": {
+    "flashesPerSecond": 0,
+    "transitions": 0,
+    "minL": 0,
+    "maxL": 0.0429
+  },
+  "guest-anchored-fly-on-white": {
+    "flashesPerSecond": 0,
+    "transitions": 1,
+    "minL": 0.0427,
+    "maxL": 0.5958
+  },
+  "guest-anchored-fly-on-black": {
+    "flashesPerSecond": 0,
+    "transitions": 0,
+    "minL": 0.0374,
+    "maxL": 0.044
+  },
+  "guest-anchored-assemble-on-white": {
+    "flashesPerSecond": 0,
+    "transitions": 0,
+    "minL": 0.0425,
+    "maxL": 0.0433
+  },
+  "guest-anchored-assemble-on-black": {
+    "flashesPerSecond": 0,
+    "transitions": 0,
+    "minL": 0.0425,
+    "maxL": 0.0433
+  }
+}

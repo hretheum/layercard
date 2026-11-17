@@ -1,0 +1,66 @@
+{
+  "firstRowBack": {
+    "bg": 0.22999999999999998,
+    "grid": 0.33,
+    "mark": 0.435,
+    "name": 0.535,
+    "role": 0.635,
+    "contact": 0.7350000000000001
+  },
+  "everyRowAtRest": {
+    "bg": 0.625,
+    "grid": 0.725,
+    "mark": 0.82,
+    "name": 0.9199999999999999,
+    "role": 1.02,
+    "contact": 1.1199999999999999
+  },
+  "orderFirstRow": [
+    "bg",
+    "grid",
+    "mark",
+    "name",
+    "role",
+    "contact"
+  ],
+  "orderAtRest": [
+    "bg",
+    "grid",
+    "mark",
+    "name",
+    "role",
+    "contact"
+  ],
+  "flatFrom": 1.5,
+  "qrFrom": 1.305,
+  "qrDone": 1.8,
+  "strongest": 1,
+  "strongestAt": 0.3,
+  "framesWithRing": 234,
+  "outlineGrewBack": 0,
+  "sharesNotOne": 0,
+  "departEndToRebuildStart": {
+    "mad": 0,
+    "max": 0,
+    "over8": 0,
+    "n": 1316640
+  },
+  "connectEndToDepartStart": {
+    "mad": 0,
+    "max": 0,
+    "over8": 0,
+    "n": 1316640
+  },
+  "rebuildEndToIdle": {
+    "mad": 0,
+    "max": 0,
+    "over8": 0,
+    "n": 1316640
+  },
+  "departEndToRebuildStartWithViewer": {
+    "mad": 0,
+    "max": 0,
+    "over8": 0,
+    "n": 1316640
+  }
+}

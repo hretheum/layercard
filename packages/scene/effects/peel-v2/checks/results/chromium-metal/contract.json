@@ -1,0 +1,106 @@
+{
+  "exportsSrc": [
+    "durations",
+    "mount",
+    "supported"
+  ],
+  "exportsDist": [
+    "durations",
+    "mount",
+    "supported"
+  ],
+  "supported": true,
+  "supportedDist": true,
+  "durations": {
+    "idle": 0,
+    "connect": 0.8,
+    "depart": 6.1000000000000005,
+    "rebuild": 1.5,
+    "explode": 6.1000000000000005,
+    "fly": 1.2,
+    "assemble": 1
+  },
+  "durationsPure": true,
+  "durationsDist": {
+    "idle": 0,
+    "connect": 0.8,
+    "depart": 6.1000000000000005,
+    "rebuild": 1.5,
+    "explode": 6.1000000000000005,
+    "fly": 1.2,
+    "assemble": 1
+  },
+  "durationsFourFlying": {
+    "idle": 0,
+    "connect": 0.8,
+    "depart": 5.3500000000000005,
+    "rebuild": 1.5,
+    "explode": 5.3500000000000005,
+    "fly": 1.2,
+    "assemble": 1
+  },
+  "hooksWithoutTestFlag": false,
+  "wrongRole": "peel: timeline \"explode\" does not belong to role \"host\"",
+  "where": {
+    "role": "host",
+    "timeline": "idle",
+    "t": 0
+  },
+  "events": [
+    {
+      "index": 5,
+      "id": "contact",
+      "phase": "leave"
+    },
+    {
+      "index": 4,
+      "id": "role",
+      "phase": "leave"
+    },
+    {
+      "index": 3,
+      "id": "name",
+      "phase": "leave"
+    },
+    {
+      "index": 2,
+      "id": "mark",
+      "phase": "leave"
+    },
+    {
+      "index": 1,
+      "id": "grid",
+      "phase": "leave"
+    },
+    {
+      "index": 0,
+      "id": "bg",
+      "phase": "leave"
+    },
+    {
+      "timeline": "depart"
+    }
+  ],
+  "replaceUnknown": "peel: no layer \"nope\"",
+  "badImage": "peel: cannot load layer image http://127.0.0.1:5274/examples/nowhere/layers/bg.png",
+  "badRole": "peel: opts.role must be host or guest",
+  "mountRequests": [
+    "/assets/peel-mono.woff2",
+    "/examples/jane-maker/layers/bg.png",
+    "/examples/jane-maker/layers/contact.png",
+    "/examples/jane-maker/layers/grid.png",
+    "/examples/jane-maker/layers/mark.png",
+    "/examples/jane-maker/layers/name.png",
+    "/examples/jane-maker/layers/qr.png",
+    "/examples/jane-maker/layers/role.png"
+  ],
+  "bundle": {
+    "imports": [
+      "three"
+    ],
+    "hasTestHooks": false,
+    "fontUrlLiteral": true,
+    "fontShipped": true,
+    "licence": true
+  }
+}
